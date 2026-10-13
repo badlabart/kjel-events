@@ -7,8 +7,8 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-TYPES = ["Date Night", "Girls Night", "Family", "Live Music", "School and Sports",
-         "Community and Causes", "Outdoors and Lake", "Holiday Events"]
+TYPES = ["Holiday Events", "Family", "Community and Causes", "Outdoors and Lake",
+         "School and Sports", "Date Night", "Girls Night", "Live Music"]
 
 def clean_time(t):
     t = re.sub(r"\s*(am|pm)\b", lambda m: " " + m.group(1).upper(), t.strip(), flags=re.I)
