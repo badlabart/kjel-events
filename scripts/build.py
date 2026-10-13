@@ -25,6 +25,9 @@ def minutes(t):
     return h * 60 + int(m.group(2))
 
 
+TOWN_FIX = {"St. Robert": "Saint Robert", "St Robert": "Saint Robert", "Eldridge.": "Eldridge"}
+
+
 raw = json.loads((ROOT / "data" / "raw_events.json").read_text())
 labels = json.loads((ROOT / "data" / "labels.json").read_text())
 
@@ -40,7 +43,7 @@ for e in raw["events"]:
     else:
         t = clean_time(e["time"])
         board.append({"title": e["title"], "date": e["date"], "time": t, "min": minutes(t), "place": e["place"],
-                      "town": e["town"], "url": e["url"], "link": "detail", "type": lab[0], "why": lab[1],
+                      "town": TOWN_FIX.get(e["town"], e["town"]), "url": e["url"], "link": "detail", "type": lab[0], "why": lab[1],
                       "source": e["source"]})
 
 data = {"updated": raw["collected"], "types": TYPES, "events": board}
