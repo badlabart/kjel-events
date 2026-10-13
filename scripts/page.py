@@ -79,7 +79,8 @@ def write(data):
                 f'<div class="when"><span>{when}</span></div>'
                 f'<div class="name">{esc(e["title"])}</div><div class="place">{place}</div>'
                 f'<div class="why">{esc(e["why"])}</div>'
-                f'<a class="link" href="{esc(e["url"])}" target="_blank" rel="noopener">{link}</a></div>')
+                + (f'<div class="why"><b>Style:</b> {esc(e["style"])}</div>' if e.get("style") else "")
+                + f'<a class="link" href="{esc(e["url"])}" target="_blank" rel="noopener">{link}</a></div>')
         body = "".join(cards) or '<div class="empty">Nothing listed yet.</div>'
         cols.append(f'<div class="col"><h2>{esc(typ)} <span class="count">{len(items)}</span></h2>{body}</div>')
 

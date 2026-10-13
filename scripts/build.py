@@ -43,7 +43,7 @@ for e in raw["events"]:
     else:
         t = clean_time(e["time"])
         board.append({"title": e["title"], "date": e["date"], "time": t, "min": minutes(t), "place": e["place"],
-                      "town": TOWN_FIX.get(e["town"], e["town"]), "url": e["url"], "link": "detail", "type": lab[0], "why": lab[1],
+                      "town": TOWN_FIX.get(e["town"], e["town"]), "url": e["url"], "link": "detail", "type": lab[0], "why": lab[1], "style": lab[2] if len(lab) > 2 else "",
                       "source": e["source"]})
 
 data = {"updated": raw["collected"], "types": TYPES, "events": board}
