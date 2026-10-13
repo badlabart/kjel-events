@@ -1,6 +1,6 @@
-# Held back — 2026-10-13T15:07
+# Held back — 2026-10-13T16:09
 
-41 events not on the board.
+39 events not on the board.
 
 - 2026-10-22 · Lebanon City Council Meeting · Lebanon · event title not found on its detail page · https://www.lebanonmissouri.org/calendar.aspx?EID=3529
 - 2026-10-13 · City Council Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4632
@@ -17,7 +17,6 @@
 - 2026-11-18 · November 2026 Friendsgiving Luncheon · Waynesville · not a public event (meeting/closure/business) · https://waynesville-strobertchamber.glueup.com/event/165906
 - 2026-12-07 · City Council Work Session · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4626
 - 2026-12-09 · December 2026 Luncheon · Waynesville · not a public event (meeting/closure/business) · https://waynesville-strobertchamber.glueup.com/event/165907
-- 2026-10-13 · Home School Art Classes · Lebanon · not picked for the board · https://www.visitlebanonmo.org/events/2020/home-school-art-classes222272222
 - 2026-10-13 · SOTO Joe Community Coffee Drive-Up · Osage Beach · not picked for the board · https://www.lakeexpo.com/calendar/upcoming_events/soto-joe-community-coffee-drive-up/event_fe236aa4-b547-41c7-a97f-ed28558dcd27.html
 - 2026-10-13 · Lake Area Chamber Networking Social @ LakeDays Rentals Powered by Casago · Lake Area · not picked for the board · https://www.lakeexpo.com/calendar/upcoming_events/lake-area-chamber-networking-social-lakedays-rentals-powered-by-casago/event_128b2d2a-71a5-4a57-84c3-c6a6be0a1e79.html
 - 2026-10-14 · A Season in the Hives: Natural Beekeeping Mentorship · Lebanon · not picked for the board · https://www.visitlebanonmo.org/events/2020/a-season-in-the-hives-natuaral-beekeeping-mentorship22322
@@ -36,7 +35,6 @@
 - 2026-10-29 · Lake Area Chamber Annual Fall Dinner & Awards · Osage Beach · not picked for the board · https://www.lakeexpo.com/calendar/upcoming_events/lake-area-chamber-annual-fall-dinner-awards/event_ed72dbec-66dc-4062-9874-08588f269961.html
 - 2026-11-01 · Healing Services At New Revival Center · Versailles · not picked for the board · https://www.lakeexpo.com/calendar/upcoming_events/healing-services-at-new-revival-center/event_8f48e364-1da5-11e9-8348-670f6b36762e.html
 - 2026-11-03 · Season of Savings Passport · Saint Robert · not picked for the board · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793692800&custom_date_end=1793750340
-- 2026-11-03 · Learn to sew a trivet · St. Robert · not picked for the board · https://visitpulaskicounty.org/calendar-of-events/?event=17965
 - 2026-11-06 · Lifeguard Training · Fort Leonard Wood · not picked for the board · https://visitpulaskicounty.org/calendar-of-events/?event=17991
 - 2026-11-13 · Texas Hold'em · Fort Leonard Wood · not picked for the board · https://visitpulaskicounty.org/calendar-of-events/?event=17975&custom_date_start=1794592800&custom_date_end=1794600000
 - 2026-11-14 · Winter Tour · Fort Leonard Wood · not picked for the board · https://visitpulaskicounty.org/calendar-of-events/?event=17989
