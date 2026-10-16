@@ -12,6 +12,11 @@ ROOT = Path(__file__).resolve().parent.parent
 
 CSS = """
 body{margin:0;background:#0A2A50;color:#0A2A50;font-family:Arial,Helvetica,sans-serif;font-size:15px}
+.bar{background:#FDB913;padding:8px 18px;font-size:14px;color:#0A2A50}
+.bar label{font-weight:bold;margin-right:8px}
+.bar input{font-size:15px;padding:5px 8px;border:1px solid #0A2A50;width:180px;color:#0A2A50;background:#FFFFFF}
+.bar a{color:#0A2A50;font-weight:bold;margin-left:10px}
+.bar span{margin-left:12px;font-weight:bold}
 .top{background:#FFFFFF;border-bottom:5px solid #FDB913;padding:10px 18px}
 .logo{font-style:italic;font-weight:bold;font-size:28px;display:inline-block;vertical-align:middle;margin-right:14px}
 .star{color:#FDB913;font-style:normal}.call{color:#D0101F}
@@ -33,7 +38,7 @@ body{margin:0;background:#0A2A50;color:#0A2A50;font-family:Arial,Helvetica,sans-
 """
 
 # ES3 only: no let/const, arrow functions, classList, or dataset.
-JS = """
+JS = r"""
 (function(){
   function p(n){return (n<10?'0':'')+n;}
   function iso(d){return d.getFullYear()+'-'+p(d.getMonth()+1)+'-'+p(d.getDate());}
@@ -45,7 +50,7 @@ JS = """
     for(var j=0;j<cards.length;j++){
       var c=cards[j]; if(c.className.indexOf('card')!==0) continue;
       var d=c.getAttribute('data-date');
-      if(d<today){c.style.display='none';continue;}
+      if(d<today){c.style.display='none';c.setAttribute('data-past','1');continue;}
       shown++; total++;
       var w=c.getElementsByTagName('span')[0];
       var dl=c.getAttribute('data-label'), tm=c.getAttribute('data-time'), tail=(dl?' &middot; '+dl:'')+(tm?' &middot; '+tm:'');
@@ -55,6 +60,23 @@ JS = """
     var b=cols[i].getElementsByTagName('span')[0]; if(b) b.innerHTML=shown;
   }
   var m=document.getElementById('live'); if(m) m.innerHTML=todayCount+' today &middot; '+total+' upcoming &middot; ';
+  function pad2(q){return q.replace(/(^|\/)(\d)(?=\/|$)/g,'$10$2');}
+  window.kjelSearch=function(){
+    var q=document.getElementById('q').value.replace(/^\s+|\s+$/g,'').replace(/[-.\s]/g,'/').replace(/\/(\d\d)(\d\d)$/,'/$2');
+    var qp=pad2(q), shownAll=0, divs=document.getElementsByTagName('div');
+    for(var i=0;i<divs.length;i++){
+      if(divs[i].className!=='col') continue;
+      var cs=divs[i].getElementsByTagName('div'), n=0;
+      for(var j=0;j<cs.length;j++){
+        var c=cs[j]; if(c.className.indexOf('card')!==0 || c.getAttribute('data-past')) continue;
+        var lb=c.getAttribute('data-label'), ok=(!q)||lb.indexOf(q)===0||lb.indexOf(qp)===0;
+        c.style.display=ok?'':'none'; if(ok){n++;shownAll++;}
+      }
+      var b=divs[i].getElementsByTagName('span')[0]; if(b) b.innerHTML=n;
+    }
+    var msg=document.getElementById('msg');
+    if(msg) msg.innerHTML=q?(shownAll+(shownAll===1?' event':' events')+' on dates starting '+q):'';
+  };
 })();
 """
 
@@ -92,6 +114,7 @@ def write(data):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>KJEL Event Board</title><style>{CSS}</style></head>
 <body>
+<div class="bar"><label for="q">Search by date</label><input id="q" type="text" maxlength="10" onkeyup="kjelSearch()" oninput="kjelSearch()" onchange="kjelSearch()"><a href="#" onclick="document.getElementById('q').value='';kjelSearch();return false;">clear</a><span id="msg"></span></div>
 <div class="top"><div class="logo">103<span class="star">&#9733;</span>7 <span class="call">KJEL</span></div>
 <div class="hd"><div class="title">Local Event Board</div>
 <div class="meta"><span id="live"></span>updated {esc(updated)}</div></div></div>
