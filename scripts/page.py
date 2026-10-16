@@ -61,7 +61,7 @@ JS = """
 
 def label(iso):
     y, m, d = map(int, iso.split("-"))
-    return date(y, m, d).strftime("%a, %b %-d").upper()
+    return date(y, m, d).strftime("%m/%d/%y")
 
 
 def write(data):
