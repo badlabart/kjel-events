@@ -48,8 +48,9 @@ JS = """
       if(d<today){c.style.display='none';continue;}
       shown++; total++;
       var w=c.getElementsByTagName('span')[0];
-      if(d===today){c.className='card today';todayCount++; if(w) w.innerHTML='TODAY'+(c.getAttribute('data-time')?' &middot; '+c.getAttribute('data-time'):'');}
-      else if(d===tmr && w){w.innerHTML='TOMORROW'+(c.getAttribute('data-time')?' &middot; '+c.getAttribute('data-time'):'');}
+      var dl=c.getAttribute('data-label'), tm=c.getAttribute('data-time'), tail=(dl?' &middot; '+dl:'')+(tm?' &middot; '+tm:'');
+      if(d===today){c.className='card today';todayCount++; if(w) w.innerHTML='TODAY'+tail;}
+      else if(d===tmr && w){w.innerHTML='TOMORROW'+tail;}
     }
     var b=cols[i].getElementsByTagName('span')[0]; if(b) b.innerHTML=shown;
   }
@@ -75,7 +76,7 @@ def write(data):
             place = f'<span class="town">{esc(e["town"])}</span>{esc(e["place"])}'
             link = "Details &#8599;" if e["link"] == "detail" else "On list page &#8599;"
             cards.append(
-                f'<div class="card" data-date="{e["date"]}" data-time="{esc(e["time"])}">'
+                f'<div class="card" data-date="{e["date"]}" data-label="{label(e["date"])}" data-time="{esc(e["time"])}">'
                 f'<div class="when"><span>{when}</span></div>'
                 f'<div class="name">{esc(e["title"])}</div><div class="place">{place}</div>'
                 f'<div class="why">{esc(e["why"])}</div>'
