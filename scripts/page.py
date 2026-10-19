@@ -112,11 +112,11 @@ def write(data):
 <html lang="en"><head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>KJEL Event Board</title><style>{CSS}</style></head>
+<title>Events</title><style>{CSS}</style></head>
 <body>
 <div class="bar"><label for="q">Search by date</label><input id="q" type="text" maxlength="10" onkeyup="kjelSearch()" oninput="kjelSearch()" onchange="kjelSearch()"><a href="#" onclick="document.getElementById('q').value='';kjelSearch();return false;">clear</a><span id="msg"></span></div>
 <div class="top"><div class="logo">103<span class="star">&#9733;</span>7 <span class="call">KJEL</span></div>
-<div class="hd"><div class="title">Local Event Board</div>
+<div class="hd"><div class="title">Events</div>
 <div class="meta"><span id="live"></span>updated {esc(updated)}</div></div></div>
 <div class="board">{"".join(cols)}</div>
 <script>{JS}</script>
