@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="no-cache">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Events</title><style>
 body{margin:0;background:#0A2A50;color:#0A2A50;font-family:Arial,Helvetica,sans-serif;font-size:15px}
@@ -21,6 +22,7 @@ body{margin:0;background:#0A2A50;color:#0A2A50;font-family:Arial,Helvetica,sans-
 .card{background:#FFFFFF;border:1px solid #C9CFD8;border-radius:8px;padding:8px 10px;margin-bottom:8px}
 .card.today{background:#FFF1C2;border-color:#FDB913}
 .when{font-size:12px;font-weight:bold;color:#D0101F}
+.rel{color:#0A7D3C;font-size:13px;letter-spacing:.3px}
 .name{font-weight:bold;font-size:14px;margin:3px 0 2px}
 .place{font-size:13px;color:#33445C}
 .town{background:#0A2A50;color:#FFFFFF;font-size:11px;font-weight:bold;padding:1px 6px;border-radius:3px;margin-right:4px}
@@ -60,11 +62,11 @@ body{margin:0;background:#0A2A50;color:#0A2A50;font-family:Arial,Helvetica,sans-
       var w=c.getElementsByTagName('span')[0];
       var dl=c.getAttribute('data-label'), tm=c.getAttribute('data-time'), tail=(dl?' &middot; '+dl:'')+(tm?' &middot; '+tm:'');
       var keep=c.getAttribute('data-keep');
-      if(d===today){c.className='card today';todayCount++; if(w && !keep) w.innerHTML='TODAY'+tail;}
-      else if(d===tmr && w && !keep){w.innerHTML='TOMORROW'+tail;}
+      if(d===today){c.className='card today';todayCount++; if(w && !keep) w.innerHTML='<span class="rel">TODAY</span>'+tail;}
+      else if(d===tmr && w && !keep){w.innerHTML='<span class="rel">TOMORROW</span>'+tail;}
       else if(w){
-        if(!keep){w.innerHTML=dl+' &middot; '+rel(d)+(tm?' &middot; '+tm:'');}
-        else{w.innerHTML=w.innerHTML.replace(/^(\d\d\/\d\d\/\d\d)(\s*\S\s*\d\d\/\d\d\/\d\d)?/,function(x){return x+' &middot; '+rel(d);});}
+        if(!keep){w.innerHTML=dl+' &middot; <span class="rel">'+rel(d)+'</span>'+(tm?' &middot; '+tm:'');}
+        else{w.innerHTML=w.innerHTML.replace(/^(\d\d\/\d\d\/\d\d)(\s*\S\s*\d\d\/\d\d\/\d\d)?/,function(x){return x+' &middot; <span class="rel">'+rel(d)+'</span>';});}
       }
     }
     var b=cols[i].getElementsByTagName('span')[0]; if(b) b.innerHTML=shown;
