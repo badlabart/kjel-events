@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-TYPES = ["Holiday Events", "Meetups", "Family", "Community and Causes", "Outdoors and Lake",
+TYPES = ["Holiday Events", "KIM ONLY", "Family", "Community and Causes", "Outdoors and Lake",
          "School and Sports", "Date Night", "Girls Night", "Live Music"]
 
 def clean_time(t):
@@ -59,6 +59,6 @@ import sys  # noqa: E402
 sys.path.insert(0, str(ROOT / "scripts"))
 import page  # noqa: E402
 meetups = json.loads((ROOT / "data" / "meetups.json").read_text())["meetups"]
-page_data = dict(data, events=data["events"] + [dict(m, type="Meetups", style="", source="Meetups") for m in meetups])
+page_data = dict(data, events=data["events"] + [dict(m, type="KIM ONLY", style="", source="Meetups") for m in meetups])
 page.write(page_data)
 print("page written: docs/index.html")
