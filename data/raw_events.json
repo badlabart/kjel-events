@@ -1,575 +1,7 @@
 {
- "collected": "2026-10-13T16:09",
+ "collected": "2026-10-19T09:31",
  "errors": {},
  "events": [
-  {
-   "source": "Visit Lebanon",
-   "title": "Home School Art Classes",
-   "date": "2026-10-13",
-   "time": "",
-   "place": "Lebanon Art Guild",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/home-school-art-classes222272222",
-   "desc": "Homeschool Art Classes at the Lebanon Art Guild offer hands-on art education for kids and teens ages 5\u201317. Classes meet on the second and fourth Tuesdays..",
-   "verified": true,
-   "id": "visi-2026-10-13-home-school-art-classes"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "LEGO Club",
-   "date": "2026-10-13",
-   "time": "3:00 PM - 5:00 PM",
-   "place": "Lebanon-Laclede County Library",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/lego-club2452322222224322422322325222262222232222322222222223222233223223222222422222322222222323322(2)",
-   "desc": "This event will be held from 3pm-5pm in the Storytime room. The Lego Club will primarily be a self-led program where kids can follow an instruction sheet or build something from their imagination.",
-   "verified": true,
-   "id": "visi-2026-10-13-lego-club"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Midnight Meow Sip & Paint Class",
-   "date": "2026-10-13",
-   "time": "6:00 PM",
-   "place": "Caf\u00e9 Judes",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/midnight-meow-sip-and-paint-class-flyer-with-black-cat-stars-qr-code-oct-13-at-6-pm",
-   "desc": "Create a festive black cat painting at this Halloween-themed Sip & Paint class on October 13 at 6:00 PM. Register now and enjoy a fun evening of creativity.",
-   "verified": true,
-   "id": "visi-2026-10-13-midnight-meow-sip-paint-class"
-  },
-  {
-   "source": "City of Lebanon",
-   "title": "City Council Meeting",
-   "date": "2026-10-13",
-   "time": "6:30 PM",
-   "place": "",
-   "town": "Lebanon",
-   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4632",
-   "desc": "",
-   "verified": false,
-   "id": "city-2026-10-13-city-council-meeting",
-   "why_held": "not a public event (meeting/closure/business)"
-  },
-  {
-   "source": "City of Lebanon",
-   "title": "Lebanon City Council Work Session",
-   "date": "2026-10-13",
-   "time": "6:00 PM",
-   "place": "Stanley H. Allen Council Chambers",
-   "town": "Lebanon",
-   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4254",
-   "desc": "",
-   "verified": false,
-   "id": "city-2026-10-13-lebanon-city-council-work-session",
-   "why_held": "not a public event (meeting/closure/business)"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "SOTO Joe Community Coffee Drive-Up",
-   "date": "2026-10-13",
-   "time": "8:00 am \u2013 9:00 am",
-   "place": "School of the Osage Middle School",
-   "town": "Osage Beach",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/soto-joe-community-coffee-drive-up/event_fe236aa4-b547-41c7-a97f-ed28558dcd27.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-13-soto-joe-community-coffee-drive-up"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Lake Area Chamber Networking Social @ LakeDays Rentals Powered by Casago",
-   "date": "2026-10-13",
-   "time": "5:00 pm",
-   "place": "",
-   "town": "Lake Area",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/lake-area-chamber-networking-social-lakedays-rentals-powered-by-casago/event_128b2d2a-71a5-4a57-84c3-c6a6be0a1e79.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-13-lake-area-chamber-networking-social-la"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "A Season in the Hives: Natural Beekeeping Mentorship",
-   "date": "2026-10-14",
-   "time": "9:00 AM - 12:00 PM",
-   "place": "Sun and Bloom Farms",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/a-season-in-the-hives-natuaral-beekeeping-mentorship22322",
-   "desc": "Step into the living world of the hive. This is a hands-on, seasonal mentorship designed to help you truly understand beekeeping\u2014not just as a practice, but as a relationship with land, ecology, and the bees themselves. Registration required.",
-   "verified": true,
-   "id": "visi-2026-10-14-a-season-in-the-hives-natural-beekeepin"
-  },
-  {
-   "source": "City of Lebanon",
-   "title": "Lebanon Park Board",
-   "date": "2026-10-14",
-   "time": "12:00 PM",
-   "place": "Stanley H. Allen Council Chambers",
-   "town": "Lebanon",
-   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=3997",
-   "desc": "",
-   "verified": false,
-   "id": "city-2026-10-14-lebanon-park-board",
-   "why_held": "not a public event (meeting/closure/business)"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Magic the Gathering Casual Commander night",
-   "date": "2026-10-14",
-   "time": "5:00pm - 11:00pm",
-   "place": "BK Games",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1791997200&custom_date_end=1792018800",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-14-magic-the-gathering-casual-commander-nig"
-  },
-  {
-   "source": "Waynesville-St. Robert Chamber",
-   "title": "October 2026 Luncheon",
-   "date": "2026-10-14",
-   "time": "11:30 AM - 01:00 PM",
-   "place": "Humboldt 1854 Event Venue",
-   "town": "Waynesville",
-   "url": "https://waynesville-strobertchamber.glueup.com/event/165905",
-   "desc": "",
-   "verified": false,
-   "id": "wayn-2026-10-14-october-2026-luncheon",
-   "why_held": "not a public event (meeting/closure/business)"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: PiYo",
-   "date": "2026-10-14",
-   "time": "6:45 am \u2013 7:45 am",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-piyo/event_c678fe52-9c27-4b30-8623-c7d9ee77951c.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-14-spa-kyoto-fitness-the-lodge-of-four-se"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Water Aerobics",
-   "date": "2026-10-14",
-   "time": "8:30 am \u2013 9:30 am",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-water-aerobics/event_7b1a38f4-7d7c-4d96-bc49-5a5c7e47ddcf.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-14-spa-kyoto-fitness-the-lodge-of-four-se"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Xtreme Bingo @ Horny Toad's/Camden on the Lake",
-   "date": "2026-10-14",
-   "time": "6:00 pm",
-   "place": "Horny Toad",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/xtreme-bingo-horny-toads-camden-on-the-lake/event_cdeec1c0-36e7-477c-83a8-8f46bdd2b164.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-14-xtreme-bingo-horny-toad-s-camden-on-th"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Taste of Oktober",
-   "date": "2026-10-15",
-   "time": "5:00 PM - 8:00 PM",
-   "place": "Lebanon Agricultural Legacy Center",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/taste-of-oktober222",
-   "desc": "Join us for an evening of Oktoberfest music, drink, games, raffles, auction, & fun! Fundraiser for Project 360 Youth Services, serving homeless and at-risk teens. Food supplied by restaurants in the Lebanon area so you can \"taste\" many delights.",
-   "verified": true,
-   "id": "visi-2026-10-15-taste-of-oktober"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Cars N Coffee Trunk or Treat",
-   "date": "2026-10-15",
-   "time": "5:00 PM - 8:00 PM",
-   "place": "The Market",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/cars-n-coffee-trunk-or-treat",
-   "desc": "Enjoy an evening of classic cars, hot rods, food trucks, and family-friendly trunk-or-treat fun. All makes and models are welcome.",
-   "verified": true,
-   "id": "visi-2026-10-15-cars-n-coffee-trunk-or-treat"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Grave Robbing and the Eerie Underside of Medical History",
-   "date": "2026-10-15",
-   "time": "6:00 PM - 7:00 PM",
-   "place": "Lebanon-Laclede County Library",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/grave-robbing-and-the-eerie-underside-of-medical-history",
-   "desc": "During the presentation, Dr. Smith will delve into the growth of the \u201cbody snatching\u201d industry in response to the professionalization of medical training, which included human dissection\u2014and created a shortage of cadavers.",
-   "verified": true,
-   "id": "visi-2026-10-15-grave-robbing-and-the-eerie-underside-of"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Thursday Night Pool Tournament",
-   "date": "2026-10-15",
-   "time": "6:00pm - 1:30am",
-   "place": "Club Rodeo Midway",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17779&custom_date_start=1792087200&custom_date_end=1792027800",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-15-thursday-night-pool-tournament"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Music Bingo @ Olde Oak Station Event Venue",
-   "date": "2026-10-15",
-   "time": "6:00pm - 9:00pm",
-   "place": "Olde Oak Station Event Venue",
-   "town": "Dixon",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17939&custom_date_start=1792087200&custom_date_end=1792098000",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-15-music-bingo-olde-oak-station-event-ven"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "The Encore - Live Music by Zach Simpson",
-   "date": "2026-10-15",
-   "time": "6:30 pm",
-   "place": "The Encore Lakeside Grill & Sky Bar",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-zach-simpson/event_6dc87958-cdc7-449a-ac27-cca78ca93c1e.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-15-the-encore-live-music-by-zach-simpson"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Spools & Needles Group",
-   "date": "2026-10-15",
-   "time": "10:00 am \u2013 2:00 pm",
-   "place": "Camden County Museum",
-   "town": "Linn Creek",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spools-needles-group/event_98f5157c-d7a0-11e8-ab79-f773550c4324.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-15-spools-needles-group"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Pinktober - Dine for a Cause at HK's!",
-   "date": "2026-10-15",
-   "time": "",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/pinktober---dine-for-a-cause-at-hks/event_309f9068-e213-4d7b-b354-8ada22cd7f7f.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-15-pinktober-dine-for-a-cause-at-hk-s"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Friday Storytime",
-   "date": "2026-10-16",
-   "time": "10:00 AM - 11:00 AM",
-   "place": "Lebanon-Laclede County Library",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/friday-storytime22",
-   "desc": "In Storytime, we sing songs, read a few books, make a craft and have snack. Friday Storytime will cover the same theme as Wednesday and Thursday. This program is typically geared towards children of all ages.",
-   "verified": true,
-   "id": "visi-2026-10-16-friday-storytime"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Teen Event: Spooky Library Lock-In",
-   "date": "2026-10-16",
-   "time": "4:30 PM - 9:00 PM",
-   "place": "Lebanon-Laclede County Library",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/teen-event-spooky-library-lock-in",
-   "desc": "Teens ages 12-17 are invited to join us for a very special (very spooky) Library Lock-In. We'll have games, crafts, movies, plenty of prizes, tons of activities, and fun- plus a Halloween theme to get you in the holiday spirit. Registration Required.",
-   "verified": true,
-   "id": "visi-2026-10-16-teen-event-spooky-library-lock-in"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "CPR & First Aid",
-   "date": "2026-10-16",
-   "time": "10:00am - 12:00pm",
-   "place": "The Rec Plex",
-   "town": "Fort Leonard Wood",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17992",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-16-cpr-first-aid"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "The Haunted River Float at Ruby's Landing River Resort",
-   "date": "2026-10-16",
-   "time": "3:00pm - 12:00am",
-   "place": "Ruby's Landing River Resort",
-   "town": "Waynesville",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17721&custom_date_start=1792162800&custom_date_end=1792108800",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-16-the-haunted-river-float-at-ruby-s-landin"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Oktoberfest",
-   "date": "2026-10-16",
-   "time": "4:00pm - 9:00pm",
-   "place": "Colyer Park",
-   "town": "Fort Leonard Wood",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17978",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-16-oktoberfest"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Support Partner in Pink Events this Pinktober!",
-   "date": "2026-10-16",
-   "time": "12:00 am",
-   "place": "",
-   "town": "Lake Area",
-   "url": "https://www.lakeexpo.com/calendar/charity/support-partner-in-pink-events-this-pinktober/event_b639fecb-7b0a-4e69-85ec-788125733254.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-16-support-partner-in-pink-events-this-pink"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Apple Butter Days & Fall Festival @ The Camden County Museum",
-   "date": "2026-10-16",
-   "time": "9:00 am \u2013 4:00 pm",
-   "place": "Camden County Museum",
-   "town": "Linn Creek",
-   "url": "https://www.lakeexpo.com/calendar/family_friendly/apple-butter-days-fall-festival-the-camden-county-museum/event_914e8ba3-9f56-4c2d-8226-b89a0b714a2b.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-16-apple-butter-days-fall-festival-the"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "4th Annual Pink-Out Party!",
-   "date": "2026-10-16",
-   "time": "5:30 pm",
-   "place": "The Encore Lakeside Grill & Sky Bar",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/charity/4th-annual-pink-out-party/event_7cb1f3ed-b2b6-42f4-9371-a095618f1c99.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-16-4th-annual-pink-out-party"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "The Encore - Live Music by Soulroot",
-   "date": "2026-10-16",
-   "time": "8:00 pm \u2013 12:00 am",
-   "place": "The Encore Lakeside Grill & Sky Bar",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-soulroot/event_49c2d9a4-ea13-41e0-91c0-1f1a39e25242.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-16-the-encore-live-music-by-soulroot"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Lebanon Farmers Market",
-   "date": "2026-10-17",
-   "time": "8:00 AM - 1:00 PM",
-   "place": "The Market",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/lebanon-farmers-market(343)",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-17-lebanon-farmers-market"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "2026 Lebanon Fall Boutique Crawl",
-   "date": "2026-10-17",
-   "time": "9:00 AM - 4:00 PM",
-   "place": "Downtown Lebanon",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/2026-spring-lebanon-boutique-crawl2",
-   "desc": "Join us for the Lebanon shopping Experience this Fall at the 2026 Lebanon Fall Boutique Crawl! Grab a map at any of the participating Boutiques and make your way to each one on the map. Grab goodies from gifts to clothing and even sweet treats.",
-   "verified": true,
-   "id": "visi-2026-10-17-2026-lebanon-fall-boutique-crawl"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Kids Fall Poetry Festival with the Lebanon Poet Society",
-   "date": "2026-10-17",
-   "time": "12:30 PM - 3:30 PM",
-   "place": "Lebanon-Laclede County Library",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/kids-fall-poetry-festival-with-the-lebanon-poet-society",
-   "desc": "Children grades 4-8 are invited to explore the wonderful world of poetry through engaging and creative activities during the Kids Fall Poetry Festival at the library! Registration is required.",
-   "verified": true,
-   "id": "visi-2026-10-17-kids-fall-poetry-festival-with-the-leban"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Bennett Spring October Programs: Nature's Poison",
-   "date": "2026-10-17",
-   "time": "2:00 PM - 3:00 PM",
-   "place": "Bennett Spring State Park",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/bennett-spring-october-programs-natures-poison",
-   "desc": "Nature\u2019s Poison explores the differences between poison and venom while highlighting plants and animals that can be harmful to humans.",
-   "verified": true,
-   "id": "visi-2026-10-17-bennett-spring-october-programs-nature"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Boat Town Brewing Presents: Haley Powers",
-   "date": "2026-10-17",
-   "time": "7:00 PM - 9:00 PM",
-   "place": "Boat Town Brewing",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/boat-town-brewing-presents-jake-clark232322222542",
-   "desc": "Boat Town Brewing presents Haley Powers live. Come out for great entertainment, drinks, and pizza!",
-   "verified": true,
-   "id": "visi-2026-10-17-boat-town-brewing-presents-haley-powers"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Pulaski County Farmers Market",
-   "date": "2026-10-17",
-   "time": "8:00am - 12:00pm",
-   "place": "Pulaski County Farmers Market Farmers Market Pavilion",
-   "town": "Pulaski County",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17821&custom_date_start=1792224000&custom_date_end=1792238400",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-17-pulaski-county-farmers-market"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Old Stagecoach Stop Museum",
-   "date": "2026-10-17",
-   "time": "10:00am - 4:00pm",
-   "place": "106 Lynn Street",
-   "town": "Waynesville",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17858&custom_date_start=1792231200&custom_date_end=1792252800",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-17-old-stagecoach-stop-museum"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Pulaski County 1903 Historic Courthouse Museum",
-   "date": "2026-10-17",
-   "time": "11:00am - 4:00pm",
-   "place": "Pulaski County 1903 Historic Courthouse Museum",
-   "town": "Waynesville",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17617&custom_date_start=1792234800&custom_date_end=1792252800",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-17-pulaski-county-1903-historic-courthouse"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Faithful Fork Trunk or Treat",
-   "date": "2026-10-17",
-   "time": "5:00pm - 8:00pm",
-   "place": "Faithful Fork",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17970",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-17-faithful-fork-trunk-or-treat"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Fall Fest @ Doctor's Lawn & Landscape!",
-   "date": "2026-10-17",
-   "time": "8:00 am \u2013 4:00 pm",
-   "place": "Doctor's Lawn & Landscape",
-   "town": "Sunrise Beach",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/fall-fest-doctors-lawn-landscape/event_34a93fe5-ac03-4bbb-9812-44c116f76465.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-17-fall-fest-doctor-s-lawn-landscape"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Republican Club Patriot Dinner & Auction With Keynote Speaker KrisAnne Hall",
-   "date": "2026-10-17",
-   "time": "5:00 pm \u2013 6:00 pm",
-   "place": "",
-   "town": "Lake Area",
-   "url": "https://www.lakeexpo.com/calendar/republican-club-patriot-dinner-auction-with-keynote-speaker-krisanne-hall/event_53262e6a-1af7-4151-824e-be077cc78467.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-17-republican-club-patriot-dinner-auction"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Sunrise Yoga",
-   "date": "2026-10-17",
-   "time": "9:00 am \u2013 10:00 am",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-sunrise-yoga/event_16070cd2-c359-48c9-ba60-51aeac3da277.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-17-spa-kyoto-fitness-the-lodge-of-four-se"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Lake of the Ozarks Oktoberfest at The Sanctuary Brewery",
-   "date": "2026-10-17",
-   "time": "10:00 am",
-   "place": "The Sanctuary Brewery",
-   "town": "Osage Beach",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/lake-of-the-ozarks-oktoberfest-at-the-sanctuary-brewery/event_ddc9116e-cd6f-4a1f-a913-ca5122930699.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-17-lake-of-the-ozarks-oktoberfest-at-the-sa"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Backwater Jack's - Live Music by Bryan Copeland",
-   "date": "2026-10-17",
-   "time": "5:00 pm \u2013 9:00 pm",
-   "place": "Backwater Jack's Bar And Grill",
-   "town": "Osage Beach",
-   "url": "https://www.lakeexpo.com/calendar/live_entertainment/backwater-jacks---live-music-by-bryan-copeland/event_84b3c95c-d517-4782-8366-e01a51e5000c.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-17-backwater-jack-s-live-music-by-bryan-c"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "H. Toad's Bloody Mary Bar",
-   "date": "2026-10-17",
-   "time": "9:00 am \u2013 1:00 pm",
-   "place": "Horny Toad",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-17-h-toad-s-bloody-mary-bar"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Fall Festival At Missouri Forget-Me-Not Horse Rescue",
-   "date": "2026-10-17",
-   "time": "11:00 am \u2013 3:00 pm",
-   "place": "Missouri Forget Me Not Horse Rescue and Sanctuary",
-   "town": "Linn Creek",
-   "url": "https://www.lakeexpo.com/calendar/fall-festival-at-missouri-forget-me-not-horse-rescue/event_85625ecf-33e8-4cb4-bf2b-37317e18c736.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-17-fall-festival-at-missouri-forget-me-not"
-  },
   {
    "source": "City of Lebanon",
    "title": "Golf Course Advisory Board",
@@ -596,6 +28,18 @@
    "id": "lake-2026-10-19-miller-county-town-hall-general-electi"
   },
   {
+   "source": "Lake Expo",
+   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: PiYo",
+   "date": "2026-10-19",
+   "time": "6:45 am \u2013 7:45 am",
+   "place": "Lodge of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-piyo/event_c678fe52-9c27-4b30-8623-c7d9ee77951c.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-19-spa-kyoto-fitness-the-lodge-of-four-se"
+  },
+  {
    "source": "City of Lebanon",
    "title": "Lebanon-Laclede County Library Board Meeting",
    "date": "2026-10-20",
@@ -607,6 +51,18 @@
    "verified": false,
    "id": "city-2026-10-20-lebanon-laclede-county-library-board-mee",
    "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Support Partner in Pink Events this Pinktober!",
+   "date": "2026-10-20",
+   "time": "4:00 pm",
+   "place": "",
+   "town": "Lake Area",
+   "url": "https://www.lakeexpo.com/calendar/charity/support-partner-in-pink-events-this-pinktober/event_b639fecb-7b0a-4e69-85ec-788125733254.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-20-support-partner-in-pink-events-this-pink"
   },
   {
    "source": "City of Lebanon",
@@ -622,6 +78,18 @@
    "why_held": "not a public event (meeting/closure/business)"
   },
   {
+   "source": "Visit Pulaski County",
+   "title": "Magic the Gathering Casual Commander night",
+   "date": "2026-10-21",
+   "time": "5:00pm - 11:00pm",
+   "place": "BK Games",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1792602000&custom_date_end=1792623600",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-21-magic-the-gathering-casual-commander-nig"
+  },
+  {
    "source": "Lake Expo",
    "title": "StoryTime at Forget Me Not Horse Rescue & Sanctuary",
    "date": "2026-10-21",
@@ -632,6 +100,43 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-10-21-storytime-at-forget-me-not-horse-rescue"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Bringing Philanthropy Home to the Ozarks: A Participatory Workshop for Advisors",
+   "date": "2026-10-21",
+   "time": "10:00 am",
+   "place": "",
+   "town": "Lake Area",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/bringing-philanthropy-home-to-the-ozarks-a-participatory-workshop-for-advisors/event_450ae3eb-f242-4329-b15f-7338ede4ad43.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-21-bringing-philanthropy-home-to-the-ozarks"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Water Aerobics",
+   "date": "2026-10-21",
+   "time": "8:30 am \u2013 9:30 am",
+   "place": "",
+   "town": "Lake Area",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-water-aerobics/event_7b1a38f4-7d7c-4d96-bc49-5a5c7e47ddcf.html",
+   "desc": "",
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "id": "lake-2026-10-21-spa-kyoto-fitness-the-lodge-of-four-se"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Xtreme Bingo @ Horny Toad's/Camden on the Lake",
+   "date": "2026-10-21",
+   "time": "6:00 pm",
+   "place": "Horny Toad",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/xtreme-bingo-horny-toads-camden-on-the-lake/event_cdeec1c0-36e7-477c-83a8-8f46bdd2b164.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-21-xtreme-bingo-horny-toad-s-camden-on-th"
   },
   {
    "source": "Visit Lebanon",
@@ -657,6 +162,55 @@
    "verified": false,
    "why_held": "event title not found on its detail page",
    "id": "city-2026-10-22-lebanon-city-council-meeting"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Thursday Night Pool Tournament",
+   "date": "2026-10-22",
+   "time": "6:00pm - 1:30am",
+   "place": "Club Rodeo Midway",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17779&custom_date_start=1792692000&custom_date_end=1792632600",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-22-thursday-night-pool-tournament"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "The Encore - Live Music by Zach Simpson",
+   "date": "2026-10-22",
+   "time": "6:30 pm",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-zach-simpson/event_6dc87958-cdc7-449a-ac27-cca78ca93c1e.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-22-the-encore-live-music-by-zach-simpson"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Spools & Needles Group",
+   "date": "2026-10-22",
+   "time": "10:00 am \u2013 2:00 pm",
+   "place": "Camden County Museum",
+   "town": "Linn Creek",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spools-needles-group/event_98f5157c-d7a0-11e8-ab79-f773550c4324.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-22-spools-needles-group"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Pinktober - Dine for a Cause at HK's!",
+   "date": "2026-10-22",
+   "time": "",
+   "place": "",
+   "town": "Lake Area",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/pinktober---dine-for-a-cause-at-hks/event_309f9068-e213-4d7b-b354-8ada22cd7f7f.html",
+   "desc": "",
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "id": "lake-2026-10-22-pinktober-dine-for-a-cause-at-hk-s"
   },
   {
    "source": "Visit Lebanon",
@@ -695,6 +249,42 @@
    "id": "visi-2026-10-23-3rd-annual-halloween-event-at-gasconade"
   },
   {
+   "source": "Visit Pulaski County",
+   "title": "The Haunted River Float at Ruby's Landing River Resort",
+   "date": "2026-10-23",
+   "time": "3:00pm - 12:00am",
+   "place": "Ruby's Landing River Resort",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17721&custom_date_start=1792767600&custom_date_end=1792713600",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-23-the-haunted-river-float-at-ruby-s-landin"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Rocktober! Christmas in October - Battle of the Bands @ The Encore",
+   "date": "2026-10-23",
+   "time": "6:00 pm",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/charity/rocktober-christmas-in-october---battle-of-the-bands-the-encore/event_54d4eb63-f82f-4c64-8346-d89bd41fac93.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-23-rocktober-christmas-in-october-battle"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Phantom of the Main Street Opry",
+   "date": "2026-10-23",
+   "time": "7:30 pm",
+   "place": "Main Street Music Hall",
+   "town": "Osage Beach",
+   "url": "https://www.lakeexpo.com/calendar/family_friendly/phantom-of-the-main-street-opry/event_93b5a9e6-46d4-4e8b-be7f-b9e5808ea518.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-23-phantom-of-the-main-street-opry"
+  },
+  {
    "source": "Lake Expo",
    "title": "Festool Demo Day @ High Brothers Lumber",
    "date": "2026-10-23",
@@ -717,6 +307,18 @@
    "desc": "Join us for this fall staple race in MISSOURI! Like every year, we are bringing in new areas and more beautiful sites! Three routes to choose from: 2 hour (all on foot!), 6 hour and 12 hour options! As always: KIDS RACE FREE!! Put it on your calendars!",
    "verified": true,
    "id": "visi-2026-10-24-off-road-rage-adventure-race"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Lebanon Farmers Market",
+   "date": "2026-10-24",
+   "time": "8:00 AM - 1:00 PM",
+   "place": "The Market",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/lebanon-farmers-market(344)",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-24-lebanon-farmers-market"
   },
   {
    "source": "Visit Lebanon",
@@ -816,6 +418,18 @@
   },
   {
    "source": "Visit Pulaski County",
+   "title": "Pulaski County Farmers Market",
+   "date": "2026-10-24",
+   "time": "8:00am - 12:00pm",
+   "place": "Pulaski County Farmers Market Farmers Market Pavilion",
+   "town": "Pulaski County",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17821&custom_date_start=1792828800&custom_date_end=1792843200",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-24-pulaski-county-farmers-market"
+  },
+  {
+   "source": "Visit Pulaski County",
    "title": "The Great Richland Pumpkin Hunt",
    "date": "2026-10-24",
    "time": "9:00am - 12:00pm",
@@ -825,6 +439,30 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-10-24-the-great-richland-pumpkin-hunt"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Old Stagecoach Stop Museum",
+   "date": "2026-10-24",
+   "time": "10:00am - 4:00pm",
+   "place": "106 Lynn Street",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17858&custom_date_start=1792836000&custom_date_end=1792857600",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-24-old-stagecoach-stop-museum"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Pulaski County 1903 Historic Courthouse Museum",
+   "date": "2026-10-24",
+   "time": "11:00am - 4:00pm",
+   "place": "Pulaski County 1903 Historic Courthouse Museum",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17617&custom_date_start=1792839600&custom_date_end=1792857600",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-24-pulaski-county-1903-historic-courthouse"
   },
   {
    "source": "Visit Pulaski County",
@@ -888,6 +526,18 @@
   },
   {
    "source": "Lake Expo",
+   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Sunrise Yoga",
+   "date": "2026-10-24",
+   "time": "9:00 am \u2013 10:00 am",
+   "place": "Lodge of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-sunrise-yoga/event_16070cd2-c359-48c9-ba60-51aeac3da277.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-24-spa-kyoto-fitness-the-lodge-of-four-se"
+  },
+  {
+   "source": "Lake Expo",
    "title": "Backwater Jack's - Live Music by Zach Simpson",
    "date": "2026-10-24",
    "time": "5:00 pm \u2013 9:00 pm",
@@ -900,6 +550,18 @@
   },
   {
    "source": "Lake Expo",
+   "title": "H. Toad's Bloody Mary Bar",
+   "date": "2026-10-24",
+   "time": "9:00 am \u2013 1:00 pm",
+   "place": "Horny Toad",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-24-h-toad-s-bloody-mary-bar"
+  },
+  {
+   "source": "Lake Expo",
    "title": "Captain Ron's - 20th Annual Kids Spooktacular",
    "date": "2026-10-25",
    "time": "5:00 pm \u2013 6:30 pm",
@@ -909,6 +571,31 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-10-25-captain-ron-s-20th-annual-kids-spookta"
+  },
+  {
+   "source": "City of Lebanon",
+   "title": "Lebanon City Council Work Session",
+   "date": "2026-10-26",
+   "time": "6:00 PM",
+   "place": "Stanley H. Allen Council Chambers",
+   "town": "Lebanon",
+   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4153",
+   "desc": "",
+   "verified": false,
+   "id": "city-2026-10-26-lebanon-city-council-work-session",
+   "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Home School Art Classes",
+   "date": "2026-10-27",
+   "time": "",
+   "place": "Lebanon Art Guild",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/home-school-art-classes2222722222",
+   "desc": "Homeschool Art Classes at the Lebanon Art Guild offer hands-on art education for kids and teens ages 5\u201317. Classes meet on the second and fourth Tuesdays..",
+   "verified": true,
+   "id": "visi-2026-10-27-home-school-art-classes"
   },
   {
    "source": "Visit Pulaski County",
@@ -1213,19 +900,20 @@
   },
   {
    "source": "Lake Expo",
-   "title": "Live Music & Entertainment at Lake of the Ozarks The Encore - Live Music by The i-Berrys",
+   "title": "The Encore - Live Music by The i-Berrys",
    "date": "2026-10-31",
    "time": "6:00 pm \u2013 12:00 am",
-   "place": "The Encore Lakeside Grill & Sky Bar",
-   "town": "Lake Ozark",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-the-i-berrys/event_d8e8d399-00cd-45db-8836-659413631906.html",
    "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-31-live-music-entertainment-at-lake-of-th"
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "id": "lake-2026-10-31-the-encore-live-music-by-the-i-berrys"
   },
   {
    "source": "Lake Expo",
-   "title": "Upcoming Events The Encore - Halloween Party with The i-Berrys",
+   "title": "The Encore - Halloween Party with The i-Berrys",
    "date": "2026-10-31",
    "time": "6:00 pm",
    "place": "The Encore Lakeside Grill & Sky Bar",
@@ -1233,11 +921,11 @@
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/the-encore---halloween-party-with-the-i-berrys/event_5cfa58cf-3233-4708-a1f5-6c72436f4a86.html",
    "desc": "",
    "verified": true,
-   "id": "lake-2026-10-31-upcoming-events-the-encore-halloween-p"
+   "id": "lake-2026-10-31-the-encore-halloween-party-with-the-i"
   },
   {
    "source": "Lake Expo",
-   "title": "Live Music & Entertainment at Lake of the Ozarks Captain Ron's - Live Music by The Nobodies",
+   "title": "Captain Ron's - Live Music by The Nobodies",
    "date": "2026-10-31",
    "time": "7:00 pm \u2013 11:00 pm",
    "place": "Captain Ron's Bar & Grill",
@@ -1245,7 +933,7 @@
    "url": "https://www.lakeexpo.com/calendar/live_entertainment/captain-rons---live-music-by-the-nobodies/event_164294c3-22fe-48cf-9a93-aa2574626fbe.html",
    "desc": "",
    "verified": true,
-   "id": "lake-2026-10-31-live-music-entertainment-at-lake-of-th"
+   "id": "lake-2026-10-31-captain-ron-s-live-music-by-the-nobodi"
   },
   {
    "source": "Visit Pulaski County",
@@ -1264,11 +952,12 @@
    "title": "Healing Services At New Revival Center",
    "date": "2026-11-01",
    "time": "6:30 pm",
-   "place": "New Revival Center",
-   "town": "Versailles",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/healing-services-at-new-revival-center/event_8f48e364-1da5-11e9-8348-670f6b36762e.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-11-01-healing-services-at-new-revival-center"
   },
   {
@@ -1332,6 +1021,30 @@
    "id": "visi-2026-11-05-wall-of-honor"
   },
   {
+   "source": "Visit Pulaski County",
+   "title": "Music Bingo @ Olde Oak Station Event Venue",
+   "date": "2026-11-05",
+   "time": "6:00pm - 9:00pm",
+   "place": "Olde Oak Station Event Venue",
+   "town": "Dixon",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17939&custom_date_start=1793901600&custom_date_end=1793912400",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-05-music-bingo-olde-oak-station-event-ven"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Coffee with the Lake West Chamber",
+   "date": "2026-11-05",
+   "time": "8:00 am",
+   "place": "",
+   "town": "Lake Area",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/coffee-with-the-lake-west-chamber/event_c70716a7-f70c-4989-8777-2fb11317cc3e.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-05-coffee-with-the-lake-west-chamber"
+  },
+  {
    "source": "Visit Lebanon",
    "title": "TC's Junk Vintage, Handmade Gift Market -Christmas Edition Market",
    "date": "2026-11-06",
@@ -1354,6 +1067,18 @@
    "desc": "Join us in downtown Lebanon for First Friday! Experience local art, music, dining, shopping, and more!",
    "verified": true,
    "id": "visi-2026-11-06-first-friday"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Boat Town Brewing Presents The Sherrer Brothers",
+   "date": "2026-11-06",
+   "time": "7:00 PM - 9:00 PM",
+   "place": "Boat Town Brewing",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/boat-town-brewing-presents-adam-mccabe232223",
+   "desc": "Boat Town Brewing presents The Sherrer Brothers live.",
+   "verified": true,
+   "id": "visi-2026-11-06-boat-town-brewing-presents-the-sherrer-b"
   },
   {
    "source": "Visit Pulaski County",
@@ -1428,6 +1153,56 @@
    "id": "visi-2026-11-07-2026-veterans-day-parade-and-ceremony"
   },
   {
+   "source": "Lake Expo",
+   "title": "Wonderland Camp's Party With A Purpose: Boot Scootin' Boogie",
+   "date": "2026-11-07",
+   "time": "6:00 pm",
+   "place": "Lodge of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/wonderland-camps-party-with-a-purpose-boot-scootin-boogie/event_e9bfbec5-7c83-49b7-bb3e-f54327cc6afb.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-07-wonderland-camp-s-party-with-a-purpose"
+  },
+  {
+   "source": "City of Lebanon",
+   "title": "City Council Retreat",
+   "date": "2026-11-09",
+   "time": "6:00 PM",
+   "place": "",
+   "town": "Lebanon",
+   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4664",
+   "desc": "",
+   "verified": false,
+   "id": "city-2026-11-09-city-council-retreat",
+   "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "A Season in the Hives: Natural Beekeeping Mentorship",
+   "date": "2026-11-11",
+   "time": "9:00 AM - 12:00 PM",
+   "place": "Sun and Bloom Farms",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/a-season-in-the-hives-natuaral-beekeeping-mentorship223222",
+   "desc": "Step into the living world of the hive. This is a hands-on, seasonal mentorship designed to help you truly understand beekeeping\u2014not just as a practice, but as a relationship with land, ecology, and the bees themselves. Registration required.",
+   "verified": true,
+   "id": "visi-2026-11-11-a-season-in-the-hives-natural-beekeepin"
+  },
+  {
+   "source": "City of Lebanon",
+   "title": "Lebanon Park Board",
+   "date": "2026-11-11",
+   "time": "12:00 PM",
+   "place": "Stanley H. Allen Council Chambers",
+   "town": "Lebanon",
+   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=3998",
+   "desc": "",
+   "verified": false,
+   "id": "city-2026-11-11-lebanon-park-board",
+   "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
    "source": "City of Lebanon",
    "title": "Zoning and Planning Commission",
    "date": "2026-11-12",
@@ -1479,18 +1254,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Murder Mystery: Blood Moon on Blackwater Lodge",
-   "date": "2026-11-13",
-   "time": "6:00pm - 8:00pm",
-   "place": "Bruce C. Clarke Library",
-   "town": "Fort Leonard Wood",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17981",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-13-murder-mystery-blood-moon-on-blackwater"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Texas Hold'em",
    "date": "2026-11-13",
    "time": "6:00pm - 8:00pm",
@@ -1500,6 +1263,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-13-texas-hold-em"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Murder Mystery: Blood Moon on Blackwater Lodge",
+   "date": "2026-11-13",
+   "time": "6:00pm - 8:00pm",
+   "place": "Bruce C. Clarke Library",
+   "town": "Fort Leonard Wood",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17981",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-13-murder-mystery-blood-moon-on-blackwater"
   },
   {
    "source": "Lake Expo",
@@ -1562,19 +1337,6 @@
    "id": "visi-2026-11-17-lca-presents-ella-mae-dixon"
   },
   {
-   "source": "City of Lebanon",
-   "title": "Third Wednesday Board of Public Works",
-   "date": "2026-11-18",
-   "time": "12:00 PM",
-   "place": "",
-   "town": "Lebanon",
-   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4657",
-   "desc": "",
-   "verified": false,
-   "id": "city-2026-11-18-third-wednesday-board-of-public-works",
-   "why_held": "not a public event (meeting/closure/business)"
-  },
-  {
    "source": "Waynesville-St. Robert Chamber",
    "title": "November 2026 Friendsgiving Luncheon",
    "date": "2026-11-18",
@@ -1610,6 +1372,18 @@
    "desc": "Hometown Holiday Marketplace is the shopping event of the season. Offering a massive variety of items for all of your holiday needs. From boutiques, home decor, crafts, vintage, hand crafted, unique custom gifts & so much more!",
    "verified": true,
    "id": "visi-2026-11-20-hometown-holiday-marketplace"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "CPR & First Aid",
+   "date": "2026-11-20",
+   "time": "10:00am - 12:00pm",
+   "place": "The Rec Plex",
+   "town": "Fort Leonard Wood",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17992&custom_date_start=1795168800&custom_date_end=1795176000",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-20-cpr-first-aid"
   },
   {
    "source": "Visit Pulaski County",
@@ -1684,6 +1458,18 @@
    "id": "visi-2026-11-24-thanksgiving-dinner-basket-event"
   },
   {
+   "source": "Visit Lebanon",
+   "title": "The 14th Annual Lebanon Turkey Trot",
+   "date": "2026-11-26",
+   "time": "8:00 AM",
+   "place": "Atchley Park",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/the-14th-annual-lebanon-turkey-trot",
+   "desc": "Start Thanksgiving morning the right way \u2014 with a 5K. Bring the whole family, earn your plate, and kick off Thanksgiving with the whole town.",
+   "verified": true,
+   "id": "visi-2026-11-26-the-14th-annual-lebanon-turkey-trot"
+  },
+  {
    "source": "Visit Pulaski County",
    "title": "Galloping Gobbler",
    "date": "2026-11-26",
@@ -1694,6 +1480,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-26-galloping-gobbler"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "17th Annual Lake of the Ozarks 5K Turkey Trot & Fun Run",
+   "date": "2026-11-26",
+   "time": "7:00 am",
+   "place": "Camdenton High School",
+   "town": "Camdenton",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/17th-annual-lake-of-the-ozarks-5k-turkey-trot-fun-run/event_3ec808f8-d7a0-43c0-98fe-8b14d93314a4.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-26-17th-annual-lake-of-the-ozarks-5k-turkey"
   },
   {
    "source": "Lake Expo",
@@ -1721,15 +1519,15 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Olde Oak Station Event Venue Open House",
+   "title": "Kid's Christmas Craft Time@Olde Oak Station",
    "date": "2026-11-28",
-   "time": "4:00pm - 7:00pm",
+   "time": "3:00pm - 5:00pm",
    "place": "Olde Oak Station Event Venue",
    "town": "Dixon",
    "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17999",
    "desc": "",
    "verified": true,
-   "id": "visi-2026-11-28-olde-oak-station-event-venue-open-house"
+   "id": "visi-2026-11-28-kid-s-christmas-craft-time-olde-oak-stat"
   },
   {
    "source": "Waynesville-St. Robert Chamber",
@@ -1742,6 +1540,18 @@
    "desc": "",
    "verified": true,
    "id": "wayn-2026-11-28-shop-small-business-saturday-2026"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "25th Annual Lake West Chamber Lighted Christmas Parade",
+   "date": "2026-11-28",
+   "time": "6:00 pm \u2013 8:00 pm",
+   "place": "City of Laurie",
+   "town": "Laurie",
+   "url": "https://www.lakeexpo.com/calendar/25th-annual-lake-west-chamber-lighted-christmas-parade/event_82cad47d-0582-4780-9d55-5c32966d7c28.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-28-25th-annual-lake-west-chamber-lighted-ch"
   },
   {
    "source": "Visit Pulaski County",
@@ -1817,6 +1627,19 @@
   },
   {
    "source": "City of Lebanon",
+   "title": "City Council Meeting",
+   "date": "2026-12-07",
+   "time": "6:30 PM",
+   "place": "",
+   "town": "Lebanon",
+   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4628",
+   "desc": "",
+   "verified": false,
+   "id": "city-2026-12-07-city-council-meeting",
+   "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
+   "source": "City of Lebanon",
    "title": "City Council Work Session",
    "date": "2026-12-07",
    "time": "6:00 PM",
@@ -1888,6 +1711,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-12-12-dixon-s-hometown-christmas-at-olde-oak-s"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Free Store Ministry Christmas Toy Shopping",
+   "date": "2026-12-15",
+   "time": "9:00 AM - 7:00 PM",
+   "place": "Mills Center",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/free-store-ministry-christmas-toy-shopping",
+   "desc": "Free Store Ministry hosts a Christmas toy shopping event where registered families can select gifts for children ages birth through 18.",
+   "verified": true,
+   "id": "visi-2026-12-15-free-store-ministry-christmas-toy-shoppi"
   }
  ]
 }
