@@ -23,7 +23,7 @@ body{margin:0;background:#0A2A50;color:#0A2A50;font-family:Arial,Helvetica,sans-
 .hd{display:inline-block;vertical-align:middle}
 .title{font-weight:bold;font-size:16px}.meta{font-size:13px;color:#33445C}
 .board{white-space:nowrap;overflow-x:auto;padding:12px 6px}
-.col{display:inline-block;vertical-align:top;white-space:normal;box-sizing:border-box;width:11.6%;min-width:175px;margin:0 5px;background:#E6E9EE;border-radius:12px;padding:0 8px 4px}
+.col{display:inline-block;vertical-align:top;white-space:normal;box-sizing:border-box;width:10.3%;min-width:175px;margin:0 5px;background:#E6E9EE;border-radius:12px;padding:0 8px 4px}
 .col h2{margin:0;padding:10px 4px 8px;font-size:15px}
 .count{float:right;background:#D0101F;color:#FFFFFF;font-size:12px;padding:1px 8px;border-radius:10px}
 .card{background:#FFFFFF;border:1px solid #C9CFD8;border-radius:8px;padding:8px 10px;margin-bottom:8px}
@@ -54,8 +54,9 @@ JS = r"""
       shown++; total++;
       var w=c.getElementsByTagName('span')[0];
       var dl=c.getAttribute('data-label'), tm=c.getAttribute('data-time'), tail=(dl?' &middot; '+dl:'')+(tm?' &middot; '+tm:'');
-      if(d===today){c.className='card today';todayCount++; if(w) w.innerHTML='TODAY'+tail;}
-      else if(d===tmr && w){w.innerHTML='TOMORROW'+tail;}
+      var keep=c.getAttribute('data-keep');
+      if(d===today){c.className='card today';todayCount++; if(w && !keep) w.innerHTML='TODAY'+tail;}
+      else if(d===tmr && w && !keep){w.innerHTML='TOMORROW'+tail;}
     }
     var b=cols[i].getElementsByTagName('span')[0]; if(b) b.innerHTML=shown;
   }
@@ -94,15 +95,17 @@ def write(data):
         items = [e for e in ev if e["type"] == typ]
         cards = []
         for e in items:
-            when = label(e["date"]) + (" &middot; " + esc(e["time"]) if e["time"] else "")
+            when = esc(e["when"]) if e.get("when") else label(e["date"]) + (" &middot; " + esc(e["time"]) if e["time"] else "")
             place = f'<span class="town">{esc(e["town"])}</span>{esc(e["place"])}'
             link = "Details &#8599;" if e["link"] == "detail" else "On list page &#8599;"
             cards.append(
-                f'<div class="card" data-date="{e["date"]}" data-label="{label(e["date"])}" data-time="{esc(e["time"])}">'
+                f'<div class="card" data-date="{e["date"]}" data-label="{label(e["date"])}" data-time="{esc(e.get("time", ""))}"{' data-keep="1"' if e.get("when") else ""}>'
                 f'<div class="when"><span>{when}</span></div>'
                 f'<div class="name">{esc(e["title"])}</div><div class="place">{place}</div>'
                 f'<div class="why">{esc(e["why"])}</div>'
                 + (f'<div class="why"><b>Style:</b> {esc(e["style"])}</div>' if e.get("style") else "")
+                + (f'<div class="why"><b>Attendance:</b> {esc(e["attendance"])}</div>' if e.get("attendance") else "")
+                + (f'<div class="why"><b>Contact:</b> {esc(e["contact"])}</div>' if e.get("contact") else "")
                 + f'<a class="link" href="{esc(e["url"])}" target="_blank" rel="noopener">{link}</a></div>')
         body = "".join(cards) or '<div class="empty">Nothing listed yet.</div>'
         cols.append(f'<div class="col"><h2>{esc(typ)} <span class="count">{len(items)}</span></h2>{body}</div>')

@@ -1,0 +1,109 @@
+{
+ "_note": "Hand-built by Claude 2026-10-19 from each organizer's own listing. Attendance only when a published source gives a number; otherwise 'Not published'. Contacts are organization lines the organizers publish; no individual names. Events past their date hide themselves on the board.",
+ "meetups": [
+  {
+   "title": "TC's Junk Vintage and Handmade Christmas Market",
+   "date": "2026-11-06",
+   "when": "11/06/26 – 11/07/26 · Fri 3–7 PM VIP night, Sat 9 AM–3 PM",
+   "min": 900,
+   "place": "Cowan Civic Center",
+   "town": "Lebanon",
+   "why": "$3,000+ in giveaways listed. Goodie bags to the first 30 shoppers each day.",
+   "attendance": "Not published.",
+   "contact": "Organizer contact not published. Tourism office general line: 417-532-4642 · info@visitlebanonmo.org",
+   "url": "https://www.visitlebanonmo.org/events/2020/tcs-junk-vintage--handmade-market--christmas-edition2322",
+   "link": "detail"
+  },
+  {
+   "title": "First Friday (monthly, downtown)",
+   "date": "2026-11-06",
+   "when": "11/06/26 · 5–8 PM · first Friday of each month",
+   "min": 1020,
+   "place": "Downtown Lebanon",
+   "town": "Lebanon",
+   "why": "Monthly downtown night. Local businesses and artists take part.",
+   "attendance": "Not published.",
+   "contact": "Downtown Lebanon (Main Street) director: director@downtownlebanonmo.com · no phone listed",
+   "url": "https://www.visitlebanonmo.org/events/2020/first-friday2222222242222222232422",
+   "link": "detail"
+  },
+  {
+   "title": "Hometown Holiday Marketplace",
+   "date": "2026-11-20",
+   "when": "11/20/26 – 11/21/26 · 9 AM–4 PM",
+   "min": 540,
+   "place": "Cowan Civic Center",
+   "town": "Lebanon",
+   "why": "150+ vendors. Prizes and giveaways all day. Goodie bags to the first 50 shoppers daily.",
+   "attendance": "Not published. Organizer's site says all 2026 events are 98%+ full.",
+   "contact": "Forked Road Events: 417-650-5860 · forkedroadevents.com",
+   "url": "https://www.visitlebanonmo.org/events/2020/hometown-holiday-marketplace22222",
+   "link": "detail"
+  },
+  {
+   "title": "Lebanon Christmas Parade",
+   "date": "2026-11-21",
+   "when": "11/21/26 · 11 AM–2 PM",
+   "min": 660,
+   "place": "Boswell Park line-up, downtown route",
+   "town": "Lebanon",
+   "why": "Annual Chamber parade, Route 66 theme. A parade entry, not a table spot.",
+   "attendance": "Not published.",
+   "contact": "Lebanon Area Chamber: 417-588-3256 · chamber@lebanonmissouri.com (email from the Chamber's own Wall of Honor listing)",
+   "url": "https://www.visitlebanonmo.org/events/2020/2026-christmas-parade--christmas-on-the-mother-road",
+   "link": "detail"
+  },
+  {
+   "title": "Christmas on Commercial and Lighted UTV Parade",
+   "date": "2026-12-11",
+   "when": "12/11/26 · 5–8 PM",
+   "min": 1020,
+   "place": "Downtown Lebanon",
+   "town": "Lebanon",
+   "why": "Downtown stores host treats and crafts. First UTV parade drew 75 entries (Missouri Life).",
+   "attendance": "Not published.",
+   "contact": "Downtown Lebanon (Main Street) director: director@downtownlebanonmo.com · no phone listed",
+   "url": "https://www.visitlebanonmo.org/events/2020/christmas-on-commercial-and-the-light-up-lebanon-lighted-utv-parade222",
+   "link": "detail"
+  },
+  {
+   "title": "GT Arena Motocross",
+   "date": "2026-12-11",
+   "when": "12/11/26 – 12/12/26 · 7–11:45 PM",
+   "min": 1140,
+   "place": "Cowan Civic Center",
+   "town": "Lebanon",
+   "why": "Two nights of pro and amateur arena motocross.",
+   "attendance": "Not published.",
+   "contact": "Event info line: 417-863-6353 · promoter not named · no email listed",
+   "url": "https://www.visitlebanonmo.org/events/2020/hoosier-tire-arena-cross-nationals22222",
+   "link": "detail"
+  },
+  {
+   "title": "Lebanon Route 66 Festival (June 2027)",
+   "date": "2027-06-01",
+   "when": "June 2027 · first Saturday (2026 ran June 5–6) · dates not yet posted",
+   "min": 0,
+   "place": "Boswell Park",
+   "town": "Lebanon",
+   "why": "Free festival: parade, cruise-in, concert. City of Lebanon presented 2026.",
+   "attendance": "Not published.",
+   "contact": "Lebanon-Laclede County Route 66 Society: LebanonRoute66@gmail.com · no phone listed",
+   "url": "https://www.lebanonroute66.com/festival/",
+   "link": "list"
+  },
+  {
+   "title": "Laclede County Fair (July 2027)",
+   "date": "2027-07-01",
+   "when": "July 2027 · 2026 ran July 4–11 · 2027 dates not yet posted",
+   "min": 0,
+   "place": "Lebanon Fairgrounds",
+   "town": "Lebanon",
+   "why": "Week-long county fair. VisitMO calls it one of the largest in Missouri.",
+   "attendance": "Nearly 30,000 a year, per the fair manager to KY3 (2025). One source.",
+   "contact": "Fair office: 417-718-6752 · lacledecountyfair@gmail.com",
+   "url": "https://www.lacledecountyfair.org/",
+   "link": "list"
+  }
+ ]
+}
