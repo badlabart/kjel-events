@@ -43,6 +43,15 @@ JS = r"""
   function p(n){return (n<10?'0':'')+n;}
   function iso(d){return d.getFullYear()+'-'+p(d.getMonth()+1)+'-'+p(d.getDate());}
   var now=new Date(), today=iso(now), t=new Date(now.getFullYear(),now.getMonth(),now.getDate()+1), tmr=iso(t);
+  var DAYS=['SUNDAY','MONDAY','TUESDAY','WEDNESDAY','THURSDAY','FRIDAY','SATURDAY'];
+  function mon(x){var y=new Date(x.getFullYear(),x.getMonth(),x.getDate()); y.setDate(y.getDate()-((y.getDay()+6)%7)); return y;}
+  function rel(ds){
+    var a=ds.split('-'), e=new Date(+a[0],+a[1]-1,+a[2]);
+    var wk=Math.round((mon(e).getTime()-mon(now).getTime())/604800000), dn=DAYS[e.getDay()];
+    if(wk<=0) return 'THIS '+dn;
+    if(wk===1) return 'NEXT '+dn;
+    return dn+', '+wk+' WEEKS OUT';
+  }
   var cols=document.getElementsByTagName('div'), todayCount=0, total=0;
   for(var i=0;i<cols.length;i++){
     if(cols[i].className!=='col') continue;
@@ -57,6 +66,10 @@ JS = r"""
       var keep=c.getAttribute('data-keep');
       if(d===today){c.className='card today';todayCount++; if(w && !keep) w.innerHTML='TODAY'+tail;}
       else if(d===tmr && w && !keep){w.innerHTML='TOMORROW'+tail;}
+      else if(w){
+        if(!keep){w.innerHTML=dl+' &middot; '+rel(d)+(tm?' &middot; '+tm:'');}
+        else{w.innerHTML=w.innerHTML.replace(/^(\d\d\/\d\d\/\d\d)(\s*\S\s*\d\d\/\d\d\/\d\d)?/,function(x){return x+' &middot; '+rel(d);});}
+      }
     }
     var b=cols[i].getElementsByTagName('span')[0]; if(b) b.innerHTML=shown;
   }
