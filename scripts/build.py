@@ -31,9 +31,18 @@ TOWN_FIX = {"St. Robert": "Saint Robert", "St Robert": "Saint Robert", "Eldridge
 raw = json.loads((ROOT / "data" / "raw_events.json").read_text())
 labels = json.loads((ROOT / "data" / "labels.json").read_text())
 
+# Inside the 7-day window every occurrence of a recurring event is kept, so a later date of an event
+# that already has a label reuses it. MaxPreps games are labeled by the script (Boss 2026-10-21).
+same_title = {}
+for e in raw["events"]:
+    if e["id"] in labels:
+        same_title.setdefault((e["source"], e["title"].lower()), labels[e["id"]])
+
 board, held = [], []
 for e in raw["events"]:
-    lab = labels.get(e["id"])
+    lab = labels.get(e["id"]) or same_title.get((e["source"], e["title"].lower()))
+    if not lab and e["source"] == "MaxPreps":
+        lab = ["School and Sports", e["why"]]
     if not e.get("verified"):
         held.append((e, e.get("why_held", "not verified")))
     elif not lab:

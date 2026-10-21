@@ -196,6 +196,64 @@ def allevents():
     return out
 
 
+# ---------- MaxPreps scoreboards (area high-school games; every game has its own page) ----------
+# Boss (2026-10-21): voicetrackers work up to a week ahead and Friday-night football was missing.
+# One statewide scoreboard page per sport per day; keep games with a listening-area school.
+# Sports are the ones MaxPreps has a Missouri scoreboard for this season (basketball: add when the season starts).
+MP_SPORTS = ["football", "volleyball", "soccer", "softball"]
+MP_DAYS = 8
+MP_SCHOOLS = {"lebanon": "Lebanon", "waynesville": "Waynesville", "camdenton": "Camdenton", "stoutland": "Stoutland",
+              "richland": "Richland", "conway": "Conway", "buffalo": "Buffalo", "osage": "Lake Ozark", "eldon": "Eldon",
+              "dixon": "Dixon", "hartville": "Hartville", "versailles": "Versailles", "crocker": "Crocker",
+              "climax springs": "Climax Springs", "macks creek": "Macks Creek", "fair grove": "Fair Grove",
+              "hermitage": "Hermitage", "bolivar": "Bolivar", "marshfield": "Marshfield", "plato": "Plato", "laquey": "Laquey"}
+
+
+def mp_time(t):
+    m = re.match(r"(\d{1,2})(?::(\d\d))?\s*([ap])", t.strip().lower())
+    return f"{m.group(1)}:{m.group(2) or '00'} {m.group(3).upper()}M" if m else ""
+
+
+def maxpreps():
+    out, seen = [], set()
+    for i in range(MP_DAYS + 1):
+        d = TODAY + timedelta(days=i)
+        for sport in MP_SPORTS:
+            try:
+                _, h = get(f"https://www.maxpreps.com/mo/{sport}/scores/?date={d.strftime('%m/%d/%Y')}")
+            except Exception:
+                continue
+            for chunk in h.split('<li class="c"')[1:]:
+                chunk = chunk[:2500]
+                url = re.search(r'href="(https://www\.maxpreps\.com/mo/[^"]+\?c=[0-9a-f-]+)"', chunk)
+                names = [re.sub(r"^\(#\d+\)\s*", "", text(n)) for n in re.findall(r'<div class="name"[^>]*>(.*?)</div>', chunk, re.S)]
+                recs = [text(r) for r in re.findall(r'<div class="record"[^>]*>(.*?)</div>', chunk, re.S)]
+                det = re.search(r'<div class="details"[^>]*>(.*?)</div>', chunk, re.S)
+                if not url or len(names) != 2 or url.group(1) in seen:
+                    continue
+                mine = [n for n in names if n.lower() in MP_SCHOOLS]
+                if not mine:
+                    continue
+                seen.add(url.group(1))
+                e = ev("MaxPreps", f"{names[0]} vs. {names[1]} {'boys soccer' if sport == 'soccer' else sport}", d,
+                       mp_time(text(det.group(1))) if det else "", "", MP_SCHOOLS[mine[0].lower()], url.group(1))
+                e["why"] = "High school " + ("boys soccer" if sport == "soccer" else sport) + ". " + ", ".join(
+                    f"{n} {r}" for n, r in zip(names, recs) if r) + "."
+                out.append(e)
+    return out
+
+
+def maxpreps_place(e, page):
+    """Home field and town come from the game page's own SportsEvent data."""
+    loc = re.search(r'"@type":"SportsEvent".*?"location":\{"@type":"Place","name":"([^"]*)","address":\{[^}]*?"addressLocality":"([^"]*)"', page, re.S)
+    if loc:
+        school, town = text(loc.group(1)), loc.group(2)
+        if town.lower() in AREA:  # played in the listening area: badge and place are the venue's
+            e["place"], e["town"] = school, town
+        else:  # local team plays elsewhere: badge stays the local team's town, place says where
+            e["place"] = "At " + school
+
+
 # ---------- verify ----------
 def norm(s):
     return re.sub(r"[^a-z0-9 ]", " ", html.unescape(s).lower())
@@ -215,6 +273,8 @@ def verify(e):
         return e
     if e["source"] == "Lake Expo":
         lake_expo_place(e, page)
+    elif e["source"] == "MaxPreps":
+        maxpreps_place(e, page)
     words = [w for w in norm(e["title"]).split() if len(w) > 2][:4]
     body = norm(text(page))
     ok = status == 200 and words and all(w in body for w in words)
@@ -226,7 +286,7 @@ def verify(e):
 
 def main():
     events, errors = [], {}
-    for fn in (visit_lebanon, city_lebanon, visit_pulaski, wsr_chamber, lake_expo, allevents):
+    for fn in (visit_lebanon, city_lebanon, visit_pulaski, wsr_chamber, lake_expo, allevents, maxpreps):
         try:
             got = fn()
             events += got
@@ -235,13 +295,18 @@ def main():
             errors[fn.__name__] = repr(x)
             print(f"{fn.__name__}: FAILED {x!r}")
 
-    # window, then next occurrence only per (source, title)
+    # window; inside the next 7 days (voicetrackers work a week ahead, Boss 2026-10-21) keep EVERY occurrence,
+    # beyond that the next occurrence only per (source, title)
     events = [e for e in events if TODAY.isoformat() <= e["date"] <= END.isoformat()]
     events.sort(key=lambda e: e["date"])
-    nxt = {}
+    week_end = (TODAY + timedelta(days=7)).isoformat()
+    seen_titles, kept = set(), []
     for e in events:
-        nxt.setdefault((e["source"], norm(e["title"]).strip()), e)
-    events = list(nxt.values())
+        key = (e["source"], norm(e["title"]).strip())
+        if e["date"] <= week_end or key not in seen_titles:
+            kept.append(e)
+        seen_titles.add(key)
+    events = kept
     # AllEvents repeats many tourism-calendar events: keep the other source's copy.
     other = {(e["date"], " ".join(norm(e["title"]).split()[:3])) for e in events if e["source"] != "AllEvents"}
     events = [e for e in events if e["source"] != "AllEvents"

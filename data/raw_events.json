@@ -1,5 +1,5 @@
 {
- "collected": "2026-10-21T09:19",
+ "collected": "2026-10-21T10:05",
  "errors": {},
  "events": [
   {
@@ -86,6 +86,18 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-10-21-xtreme-bingo-horny-toad-s-camden-on-th"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Storytime",
+   "date": "2026-10-22",
+   "time": "10:00 AM - 11:00 AM",
+   "place": "Lebanon-Laclede County Library",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/storytime52325422232324322232",
+   "desc": "This program is typically geared towards 2-6 year old's. Wednesdays and Thursdays will cover the same material, but each week will have a different theme. In Storytime, we sing songs, read a few books, make a craft and have snack.",
+   "verified": true,
+   "id": "visi-2026-10-22-storytime"
   },
   {
    "source": "Visit Lebanon",
@@ -222,6 +234,71 @@
    "id": "alle-2026-10-22-ham-bean-dinner"
   },
   {
+   "source": "MaxPreps",
+   "title": "Crocker vs. Marshfield boys soccer",
+   "date": "2026-10-22",
+   "time": "4:30 PM",
+   "place": "Marshfield High School",
+   "town": "Marshfield",
+   "url": "https://www.maxpreps.com/mo/soccer/match/crocker-vs-marshfield/10-22-2026/?c=103d9a55-b4e9-4b4a-891f-c7f18a69914b",
+   "desc": "",
+   "why": "High school boys soccer. Crocker 7-8, Marshfield 6-11.",
+   "verified": true,
+   "id": "maxp-2026-10-22-crocker-vs-marshfield-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Fatima vs. Osage boys soccer",
+   "date": "2026-10-22",
+   "time": "5:30 PM",
+   "place": "At Osage High School",
+   "town": "Lake Ozark",
+   "url": "https://www.maxpreps.com/mo/soccer/match/fatima-westphalia-vs-osage-kaiser/10-22-2026/?c=6bde89a5-c95f-4eb5-9907-533e53ca449f",
+   "desc": "",
+   "why": "High school boys soccer. Fatima 1-11, Osage 3-12.",
+   "verified": true,
+   "id": "maxp-2026-10-22-fatima-vs-osage-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Nixa vs. Waynesville boys soccer",
+   "date": "2026-10-22",
+   "time": "6:40 PM",
+   "place": "Waynesville High School",
+   "town": "Waynesville",
+   "url": "https://www.maxpreps.com/mo/soccer/match/nixa-vs-waynesville/10-22-2026/?c=fa37d0f1-1316-4ebc-a7da-85e9a4bb8811",
+   "desc": "",
+   "why": "High school boys soccer. Nixa 17-3, Waynesville 5-10.",
+   "verified": true,
+   "id": "maxp-2026-10-22-nixa-vs-waynesville-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Camdenton vs. Hillcrest boys soccer",
+   "date": "2026-10-22",
+   "time": "7:00 PM",
+   "place": "At Hillcrest High School",
+   "town": "Camdenton",
+   "url": "https://www.maxpreps.com/mo/soccer/match/camdenton-vs-hillcrest-springfield/10-22-2026/?c=84dde2e3-748a-4712-aa2b-1341ee7f699e",
+   "desc": "",
+   "why": "High school boys soccer. Camdenton 10-12, Hillcrest 0-7.",
+   "verified": true,
+   "id": "maxp-2026-10-22-camdenton-vs-hillcrest-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Lebanon vs. Ozark boys soccer",
+   "date": "2026-10-22",
+   "time": "7:00 PM",
+   "place": "At Ozark High School",
+   "town": "Lebanon",
+   "url": "https://www.maxpreps.com/mo/soccer/match/lebanon-vs-ozark/10-22-2026/?c=d74d7202-2b73-411d-87a9-f8c70c8b6320",
+   "desc": "",
+   "why": "High school boys soccer. Lebanon 10-11, Ozark 8-13-1.",
+   "verified": true,
+   "id": "maxp-2026-10-22-lebanon-vs-ozark-boys-soccer"
+  },
+  {
    "source": "Visit Lebanon",
    "title": "L-Life Food Pantry Golf Tournament!",
    "date": "2026-10-23",
@@ -314,8 +391,7 @@
    "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/festool-demo-day-high-brothers-lumber/event_867353c7-8b48-4c0f-a8af-cf9641f6c2c8.html",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "lake-2026-10-23-festool-demo-day-high-brothers-lumber"
   },
   {
@@ -427,6 +503,136 @@
    "id": "alle-2026-10-23-home-football-game-vs-fair-grove-seni"
   },
   {
+   "source": "MaxPreps",
+   "title": "Versailles vs. Sherwood football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "At Sherwood High School",
+   "town": "Versailles",
+   "url": "https://www.maxpreps.com/mo/football/game/sherwood-creighton-vs-versailles/10-23-2026/?c=ffb17bf2-25ff-4735-a64b-b3b026c21eb9",
+   "desc": "",
+   "why": "High school football. Versailles 6-2, Sherwood 3-5.",
+   "verified": true,
+   "id": "maxp-2026-10-23-versailles-vs-sherwood-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Marshfield vs. West Plains football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "At West Plains High School",
+   "town": "Marshfield",
+   "url": "https://www.maxpreps.com/mo/football/game/marshfield-vs-west-plains/10-23-2026/?c=8260627c-429c-4e20-82f0-ce36ebcff029",
+   "desc": "",
+   "why": "High school football. Marshfield 2-6, West Plains 6-2.",
+   "verified": true,
+   "id": "maxp-2026-10-23-marshfield-vs-west-plains-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Fair Grove vs. Buffalo football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "Buffalo High School",
+   "town": "Buffalo",
+   "url": "https://www.maxpreps.com/mo/football/game/buffalo-vs-fair-grove/10-23-2026/?c=bc01b6a0-8968-4bb8-9948-733af5b4c412",
+   "desc": "",
+   "why": "High school football. Fair Grove 7-1, Buffalo 3-5.",
+   "verified": true,
+   "id": "maxp-2026-10-23-fair-grove-vs-buffalo-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Camdenton vs. Rolla football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "At Rolla High School",
+   "town": "Camdenton",
+   "url": "https://www.maxpreps.com/mo/football/game/camdenton-vs-rolla/10-23-2026/?c=6595e798-37d5-4327-bb15-1c053354e8dd",
+   "desc": "",
+   "why": "High school football. Camdenton 6-2, Rolla 5-3.",
+   "verified": true,
+   "id": "maxp-2026-10-23-camdenton-vs-rolla-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Southern Boone vs. Osage football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "At Osage High School",
+   "town": "Lake Ozark",
+   "url": "https://www.maxpreps.com/mo/football/game/osage-kaiser-vs-southern-boone-ashland/10-23-2026/?c=7a2f0ddb-a272-489d-8ab2-4425e1379cd2",
+   "desc": "",
+   "why": "High school football. Southern Boone 6-2, Osage 3-5.",
+   "verified": true,
+   "id": "maxp-2026-10-23-southern-boone-vs-osage-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Eldon vs. California football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "At California High School",
+   "town": "Eldon",
+   "url": "https://www.maxpreps.com/mo/football/game/california-vs-eldon/10-23-2026/?c=1e5c20ce-6ee9-4420-8c15-e961960e288c",
+   "desc": "",
+   "why": "High school football. Eldon 1-7, California 1-7.",
+   "verified": true,
+   "id": "maxp-2026-10-23-eldon-vs-california-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Parkview vs. Bolivar football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "Bolivar High School",
+   "town": "Bolivar",
+   "url": "https://www.maxpreps.com/mo/football/game/bolivar-vs-parkview-springfield/10-23-2026/?c=4690fd43-bf89-4578-b5ac-76814ea255d9",
+   "desc": "",
+   "why": "High school football. Parkview 0-8, Bolivar 4-4.",
+   "verified": true,
+   "id": "maxp-2026-10-23-parkview-vs-bolivar-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Lebanon vs. Waynesville football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "Waynesville High School",
+   "town": "Waynesville",
+   "url": "https://www.maxpreps.com/mo/football/game/lebanon-vs-waynesville/10-23-2026/?c=8f521308-b10e-4e75-bd4d-777fb10243cf",
+   "desc": "",
+   "why": "High school football. Lebanon 2-6, Waynesville 0-8.",
+   "verified": true,
+   "id": "maxp-2026-10-23-lebanon-vs-waynesville-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Fair Grove vs. New Covenant Academy boys soccer",
+   "date": "2026-10-23",
+   "time": "4:30 PM",
+   "place": "At New Covenant Academy High School",
+   "town": "Fair Grove",
+   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-new-covenant-academy-springfield/10-23-2026/?c=e69d6a18-0776-4141-83d8-9386fc332cda",
+   "desc": "",
+   "why": "High school boys soccer. Fair Grove 9-6, New Covenant Academy 3-11.",
+   "verified": true,
+   "id": "maxp-2026-10-23-fair-grove-vs-new-covenant-academy-boys"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Sacred Heart vs. Dixon boys soccer",
+   "date": "2026-10-23",
+   "time": "4:30 PM",
+   "place": "Dixon High School",
+   "town": "Dixon",
+   "url": "https://www.maxpreps.com/mo/soccer/match/dixon-vs-sacred-heart-sedalia/10-23-2026/?c=c59f5725-dc2b-42f2-91e2-715cd3a0adb0",
+   "desc": "",
+   "why": "High school boys soccer. Sacred Heart 4-10-1, Dixon 7-6.",
+   "verified": true,
+   "id": "maxp-2026-10-23-sacred-heart-vs-dixon-boys-soccer"
+  },
+  {
    "source": "Visit Lebanon",
    "title": "Off Road Rage Adventure Race",
    "date": "2026-10-24",
@@ -497,6 +703,18 @@
    "desc": "Autumn Crafts is a fun, hands-on program where participants can create take-home fall-themed crafts. All ages are welcome to join.",
    "verified": true,
    "id": "visi-2026-10-24-bennett-spring-october-programs-autumn"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "2026 Fall Party",
+   "date": "2026-10-24",
+   "time": "4:00 PM",
+   "place": "27993 Creek Road Lebanon, MO 65536",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/2026-fall-party",
+   "desc": "Happy Hill Church invites the community to its 2026 Fall Party on October 24 at 4:00 p.m. Enjoy hayrides, games, food, and fellowship in a family-friendly autumn setting. All are welcome to attend.",
+   "verified": true,
+   "id": "visi-2026-10-24-2026-fall-party"
   },
   {
    "source": "Visit Lebanon",
@@ -572,6 +790,18 @@
   },
   {
    "source": "Visit Pulaski County",
+   "title": "Halloween at Froggy's River Resort",
+   "date": "2026-10-24",
+   "time": "8:00am - 5:30pm",
+   "place": "Froggys River Resort",
+   "town": "Richland",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17819&custom_date_start=1792828800&custom_date_end=1792863000",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-24-halloween-at-froggy-s-river-resort"
+  },
+  {
+   "source": "Visit Pulaski County",
    "title": "The Great Richland Pumpkin Hunt",
    "date": "2026-10-24",
    "time": "9:00am - 12:00pm",
@@ -608,6 +838,18 @@
   },
   {
    "source": "Visit Pulaski County",
+   "title": "The Haunted River Float at Ruby's Landing River Resort",
+   "date": "2026-10-24",
+   "time": "3:00pm - 12:00am",
+   "place": "Ruby's Landing River Resort",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17721&custom_date_start=1792854000&custom_date_end=1792800000",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-24-the-haunted-river-float-at-ruby-s-landin"
+  },
+  {
+   "source": "Visit Pulaski County",
    "title": "Harvest Fest",
    "date": "2026-10-24",
    "time": "3:30pm - 9:00pm",
@@ -629,6 +871,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-10-24-magic-the-gathering-casual-commander-nig"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "3rd Annual Halloween Event at Gasconade Hills Resort",
+   "date": "2026-10-24",
+   "time": "6:00pm - 8:00pm",
+   "place": "Gasconade Hills Resort",
+   "town": "Richland",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17963&custom_date_start=1792864800&custom_date_end=1792872000",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-24-3rd-annual-halloween-event-at-gasconade"
   },
   {
    "source": "Lake Expo",
@@ -1029,6 +1283,31 @@
    "id": "alle-2026-10-24-the-65706-not-so-spooky-mini-sampler"
   },
   {
+   "source": "MaxPreps",
+   "title": "Central vs. Laquey boys soccer",
+   "date": "2026-10-24",
+   "time": "12:00 PM",
+   "place": "Laquey High School",
+   "town": "Laquey",
+   "url": "https://www.maxpreps.com/mo/soccer/match/central-springfield-vs-laquey/10-24-2026/?c=5a879214-6871-4f22-b3f5-5af2026c8dea",
+   "desc": "",
+   "why": "High school boys soccer. Central 15-5, Laquey 4-1.",
+   "verified": true,
+   "id": "maxp-2026-10-24-central-vs-laquey-boys-soccer"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Halloween at Froggy's River Resort",
+   "date": "2026-10-25",
+   "time": "8:30am - 5:30pm",
+   "place": "Froggys River Resort",
+   "town": "Richland",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17819&custom_date_start=1792917000&custom_date_end=1792949400",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-25-halloween-at-froggy-s-river-resort"
+  },
+  {
    "source": "Lake Expo",
    "title": "Captain Ron's - 20th Annual Kids Spooktacular",
    "date": "2026-10-25",
@@ -1051,6 +1330,19 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-25-pre-release-event-pokemon-delta-reign-d"
+  },
+  {
+   "source": "City of Lebanon",
+   "title": "Lebanon City Council Meeting",
+   "date": "2026-10-26",
+   "time": "6:30 PM",
+   "place": "Stanley H. Allen Council Chambers",
+   "town": "Lebanon",
+   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4410",
+   "desc": "",
+   "verified": false,
+   "id": "city-2026-10-26-lebanon-city-council-meeting",
+   "why_held": "not a public event (meeting/closure/business)"
   },
   {
    "source": "City of Lebanon",
@@ -1088,6 +1380,71 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-26-magic-the-gathering-modern-monday"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "New Covenant Academy vs. Dixon boys soccer",
+   "date": "2026-10-26",
+   "time": "4:00 PM",
+   "place": "Dixon",
+   "town": "Dixon",
+   "url": "https://www.maxpreps.com/mo/soccer/match/dixon-vs-new-covenant-academy-springfield/10-26-2026/?c=631fd4e6-e1f6-4522-ae13-67777435af4f",
+   "desc": "",
+   "why": "High school boys soccer. New Covenant Academy 3-11, Dixon 7-6.",
+   "verified": true,
+   "id": "maxp-2026-10-26-new-covenant-academy-vs-dixon-boys-socc"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "New Heights Christian Academy vs. Fair Grove boys soccer",
+   "date": "2026-10-26",
+   "time": "4:30 PM",
+   "place": "Fair Grove",
+   "town": "Fair Grove",
+   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-new-heights-christian-academy-joplin/10-26-2026/?c=d98ec32b-f228-40ef-92b3-55711cf1550b",
+   "desc": "",
+   "why": "High school boys soccer. New Heights Christian Academy 5-10, Fair Grove 9-6.",
+   "verified": true,
+   "id": "maxp-2026-10-26-new-heights-christian-academy-vs-fair-g"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Crocker vs. Stover boys soccer",
+   "date": "2026-10-26",
+   "time": "4:30 PM",
+   "place": "At Stover High School",
+   "town": "Crocker",
+   "url": "https://www.maxpreps.com/mo/soccer/match/crocker-vs-stover/10-26-2026/?c=bd65d2ba-cee3-4353-bc7c-1daebba3340b",
+   "desc": "",
+   "why": "High school boys soccer. Crocker 7-8, Stover 10-3.",
+   "verified": true,
+   "id": "maxp-2026-10-26-crocker-vs-stover-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Lebanon vs. Marshfield boys soccer",
+   "date": "2026-10-26",
+   "time": "4:30 PM",
+   "place": "Marshfield High School",
+   "town": "Marshfield",
+   "url": "https://www.maxpreps.com/mo/soccer/match/lebanon-vs-marshfield/10-26-2026/?c=6c28b2f0-2a01-4ee1-ab73-b6fd798cfcdd",
+   "desc": "",
+   "why": "High school boys soccer. Lebanon 10-11, Marshfield 6-11.",
+   "verified": true,
+   "id": "maxp-2026-10-26-lebanon-vs-marshfield-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Aurora vs. Bolivar boys soccer",
+   "date": "2026-10-26",
+   "time": "5:00 PM",
+   "place": "Bolivar High School",
+   "town": "Bolivar",
+   "url": "https://www.maxpreps.com/mo/soccer/match/aurora-vs-bolivar/10-26-2026/?c=66ed0f77-7348-439c-a8b4-b71ee06c37a2",
+   "desc": "",
+   "why": "High school boys soccer. Aurora 0-18, Bolivar 11-6.",
+   "verified": true,
+   "id": "maxp-2026-10-26-aurora-vs-bolivar-boys-soccer"
   },
   {
    "source": "Visit Lebanon",
@@ -1186,6 +1543,83 @@
    "id": "alle-2026-10-27-eldon-parents-as-teachers-halloween-cost"
   },
   {
+   "source": "MaxPreps",
+   "title": "Logan-Rogersville vs. Marshfield boys soccer",
+   "date": "2026-10-27",
+   "time": "4:30 PM",
+   "place": "Marshfield High School",
+   "town": "Marshfield",
+   "url": "https://www.maxpreps.com/mo/soccer/match/logan-rogersville-vs-marshfield/10-27-2026/?c=a6f7e4eb-ea84-471e-ad8b-e8f811324692",
+   "desc": "",
+   "why": "High school boys soccer. Logan-Rogersville 14-5, Marshfield 6-11.",
+   "verified": true,
+   "id": "maxp-2026-10-27-logan-rogersville-vs-marshfield-boys-so"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Kickapoo vs. Lebanon boys soccer",
+   "date": "2026-10-27",
+   "time": "6:30 PM",
+   "place": "Lebanon High School",
+   "town": "Lebanon",
+   "url": "https://www.maxpreps.com/mo/soccer/match/kickapoo-springfield-vs-lebanon/10-27-2026/?c=8d8e1c88-ee47-490c-a8b5-d3ff5cc67a2d",
+   "desc": "",
+   "why": "High school boys soccer. Kickapoo 6-16, Lebanon 10-11.",
+   "verified": true,
+   "id": "maxp-2026-10-27-kickapoo-vs-lebanon-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Glendale vs. Waynesville boys soccer",
+   "date": "2026-10-27",
+   "time": "6:40 PM",
+   "place": "Waynesville High School",
+   "town": "Waynesville",
+   "url": "https://www.maxpreps.com/mo/soccer/match/glendale-springfield-vs-waynesville/10-27-2026/?c=b5085a45-3139-40e7-9f23-6a31eaba288d",
+   "desc": "",
+   "why": "High school boys soccer. Glendale 13-4-1, Waynesville 5-10.",
+   "verified": true,
+   "id": "maxp-2026-10-27-glendale-vs-waynesville-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Osage vs. Fulton boys soccer",
+   "date": "2026-10-27",
+   "time": "6:45 PM",
+   "place": "At Fulton High School",
+   "town": "Lake Ozark",
+   "url": "https://www.maxpreps.com/mo/soccer/match/fulton-vs-osage-kaiser/10-27-2026/?c=3b29a6ff-23f9-4c18-990b-338e673a4e2a",
+   "desc": "",
+   "why": "High school boys soccer. Osage 3-12, Fulton 9-4.",
+   "verified": true,
+   "id": "maxp-2026-10-27-osage-vs-fulton-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Bolivar vs. Camdenton boys soccer",
+   "date": "2026-10-27",
+   "time": "7:00 PM",
+   "place": "Camdenton High School",
+   "town": "Camdenton",
+   "url": "https://www.maxpreps.com/mo/soccer/match/bolivar-vs-camdenton/10-27-2026/?c=28a3031c-b408-4b89-b284-f3666483300d",
+   "desc": "",
+   "why": "High school boys soccer. Bolivar 11-6, Camdenton 10-12.",
+   "verified": true,
+   "id": "maxp-2026-10-27-bolivar-vs-camdenton-boys-soccer"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Storytime",
+   "date": "2026-10-28",
+   "time": "10:00 AM - 11:00 AM",
+   "place": "Lebanon-Laclede County Library",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/storytime523254222323243222322",
+   "desc": "This program is typically geared towards 2-6 year old's. Wednesdays and Thursdays will cover the same material, but each week will have a different theme. In Storytime, we sing songs, read a few books, make a craft and have snack.",
+   "verified": true,
+   "id": "visi-2026-10-28-storytime"
+  },
+  {
    "source": "Visit Pulaski County",
    "title": "Quarterly Pulaski CountyTourism Board Meeting",
    "date": "2026-10-28",
@@ -1197,6 +1631,18 @@
    "verified": false,
    "id": "visi-2026-10-28-quarterly-pulaski-countytourism-board-me",
    "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Magic the Gathering Casual Commander night",
+   "date": "2026-10-28",
+   "time": "5:00pm - 11:00pm",
+   "place": "BK Games",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1793206800&custom_date_end=1793228400",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-28-magic-the-gathering-casual-commander-nig"
   },
   {
    "source": "Lake Expo",
@@ -1269,6 +1715,45 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-29-girl-s-craft-night"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Iberia vs. Crocker boys soccer",
+   "date": "2026-10-29",
+   "time": "4:30 PM",
+   "place": "Crocker High School",
+   "town": "Crocker",
+   "url": "https://www.maxpreps.com/mo/soccer/match/crocker-vs-iberia/10-29-2026/?c=29c8b8a0-3395-4690-b4de-919a6ef38496",
+   "desc": "",
+   "why": "High school boys soccer. Iberia 2-15, Crocker 7-8.",
+   "verified": true,
+   "id": "maxp-2026-10-29-iberia-vs-crocker-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Osage vs. Eugene boys soccer",
+   "date": "2026-10-29",
+   "time": "6:00 PM",
+   "place": "At Eugene High School",
+   "town": "Lake Ozark",
+   "url": "https://www.maxpreps.com/mo/soccer/match/eugene-vs-osage-kaiser/10-29-2026/?c=b30d9523-b385-4d89-b544-5e1f388eb26a",
+   "desc": "",
+   "why": "High school boys soccer. Osage 3-12, Eugene 5-9.",
+   "verified": true,
+   "id": "maxp-2026-10-29-osage-vs-eugene-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Parkview vs. Waynesville boys soccer",
+   "date": "2026-10-29",
+   "time": "6:30 PM",
+   "place": "Waynesville High School",
+   "town": "Waynesville",
+   "url": "https://www.maxpreps.com/mo/soccer/match/parkview-springfield-vs-waynesville/10-29-2026/?c=ea2c672a-bf08-498b-ad77-fc7b885b58c2",
+   "desc": "",
+   "why": "High school boys soccer. Parkview 12-6, Waynesville 5-10.",
+   "verified": true,
+   "id": "maxp-2026-10-29-parkview-vs-waynesville-boys-soccer"
   },
   {
    "source": "Visit Lebanon",
@@ -2120,8 +2605,7 @@
    "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/coffee-with-the-lake-west-chamber/event_c70716a7-f70c-4989-8777-2fb11317cc3e.html",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "lake-2026-11-05-coffee-with-the-lake-west-chamber"
   },
   {
@@ -2494,7 +2978,7 @@
    "url": "https://allevents.in/osage-beach/pi-lattes-reformer-dupe-pilates-r\u014cst-bevvy-at-r\u014dst-coffee-shop/200030830271548",
    "desc": "",
    "verified": false,
-   "why_held": "link failed: UnicodeEncodeError('ascii', 'GET /osage-beach/pi-lattes-reformer-dupe-pilates-r\u014cst-bevvy-at-r\u014dst-coffee-sho",
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-11-07-pi-lattes-reformer-dupe-pilates-r\u014dst"
   },
   {
@@ -2506,8 +2990,7 @@
    "town": "Eldon",
    "url": "https://allevents.in/eldon/fall-mini-market-at-pop-play/200030768772155",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-07-fall-mini-market-at-pop-play"
   },
   {
@@ -2519,8 +3002,7 @@
    "town": "Bolivar",
    "url": "https://allevents.in/bolivar/operation-war-path/200030103451425",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-07-operation-war-path"
   },
   {
@@ -2556,7 +3038,8 @@
    "town": "Marshfield",
    "url": "https://allevents.in/marshfield/son-rise-craft-fair/200030803155231",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-11-07-son-rise-craft-fair"
   },
   {
@@ -2791,6 +3274,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-13-annual-christmas-open-house"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Fort Leonard Wood Lions Club and Missouri Lions Foundation Free Vision Screening",
+   "date": "2026-11-14",
+   "time": "9:00am - 2:00pm",
+   "place": "Waypoint United Methodist Church",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=18014",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-14-fort-leonard-wood-lions-club-and-missour"
   },
   {
    "source": "Visit Pulaski County",
@@ -3236,8 +3731,7 @@
    "town": "Bolivar",
    "url": "https://allevents.in/bolivar/black-friday\ufe0f/200030849546910",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: UnicodeEncodeError('ascii', 'GET /bolivar/black-friday\ufe0f/200030849546910 HTTP/1.1', 25, 26, 'ordinal not in ",
+   "verified": true,
    "id": "alle-2026-11-27-black-friday"
   },
   {
@@ -3293,12 +3787,11 @@
    "title": "25th Annual Lake West Chamber Lighted Christmas Parade",
    "date": "2026-11-28",
    "time": "6:00 pm \u2013 8:00 pm",
-   "place": "",
-   "town": "Lake Area",
+   "place": "City of Laurie",
+   "town": "Laurie",
    "url": "https://www.lakeexpo.com/calendar/25th-annual-lake-west-chamber-lighted-christmas-parade/event_82cad47d-0582-4780-9d55-5c32966d7c28.html",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "lake-2026-11-28-25th-annual-lake-west-chamber-lighted-ch"
   },
   {

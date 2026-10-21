@@ -1,19 +1,15 @@
-# Held back — 2026-10-21T09:19
+# Held back — 2026-10-21T10:05
 
 80 events not on the board.
 
 - 2026-10-22 · Lebanon City Council Meeting · Lebanon · event title not found on its detail page · https://www.lebanonmissouri.org/calendar.aspx?EID=3529
-- 2026-10-23 · Festool Demo Day @ High Brothers Lumber · Lake Area · link failed: <HTTPError 429: 'Too Many Requests'> · https://www.lakeexpo.com/calendar/upcoming_events/festool-demo-day-high-brothers-lumber/event_867353c7-8b48-4c0f-a8af-cf9641f6c2c8.html
 - 2026-10-24 · H. Toad's Bloody Mary Bar · Lake Area · link failed: <HTTPError 429: 'Too Many Requests'> · https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html
-- 2026-11-05 · Coffee with the Lake West Chamber · Lake Area · link failed: <HTTPError 429: 'Too Many Requests'> · https://www.lakeexpo.com/calendar/upcoming_events/coffee-with-the-lake-west-chamber/event_c70716a7-f70c-4989-8777-2fb11317cc3e.html
-- 2026-11-07 · Fall Mini Market at Pop + Play · Eldon · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/eldon/fall-mini-market-at-pop-play/200030768772155
-- 2026-11-07 · Operation: War Path · Bolivar · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/bolivar/operation-war-path/200030103451425
-- 2026-11-28 · 25th Annual Lake West Chamber Lighted Christmas Parade · Lake Area · link failed: <HTTPError 429: 'Too Many Requests'> · https://www.lakeexpo.com/calendar/25th-annual-lake-west-chamber-lighted-christmas-parade/event_82cad47d-0582-4780-9d55-5c32966d7c28.html
-- 2026-11-27 · BLACK FRIDAY🛒🤠💸✔️⭐️ · Bolivar · link failed: UnicodeEncodeError('ascii', 'GET /bolivar/black-friday️/200030849546910 HTTP/1.1', 25, 26, 'ordinal not in  · https://allevents.in/bolivar/black-friday️/200030849546910
-- 2026-11-07 · PI-LATTES: REFORMER DUPE PILATES + RŌST BEVVY at Rōst Coffee Shop · Osage Beach · link failed: UnicodeEncodeError('ascii', 'GET /osage-beach/pi-lattes-reformer-dupe-pilates-rŌst-bevvy-at-rōst-coffee-sho · https://allevents.in/osage-beach/pi-lattes-reformer-dupe-pilates-rŌst-bevvy-at-rōst-coffee-shop/200030830271548
+- 2026-11-07 · PI-LATTES: REFORMER DUPE PILATES + RŌST BEVVY at Rōst Coffee Shop · Osage Beach · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/osage-beach/pi-lattes-reformer-dupe-pilates-rŌst-bevvy-at-rōst-coffee-shop/200030830271548
+- 2026-11-07 · Son-Rise Craft Fair · Marshfield · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/marshfield/son-rise-craft-fair/200030803155231
 - 2026-10-21 · Board of Public Works · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4652
 - 2026-10-22 · Lebanon Area Veterans Memorial Board · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4666
 - 2026-10-24 · Club Pink Touring & Ribbon Cutting- Open to All!! · Osage Beach · not a public event (meeting/closure/business) · https://allevents.in/osage-beach/club-pink-touring-and-ribbon-cutting-open-to-all/200030834580855
+- 2026-10-26 · Lebanon City Council Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4410
 - 2026-10-26 · Lebanon City Council Work Session · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4153
 - 2026-10-28 · Quarterly Pulaski CountyTourism Board Meeting · Saint Robert · not a public event (meeting/closure/business) · https://visitpulaskicounty.org/calendar-of-events/?event=17752
 - 2026-11-04 · November Business Builder's Luncheon · Lebanon · not a public event (meeting/closure/business) · https://allevents.in/lebanon/november-business-builders-luncheon/200030862798208
@@ -28,6 +24,8 @@
 - 2026-12-07 · City Council Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4628
 - 2026-12-07 · City Council Work Session · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4626
 - 2026-12-09 · December 2026 Luncheon · Waynesville · not a public event (meeting/closure/business) · https://waynesville-strobertchamber.glueup.com/event/165907
+- 2026-11-05 · Coffee with the Lake West Chamber · Lake Area · skipped: chamber networking coffee · https://www.lakeexpo.com/calendar/upcoming_events/coffee-with-the-lake-west-chamber/event_c70716a7-f70c-4989-8777-2fb11317cc3e.html
+- 2026-11-07 · Operation: War Path · Bolivar · skipped: listing does not say what it is · https://allevents.in/bolivar/operation-war-path/200030103451425
 - 2026-10-21 · Bringing Philanthropy Home to the Ozarks: A Participatory Workshop for Advisors · Lake Area · skipped: not a public outing a couple would attend · https://www.lakeexpo.com/calendar/upcoming_events/bringing-philanthropy-home-to-the-ozarks-a-participatory-workshop-for-advisors/event_450ae3eb-f242-4329-b15f-7338ede4ad43.html
 - 2026-10-24 · Old Stagecoach Stop Museum · Waynesville · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17858&custom_date_start=1792836000&custom_date_end=1792857600
 - 2026-10-24 · Pulaski County 1903 Historic Courthouse Museum · Waynesville · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17617&custom_date_start=1792839600&custom_date_end=1792857600
@@ -82,3 +80,5 @@
 - 2026-12-18 · Free Memory Check Up - December · Bolivar · skipped: not a public outing a couple would attend · https://allevents.in/bolivar/free-memory-check-up-december/200030725109151
 - 2026-12-19 · Free Store Ministry Christmas Food Baskets · Lebanon · skipped: not a public outing a couple would attend · https://www.visitlebanonmo.org/events/2020/free-store-ministry-christmas-food-baskets
 - 2026-12-19 · Santa Pawz Finale - Last Chance for Santa Pawz · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/santa-pawz-finale-last-chance-for-santa-pawz/200030801249018
+- 2026-10-23 · Festool Demo Day @ High Brothers Lumber · Lake Area · skipped: product demo at a lumber store; page states nothing else · https://www.lakeexpo.com/calendar/upcoming_events/festool-demo-day-high-brothers-lumber/event_867353c7-8b48-4c0f-a8af-cf9641f6c2c8.html
+- 2026-11-27 · BLACK FRIDAY🛒🤠💸✔️⭐️ · Bolivar · skipped: store sale, not an outing · https://allevents.in/bolivar/black-friday️/200030849546910

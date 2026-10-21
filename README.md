@@ -11,7 +11,9 @@ Double-click `index.html`. No server needed.
 3. `python3 scripts/build.py` — writes `data/events.js` (the board) and `data/held_back.md` (what was dropped and why).
 
 ## Sources (all give one page per event)
-Visit Lebanon · City of Lebanon calendar · Visit Pulaski County · Waynesville–St. Robert Chamber · Lake Expo
+Visit Lebanon · City of Lebanon calendar · Visit Pulaski County · Waynesville–St. Robert Chamber · Lake Expo · AllEvents city pages · MaxPreps (area high-school games, next 8 days; labeled automatically by build.py)
+
+Inside the next 7 days every occurrence of a recurring event is kept (voicetrackers work a week ahead); beyond that, next occurrence only.
 
 ## Rules
 - Every card links to that event's own page. No verified link, no card.

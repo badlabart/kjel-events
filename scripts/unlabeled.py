@@ -7,7 +7,10 @@ ROOT = Path(__file__).resolve().parent.parent
 raw = json.loads((ROOT / "data" / "raw_events.json").read_text())
 labels = json.loads((ROOT / "data" / "labels.json").read_text())
 
-new = [e for e in raw["events"] if e.get("verified") and e["id"] not in labels]
+titled = {(e["source"], e["title"].lower()) for e in raw["events"] if e["id"] in labels}
+# MaxPreps games are labeled by build.py; a repeat of an already-labeled event reuses its label.
+new = [e for e in raw["events"] if e.get("verified") and e["id"] not in labels
+       and e["source"] != "MaxPreps" and (e["source"], e["title"].lower()) not in titled]
 for e in new:
     print(" | ".join([e["id"], e["title"][:80], e["place"][:40], e["town"], e["desc"][:160]]))
 print(f"{len(new)} unlabeled")
