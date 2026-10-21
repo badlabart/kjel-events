@@ -111,7 +111,7 @@ def write(data):
         for e in items:
             when = esc(e["when"]) if e.get("when") else label(e["date"]) + (" &middot; " + esc(e["time"]) if e["time"] else "")
             place = f'<span class="town">{esc(e["town"])}</span>{esc(e["place"])}'
-            link = "Details &#8599;" if e["link"] == "detail" else "On list page &#8599;"
+            link = "On list page &#8599;" if e.get("link") == "list" else "Details &#8599;"
             cards.append(
                 f'<div class="card" data-date="{e["date"]}" data-label="{label(e["date"])}" data-time="{esc(e.get("time", ""))}"{' data-keep="1"' if e.get("when") else ""}>'
                 f'<div class="when"><span>{when}</span></div>'
@@ -120,7 +120,8 @@ def write(data):
                 + (f'<div class="why"><b>Style:</b> {esc(e["style"])}</div>' if e.get("style") else "")
                 + (f'<div class="why"><b>Attendance:</b> {esc(e["attendance"])}</div>' if e.get("attendance") else "")
                 + (f'<div class="why"><b>Contact:</b> {esc(e["contact"])}</div>' if e.get("contact") else "")
-                + f'<a class="link" href="{esc(e["url"])}" target="_blank" rel="noopener">{link}</a></div>')
+                + (f'<a class="link" href="{esc(e["url"])}" target="_blank" rel="noopener">{link}</a>' if e.get("url") else "")
+                + '</div>')
         body = "".join(cards) or '<div class="empty">Nothing listed yet.</div>'
         cols.append(f'<div class="col"><h2>{esc(typ)} <span class="count">{len(items)}</span></h2>{body}</div>')
 

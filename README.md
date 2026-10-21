@@ -19,3 +19,6 @@ Inside the next 7 days every occurrence of a recurring event is kept (voicetrack
 - Every card links to that event's own page. No verified link, no card.
 - Meetings, closures, chamber luncheons and towns outside the listening area are held back automatically.
 - Why lines use only what the source listing says.
+
+## Manual entries
+Events Boss gives Claude by hand ("add this event ...") go in `data/manual.json` and show in the Manual Entries column. They are not collected or synced to Notion. No link unless one is given.
