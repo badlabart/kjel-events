@@ -1,5 +1,5 @@
 {
- "collected": "2026-10-21T10:05",
+ "collected": "2026-10-21T10:41",
  "errors": {},
  "events": [
   {
@@ -274,19 +274,6 @@
   },
   {
    "source": "MaxPreps",
-   "title": "Camdenton vs. Hillcrest boys soccer",
-   "date": "2026-10-22",
-   "time": "7:00 PM",
-   "place": "At Hillcrest High School",
-   "town": "Camdenton",
-   "url": "https://www.maxpreps.com/mo/soccer/match/camdenton-vs-hillcrest-springfield/10-22-2026/?c=84dde2e3-748a-4712-aa2b-1341ee7f699e",
-   "desc": "",
-   "why": "High school boys soccer. Camdenton 10-12, Hillcrest 0-7.",
-   "verified": true,
-   "id": "maxp-2026-10-22-camdenton-vs-hillcrest-boys-soccer"
-  },
-  {
-   "source": "MaxPreps",
    "title": "Lebanon vs. Ozark boys soccer",
    "date": "2026-10-22",
    "time": "7:00 PM",
@@ -297,6 +284,19 @@
    "why": "High school boys soccer. Lebanon 10-11, Ozark 8-13-1.",
    "verified": true,
    "id": "maxp-2026-10-22-lebanon-vs-ozark-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Camdenton vs. Hillcrest boys soccer",
+   "date": "2026-10-22",
+   "time": "7:00 PM",
+   "place": "At Hillcrest High School",
+   "town": "Camdenton",
+   "url": "https://www.maxpreps.com/mo/soccer/match/camdenton-vs-hillcrest-springfield/10-22-2026/?c=84dde2e3-748a-4712-aa2b-1341ee7f699e",
+   "desc": "",
+   "why": "High school boys soccer. Camdenton 10-12, Hillcrest 0-7.",
+   "verified": true,
+   "id": "maxp-2026-10-22-camdenton-vs-hillcrest-boys-soccer"
   },
   {
    "source": "Visit Lebanon",
@@ -2737,7 +2737,8 @@
    "town": "Lebanon",
    "url": "https://allevents.in/lebanon/holiday-bazaar-and-bake-sale/200030789912315",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-11-06-holiday-bazaar-bake-sale"
   },
   {
@@ -2749,7 +2750,8 @@
    "town": "Lebanon",
    "url": "https://allevents.in/lebanon/cmg-clinical-competency-fair-lebanon/100001988421249484",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-11-06-cmg-clinical-competency-fair-lebanon"
   },
   {
@@ -2761,7 +2763,8 @@
    "town": "Camdenton",
    "url": "https://allevents.in/camdenton/gnome-for-your-home-clay-class-11-6/200030867445250",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-11-06-gnome-for-your-home-clay-class-11-6"
   },
   {
@@ -2773,7 +2776,8 @@
    "town": "Osage Beach",
    "url": "https://allevents.in/osage-beach/evergreen-holiday-open-house/200030575956757",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-11-06-evergreen-holiday-open-house"
   },
   {
@@ -2977,8 +2981,7 @@
    "town": "Osage Beach",
    "url": "https://allevents.in/osage-beach/pi-lattes-reformer-dupe-pilates-r\u014cst-bevvy-at-r\u014dst-coffee-shop/200030830271548",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-07-pi-lattes-reformer-dupe-pilates-r\u014dst"
   },
   {
@@ -3038,8 +3041,7 @@
    "town": "Marshfield",
    "url": "https://allevents.in/marshfield/son-rise-craft-fair/200030803155231",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-07-son-rise-craft-fair"
   },
   {
