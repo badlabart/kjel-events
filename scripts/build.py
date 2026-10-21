@@ -57,7 +57,18 @@ for e in raw["events"]:
                       "town": TOWN_FIX.get(e["town"], e["town"]), "url": e["url"], "link": "detail", "type": lab[0], "why": lab[1], "style": lab[2] if len(lab) > 2 else "",
                       "source": e["source"]})
 
-data = {"updated": raw["collected"], "types": TYPES, "events": board}
+# Manual entries (Boss 2026-10-21): each carries the Show Prep category it belongs in. They ride along in events.js under
+# "manual" (NOT in "events", so the Notion sync never sees them) and the Show Prep build files them by category.
+manual = json.loads((ROOT / "data" / "manual.json").read_text())["entries"]
+SHOWPREP_CATS = [t for t in TYPES if t not in ("KIM ONLY", "Manual Entries", "Live Music")]
+manual_for_showprep = []
+for m in manual:
+    if m.get("category") in SHOWPREP_CATS:
+        manual_for_showprep.append({k: m.get(k, "") for k in ("title", "date", "time", "min", "place", "town", "why", "url")}
+                                   | {"type": m["category"], "link": "", "style": "", "source": "Manual"})
+    else:
+        print(f"WARNING: manual entry {m.get('title')!r} has no valid category {m.get('category')!r}; not sent to Show Prep")
+data = {"updated": raw["collected"], "types": TYPES, "events": board, "manual": manual_for_showprep}
 (ROOT / "data" / "events.js").write_text("window.KJEL_EVENTS = " + json.dumps(data, ensure_ascii=False) + ";\n")
 
 lines = [f"# Held back — {raw['collected']}", "", f"{len(held)} events not on the board.", ""]
@@ -70,7 +81,6 @@ import sys  # noqa: E402
 sys.path.insert(0, str(ROOT / "scripts"))
 import page  # noqa: E402
 meetups = json.loads((ROOT / "data" / "meetups.json").read_text())["meetups"]
-manual = json.loads((ROOT / "data" / "manual.json").read_text())["entries"]
 page_data = dict(data, events=data["events"] + [dict(m, type="KIM ONLY", style="", source="Meetups") for m in meetups]
                  + [dict(m, type="Manual Entries", style="", source="Manual") for m in manual])
 page.write(page_data)
