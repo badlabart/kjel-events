@@ -1,5 +1,5 @@
 {
- "collected": "2026-10-21T10:41",
+ "collected": "2026-10-21T12:28",
  "errors": {},
  "events": [
   {
@@ -26,18 +26,6 @@
    "verified": false,
    "id": "city-2026-10-21-board-of-public-works",
    "why_held": "not a public event (meeting/closure/business)"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "StoryTime at Forget Me Not Horse Rescue & Sanctuary",
-   "date": "2026-10-21",
-   "time": "11:00 am \u2013 1:00 pm",
-   "place": "Missouri Forget Me Not Horse Rescue & Sanctuary",
-   "town": "Linn Creek",
-   "url": "https://www.lakeexpo.com/calendar/storytime-at-forget-me-not-horse-rescue-sanctuary/event_a543c3b0-3e7f-4021-842b-fca8c9b8a202.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-21-storytime-at-forget-me-not-horse-rescue"
   },
   {
    "source": "Lake Expo",
@@ -255,7 +243,7 @@
    "town": "Lake Ozark",
    "url": "https://www.maxpreps.com/mo/soccer/match/fatima-westphalia-vs-osage-kaiser/10-22-2026/?c=6bde89a5-c95f-4eb5-9907-533e53ca449f",
    "desc": "",
-   "why": "High school boys soccer. Fatima 1-11, Osage 3-12.",
+   "why": "High school boys soccer. Fatima 2-11, Osage 3-12.",
    "verified": true,
    "id": "maxp-2026-10-22-fatima-vs-osage-boys-soccer"
   },
@@ -268,7 +256,7 @@
    "town": "Waynesville",
    "url": "https://www.maxpreps.com/mo/soccer/match/nixa-vs-waynesville/10-22-2026/?c=fa37d0f1-1316-4ebc-a7da-85e9a4bb8811",
    "desc": "",
-   "why": "High school boys soccer. Nixa 17-3, Waynesville 5-10.",
+   "why": "High school boys soccer. Nixa 18-3, Waynesville 5-10.",
    "verified": true,
    "id": "maxp-2026-10-22-nixa-vs-waynesville-boys-soccer"
   },
@@ -281,7 +269,7 @@
    "town": "Lebanon",
    "url": "https://www.maxpreps.com/mo/soccer/match/lebanon-vs-ozark/10-22-2026/?c=d74d7202-2b73-411d-87a9-f8c70c8b6320",
    "desc": "",
-   "why": "High school boys soccer. Lebanon 10-11, Ozark 8-13-1.",
+   "why": "High school boys soccer. Lebanon 10-12, Ozark 8-13-1.",
    "verified": true,
    "id": "maxp-2026-10-22-lebanon-vs-ozark-boys-soccer"
   },
@@ -294,7 +282,7 @@
    "town": "Camdenton",
    "url": "https://www.maxpreps.com/mo/soccer/match/camdenton-vs-hillcrest-springfield/10-22-2026/?c=84dde2e3-748a-4712-aa2b-1341ee7f699e",
    "desc": "",
-   "why": "High school boys soccer. Camdenton 10-12, Hillcrest 0-7.",
+   "why": "High school boys soccer. Camdenton 11-12, Hillcrest 0-7.",
    "verified": true,
    "id": "maxp-2026-10-22-camdenton-vs-hillcrest-boys-soccer"
   },
@@ -504,19 +492,6 @@
   },
   {
    "source": "MaxPreps",
-   "title": "Versailles vs. Sherwood football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "At Sherwood High School",
-   "town": "Versailles",
-   "url": "https://www.maxpreps.com/mo/football/game/sherwood-creighton-vs-versailles/10-23-2026/?c=ffb17bf2-25ff-4735-a64b-b3b026c21eb9",
-   "desc": "",
-   "why": "High school football. Versailles 6-2, Sherwood 3-5.",
-   "verified": true,
-   "id": "maxp-2026-10-23-versailles-vs-sherwood-football"
-  },
-  {
-   "source": "MaxPreps",
    "title": "Marshfield vs. West Plains football",
    "date": "2026-10-23",
    "time": "7:00 PM",
@@ -540,6 +515,19 @@
    "why": "High school football. Fair Grove 7-1, Buffalo 3-5.",
    "verified": true,
    "id": "maxp-2026-10-23-fair-grove-vs-buffalo-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Versailles vs. Sherwood football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "At Sherwood High School",
+   "town": "Versailles",
+   "url": "https://www.maxpreps.com/mo/football/game/sherwood-creighton-vs-versailles/10-23-2026/?c=ffb17bf2-25ff-4735-a64b-b3b026c21eb9",
+   "desc": "",
+   "why": "High school football. Versailles 6-2, Sherwood 3-5.",
+   "verified": true,
+   "id": "maxp-2026-10-23-versailles-vs-sherwood-football"
   },
   {
    "source": "MaxPreps",
@@ -608,19 +596,6 @@
   },
   {
    "source": "MaxPreps",
-   "title": "Fair Grove vs. New Covenant Academy boys soccer",
-   "date": "2026-10-23",
-   "time": "4:30 PM",
-   "place": "At New Covenant Academy High School",
-   "town": "Fair Grove",
-   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-new-covenant-academy-springfield/10-23-2026/?c=e69d6a18-0776-4141-83d8-9386fc332cda",
-   "desc": "",
-   "why": "High school boys soccer. Fair Grove 9-6, New Covenant Academy 3-11.",
-   "verified": true,
-   "id": "maxp-2026-10-23-fair-grove-vs-new-covenant-academy-boys"
-  },
-  {
-   "source": "MaxPreps",
    "title": "Sacred Heart vs. Dixon boys soccer",
    "date": "2026-10-23",
    "time": "4:30 PM",
@@ -628,9 +603,22 @@
    "town": "Dixon",
    "url": "https://www.maxpreps.com/mo/soccer/match/dixon-vs-sacred-heart-sedalia/10-23-2026/?c=c59f5725-dc2b-42f2-91e2-715cd3a0adb0",
    "desc": "",
-   "why": "High school boys soccer. Sacred Heart 4-10-1, Dixon 7-6.",
+   "why": "High school boys soccer. Sacred Heart 4-11-1, Dixon 7-6.",
    "verified": true,
    "id": "maxp-2026-10-23-sacred-heart-vs-dixon-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Fair Grove vs. New Covenant Academy boys soccer",
+   "date": "2026-10-23",
+   "time": "4:30 PM",
+   "place": "At New Covenant Academy High School",
+   "town": "Fair Grove",
+   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-new-covenant-academy-springfield/10-23-2026/?c=e69d6a18-0776-4141-83d8-9386fc332cda",
+   "desc": "",
+   "why": "High school boys soccer. Fair Grove 9-6, New Covenant Academy 3-12.",
+   "verified": true,
+   "id": "maxp-2026-10-23-fair-grove-vs-new-covenant-academy-boys"
   },
   {
    "source": "Visit Lebanon",
@@ -778,18 +766,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Pulaski County Farmers Market",
-   "date": "2026-10-24",
-   "time": "8:00am - 12:00pm",
-   "place": "Pulaski County Farmers Market Farmers Market Pavilion",
-   "town": "Pulaski County",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17821&custom_date_start=1792828800&custom_date_end=1792843200",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-24-pulaski-county-farmers-market"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Halloween at Froggy's River Resort",
    "date": "2026-10-24",
    "time": "8:00am - 5:30pm",
@@ -799,6 +775,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-10-24-halloween-at-froggy-s-river-resort"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Pulaski County Farmers Market",
+   "date": "2026-10-24",
+   "time": "8:00am - 12:00pm",
+   "place": "Pulaski County Farmers Market Farmers Market Pavilion",
+   "town": "Pulaski County",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17821&custom_date_start=1792828800&custom_date_end=1792843200",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-24-pulaski-county-farmers-market"
   },
   {
    "source": "Visit Pulaski County",
@@ -2617,7 +2605,8 @@
    "town": "Lebanon",
    "url": "https://allevents.in/lebanon/grand-opening-weekend/200030790093720",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-11-05-grand-opening-weekend"
   },
   {
@@ -2629,7 +2618,8 @@
    "town": "Lebanon",
    "url": "https://allevents.in/lebanon/2026-wall-of-honor-community-achievement-award/200029853709614",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-11-05-2026-wall-of-honor-community-achievement"
   },
   {
@@ -2641,7 +2631,8 @@
    "town": "Camdenton",
    "url": "https://allevents.in/camdenton/under-the-lights-community-night/200030858652200",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-11-05-under-the-lights-community-night"
   },
   {
@@ -2737,8 +2728,7 @@
    "town": "Lebanon",
    "url": "https://allevents.in/lebanon/holiday-bazaar-and-bake-sale/200030789912315",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-06-holiday-bazaar-bake-sale"
   },
   {
@@ -2750,8 +2740,7 @@
    "town": "Lebanon",
    "url": "https://allevents.in/lebanon/cmg-clinical-competency-fair-lebanon/100001988421249484",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-06-cmg-clinical-competency-fair-lebanon"
   },
   {
@@ -2763,8 +2752,7 @@
    "town": "Camdenton",
    "url": "https://allevents.in/camdenton/gnome-for-your-home-clay-class-11-6/200030867445250",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-06-gnome-for-your-home-clay-class-11-6"
   },
   {
@@ -2776,8 +2764,7 @@
    "town": "Osage Beach",
    "url": "https://allevents.in/osage-beach/evergreen-holiday-open-house/200030575956757",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-06-evergreen-holiday-open-house"
   },
   {

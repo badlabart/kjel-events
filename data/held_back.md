@@ -1,13 +1,12 @@
-# Held back — 2026-10-21T10:41
+# Held back — 2026-10-21T12:28
 
-81 events not on the board.
+80 events not on the board.
 
 - 2026-10-22 · Lebanon City Council Meeting · Lebanon · event title not found on its detail page · https://www.lebanonmissouri.org/calendar.aspx?EID=3529
 - 2026-10-24 · H. Toad's Bloody Mary Bar · Lake Area · link failed: <HTTPError 429: 'Too Many Requests'> · https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html
-- 2026-11-06 · Holiday Bazaar & Bake Sale · Lebanon · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/lebanon/holiday-bazaar-and-bake-sale/200030789912315
-- 2026-11-06 · CMG Clinical Competency Fair LEBANON · Lebanon · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/lebanon/cmg-clinical-competency-fair-lebanon/100001988421249484
-- 2026-11-06 · Gnome for Your Home Clay Class 11/6 · Camdenton · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/camdenton/gnome-for-your-home-clay-class-11-6/200030867445250
-- 2026-11-06 · Evergreen Holiday Open House · Osage Beach · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/osage-beach/evergreen-holiday-open-house/200030575956757
+- 2026-11-05 · Grand Opening Weekend · Lebanon · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/lebanon/grand-opening-weekend/200030790093720
+- 2026-11-05 · 2026 Wall of Honor Community Achievement Award · Lebanon · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/lebanon/2026-wall-of-honor-community-achievement-award/200029853709614
+- 2026-11-05 · Under the Lights Community Night · Camdenton · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/camdenton/under-the-lights-community-night/200030858652200
 - 2026-10-21 · Board of Public Works · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4652
 - 2026-10-22 · Lebanon Area Veterans Memorial Board · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4666
 - 2026-10-24 · Club Pink Touring & Ribbon Cutting- Open to All!! · Osage Beach · not a public event (meeting/closure/business) · https://allevents.in/osage-beach/club-pink-touring-and-ribbon-cutting-open-to-all/200030834580855
@@ -57,8 +56,8 @@
 - 2026-11-01 · Healing Services At New Revival Center · Versailles · skipped: not a public outing a couple would attend · https://www.lakeexpo.com/calendar/upcoming_events/healing-services-at-new-revival-center/event_8f48e364-1da5-11e9-8348-670f6b36762e.html
 - 2026-11-01 · Life Care Center Ministry · Waynesville · skipped: not a public outing a couple would attend · https://allevents.in/waynesville/life-care-center-ministry/200030215785634
 - 2026-11-03 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793692800&custom_date_end=1793750340
-- 2026-11-05 · Grand Opening Weekend · Lebanon · skipped: not a public outing a couple would attend · https://allevents.in/lebanon/grand-opening-weekend/200030790093720
 - 2026-11-06 · Lifeguard Training · Fort Leonard Wood · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17991
+- 2026-11-06 · CMG Clinical Competency Fair LEBANON · Lebanon · skipped: not a public outing a couple would attend · https://allevents.in/lebanon/cmg-clinical-competency-fair-lebanon/100001988421249484
 - 2026-11-06 · The Missouri Emergency Services Instructor Conference · Lake Ozark · skipped: not a public outing a couple would attend · https://allevents.in/lake-ozark/the-missouri-emergency-services-instructor-conference/200030860341724
 - 2026-11-07 · Lake Ozark Wood Carvers Annual Show · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/lake-ozark-wood-carvers-annual-show/80002858335459
 - 2026-11-07 · Lake Ozarks Woodcarvers Annual Show · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/lake-ozarks-woodcarvers-annual-show/200030533061136
