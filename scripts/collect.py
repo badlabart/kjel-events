@@ -6,6 +6,7 @@ import html
 import json
 import re
 import sys
+import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta
@@ -35,6 +36,7 @@ SKIP_WORDS = re.compile(
 def get(url, data=None, headers=None, timeout=30):
     h = {"User-Agent": UA}
     h.update(headers or {})
+    url = urllib.parse.quote(url, safe=":/?=&%#;,+@!$'()*~")
     req = urllib.request.Request(url, data=data.encode() if data else None, headers=h)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.status, r.read().decode("utf-8", "ignore")
@@ -159,6 +161,41 @@ def lake_expo_place(e, page):
         e["place"], e["town"] = text(loc.group(1)), text(loc.group(2)).title()
 
 
+# ---------- AllEvents city pages (JSON-LD; adds weekday regulars the tourism calendars skip) ----------
+ALLEVENTS = ["lebanon-mo", "waynesville-mo", "st-robert", "fort-leonard-wood", "camdenton", "osage-beach",
+             "lake-ozark", "eldon-mo", "bolivar-mo", "marshfield-mo", "richland-mo", "buffalo-mo"]
+
+
+def allevents():
+    out = []
+    for slug in ALLEVENTS:
+        try:
+            _, h = get(f"https://allevents.in/{slug}/all", headers={"Accept-Encoding": "identity"})
+        except Exception:
+            continue
+        for block in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', h, re.S):
+            try:
+                data = json.loads(block)
+            except ValueError:
+                continue
+            for it in data if isinstance(data, list) else [data]:
+                if not (isinstance(it, dict) and "Event" in str(it.get("@type", "")) and it.get("url")):
+                    continue
+                try:
+                    st = datetime.fromisoformat(it["startDate"][:19])
+                except (KeyError, ValueError):
+                    continue
+                loc = it.get("location") or {}
+                loc = loc[0] if isinstance(loc, list) and loc else loc
+                addr = loc.get("address") if isinstance(loc, dict) else {}
+                town = addr.get("addressLocality", "") if isinstance(addr, dict) else ""
+                tm = st.strftime("%-I:%M %p") if it["startDate"][11:16] not in ("", "00:00") else ""
+                out.append(ev("AllEvents", it.get("name", ""), st.date(), tm,
+                              loc.get("name", "") if isinstance(loc, dict) else "", town,
+                              it["url"].split("?")[0], it.get("description") or ""))
+    return out
+
+
 # ---------- verify ----------
 def norm(s):
     return re.sub(r"[^a-z0-9 ]", " ", html.unescape(s).lower())
@@ -189,7 +226,7 @@ def verify(e):
 
 def main():
     events, errors = [], {}
-    for fn in (visit_lebanon, city_lebanon, visit_pulaski, wsr_chamber, lake_expo):
+    for fn in (visit_lebanon, city_lebanon, visit_pulaski, wsr_chamber, lake_expo, allevents):
         try:
             got = fn()
             events += got
@@ -205,6 +242,10 @@ def main():
     for e in events:
         nxt.setdefault((e["source"], norm(e["title"]).strip()), e)
     events = list(nxt.values())
+    # AllEvents repeats many tourism-calendar events: keep the other source's copy.
+    other = {(e["date"], " ".join(norm(e["title"]).split()[:3])) for e in events if e["source"] != "AllEvents"}
+    events = [e for e in events if e["source"] != "AllEvents"
+              or (e["date"], " ".join(norm(e["title"]).split()[:3])) not in other]
 
     with ThreadPoolExecutor(4) as pool:
         events = list(pool.map(verify, events))

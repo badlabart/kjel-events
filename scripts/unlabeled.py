@@ -1,4 +1,5 @@
-"""Print verified events that have no label yet (one line each), for the weekly refresh."""
+"""Print verified events that have no label yet (one line each), for the daily refresh.
+Skipped events carry a ["SKIP", reason] label so they are not printed again."""
 import json
 from pathlib import Path
 

@@ -38,6 +38,8 @@ for e in raw["events"]:
         held.append((e, e.get("why_held", "not verified")))
     elif not lab:
         held.append((e, "not picked for the board"))
+    elif lab[0] == "SKIP":
+        held.append((e, "skipped: " + lab[1]))
     elif lab[0] not in TYPES:
         held.append((e, f"unknown Type {lab[0]!r}"))
     else:
