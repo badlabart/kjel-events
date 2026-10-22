@@ -1,80 +1,7 @@
 {
- "collected": "2026-10-21T12:28",
+ "collected": "2026-10-22T06:52",
  "errors": {},
  "events": [
-  {
-   "source": "Visit Lebanon",
-   "title": "Storytime",
-   "date": "2026-10-21",
-   "time": "10:00 AM - 11:00 AM",
-   "place": "Lebanon-Laclede County Library",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/storytime52325422232324322232",
-   "desc": "This program is typically geared towards 2-6 year old's. Wednesdays and Thursdays will cover the same material, but each week will have a different theme. In Storytime, we sing songs, read a few books, make a craft and have snack.",
-   "verified": true,
-   "id": "visi-2026-10-21-storytime"
-  },
-  {
-   "source": "City of Lebanon",
-   "title": "Board of Public Works",
-   "date": "2026-10-21",
-   "time": "12:00 PM",
-   "place": "",
-   "town": "Lebanon",
-   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4652",
-   "desc": "",
-   "verified": false,
-   "id": "city-2026-10-21-board-of-public-works",
-   "why_held": "not a public event (meeting/closure/business)"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Bringing Philanthropy Home to the Ozarks: A Participatory Workshop for Advisors",
-   "date": "2026-10-21",
-   "time": "10:00 am",
-   "place": "",
-   "town": "Lake Area",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/bringing-philanthropy-home-to-the-ozarks-a-participatory-workshop-for-advisors/event_450ae3eb-f242-4329-b15f-7338ede4ad43.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-21-bringing-philanthropy-home-to-the-ozarks"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: PiYo",
-   "date": "2026-10-21",
-   "time": "6:45 am \u2013 7:45 am",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-piyo/event_c678fe52-9c27-4b30-8623-c7d9ee77951c.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-21-spa-kyoto-fitness-the-lodge-of-four-se"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Water Aerobics",
-   "date": "2026-10-21",
-   "time": "8:30 am \u2013 9:30 am",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-water-aerobics/event_7b1a38f4-7d7c-4d96-bc49-5a5c7e47ddcf.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-21-spa-kyoto-fitness-the-lodge-of-four-se"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Xtreme Bingo @ Horny Toad's/Camden on the Lake",
-   "date": "2026-10-21",
-   "time": "6:00 pm",
-   "place": "Horny Toad",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/xtreme-bingo-horny-toads-camden-on-the-lake/event_cdeec1c0-36e7-477c-83a8-8f46bdd2b164.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-21-xtreme-bingo-horny-toad-s-camden-on-th"
-  },
   {
    "source": "Visit Lebanon",
    "title": "Storytime",
@@ -126,18 +53,6 @@
    "id": "city-2026-10-22-lebanon-city-council-meeting"
   },
   {
-   "source": "Visit Pulaski County",
-   "title": "Thursday Night Pool Tournament",
-   "date": "2026-10-22",
-   "time": "6:00pm - 1:30am",
-   "place": "Club Rodeo Midway",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17779&custom_date_start=1792692000&custom_date_end=1792632600",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-22-thursday-night-pool-tournament"
-  },
-  {
    "source": "Lake Expo",
    "title": "The Encore - Live Music by Zach Simpson",
    "date": "2026-10-22",
@@ -154,24 +69,13 @@
    "title": "Spools & Needles Group",
    "date": "2026-10-22",
    "time": "10:00 am \u2013 2:00 pm",
-   "place": "Camden County Museum",
-   "town": "Linn Creek",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/spools-needles-group/event_98f5157c-d7a0-11e8-ab79-f773550c4324.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-10-22-spools-needles-group"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Pinktober - Dine for a Cause at HK's!",
-   "date": "2026-10-22",
-   "time": "",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/pinktober---dine-for-a-cause-at-hks/event_309f9068-e213-4d7b-b354-8ada22cd7f7f.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-22-pinktober-dine-for-a-cause-at-hk-s"
   },
   {
    "source": "AllEvents",
@@ -372,6 +276,18 @@
   },
   {
    "source": "Lake Expo",
+   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Water Aerobics",
+   "date": "2026-10-23",
+   "time": "8:30 am \u2013 9:30 am",
+   "place": "Lodge of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-water-aerobics/event_7b1a38f4-7d7c-4d96-bc49-5a5c7e47ddcf.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-23-spa-kyoto-fitness-the-lodge-of-four-se"
+  },
+  {
+   "source": "Lake Expo",
    "title": "Festool Demo Day @ High Brothers Lumber",
    "date": "2026-10-23",
    "time": "10:00 am",
@@ -505,19 +421,6 @@
   },
   {
    "source": "MaxPreps",
-   "title": "Fair Grove vs. Buffalo football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "Buffalo High School",
-   "town": "Buffalo",
-   "url": "https://www.maxpreps.com/mo/football/game/buffalo-vs-fair-grove/10-23-2026/?c=bc01b6a0-8968-4bb8-9948-733af5b4c412",
-   "desc": "",
-   "why": "High school football. Fair Grove 7-1, Buffalo 3-5.",
-   "verified": true,
-   "id": "maxp-2026-10-23-fair-grove-vs-buffalo-football"
-  },
-  {
-   "source": "MaxPreps",
    "title": "Versailles vs. Sherwood football",
    "date": "2026-10-23",
    "time": "7:00 PM",
@@ -528,6 +431,19 @@
    "why": "High school football. Versailles 6-2, Sherwood 3-5.",
    "verified": true,
    "id": "maxp-2026-10-23-versailles-vs-sherwood-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Fair Grove vs. Buffalo football",
+   "date": "2026-10-23",
+   "time": "7:00 PM",
+   "place": "Buffalo High School",
+   "town": "Buffalo",
+   "url": "https://www.maxpreps.com/mo/football/game/buffalo-vs-fair-grove/10-23-2026/?c=bc01b6a0-8968-4bb8-9948-733af5b4c412",
+   "desc": "",
+   "why": "High school football. Fair Grove 7-1, Buffalo 3-5.",
+   "verified": true,
+   "id": "maxp-2026-10-23-fair-grove-vs-buffalo-football"
   },
   {
    "source": "MaxPreps",
@@ -596,19 +512,6 @@
   },
   {
    "source": "MaxPreps",
-   "title": "Sacred Heart vs. Dixon boys soccer",
-   "date": "2026-10-23",
-   "time": "4:30 PM",
-   "place": "Dixon High School",
-   "town": "Dixon",
-   "url": "https://www.maxpreps.com/mo/soccer/match/dixon-vs-sacred-heart-sedalia/10-23-2026/?c=c59f5725-dc2b-42f2-91e2-715cd3a0adb0",
-   "desc": "",
-   "why": "High school boys soccer. Sacred Heart 4-11-1, Dixon 7-6.",
-   "verified": true,
-   "id": "maxp-2026-10-23-sacred-heart-vs-dixon-boys-soccer"
-  },
-  {
-   "source": "MaxPreps",
    "title": "Fair Grove vs. New Covenant Academy boys soccer",
    "date": "2026-10-23",
    "time": "4:30 PM",
@@ -619,6 +522,19 @@
    "why": "High school boys soccer. Fair Grove 9-6, New Covenant Academy 3-12.",
    "verified": true,
    "id": "maxp-2026-10-23-fair-grove-vs-new-covenant-academy-boys"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Sacred Heart vs. Dixon boys soccer",
+   "date": "2026-10-23",
+   "time": "4:30 PM",
+   "place": "Dixon High School",
+   "town": "Dixon",
+   "url": "https://www.maxpreps.com/mo/soccer/match/dixon-vs-sacred-heart-sedalia/10-23-2026/?c=c59f5725-dc2b-42f2-91e2-715cd3a0adb0",
+   "desc": "",
+   "why": "High school boys soccer. Sacred Heart 4-11-1, Dixon 7-6.",
+   "verified": true,
+   "id": "maxp-2026-10-23-sacred-heart-vs-dixon-boys-soccer"
   },
   {
    "source": "Visit Lebanon",
@@ -961,11 +877,12 @@
    "title": "Backwater Jack's - Live Music by Zach Simpson",
    "date": "2026-10-24",
    "time": "5:00 pm \u2013 9:00 pm",
-   "place": "Backwater Jack's Bar And Grill",
-   "town": "Osage Beach",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/live_entertainment/backwater-jacks---live-music-by-zach-simpson/event_575ee6ce-0098-4c23-b91a-119b976bfc5a.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-10-24-backwater-jack-s-live-music-by-zach-si"
   },
   {
@@ -973,12 +890,11 @@
    "title": "H. Toad's Bloody Mary Bar",
    "date": "2026-10-24",
    "time": "9:00 am \u2013 1:00 pm",
-   "place": "",
-   "town": "Lake Area",
+   "place": "Horny Toad",
+   "town": "Lake Ozark",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "lake-2026-10-24-h-toad-s-bloody-mary-bar"
   },
   {
@@ -1279,9 +1195,22 @@
    "town": "Laquey",
    "url": "https://www.maxpreps.com/mo/soccer/match/central-springfield-vs-laquey/10-24-2026/?c=5a879214-6871-4f22-b3f5-5af2026c8dea",
    "desc": "",
-   "why": "High school boys soccer. Central 15-5, Laquey 4-1.",
+   "why": "High school boys soccer. Central 16-5, Laquey 4-1.",
    "verified": true,
    "id": "maxp-2026-10-24-central-vs-laquey-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Bolivar vs. Southern Boone softball",
+   "date": "2026-10-24",
+   "time": "",
+   "place": "At Southern Boone High School",
+   "town": "Bolivar",
+   "url": "https://www.maxpreps.com/mo/softball/game/bolivar-vs-southern-boone-ashland/10-24-2026/?c=095db258-0d20-420b-b025-59bc7f689777",
+   "desc": "",
+   "why": "High school softball. Bolivar 24-16, Southern Boone 24-2.",
+   "verified": true,
+   "id": "maxp-2026-10-24-bolivar-vs-southern-boone-softball"
   },
   {
    "source": "Visit Pulaski County",
@@ -1346,6 +1275,18 @@
    "why_held": "not a public event (meeting/closure/business)"
   },
   {
+   "source": "Lake Expo",
+   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: PiYo",
+   "date": "2026-10-26",
+   "time": "6:45 am \u2013 7:45 am",
+   "place": "Lodge of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-piyo/event_c678fe52-9c27-4b30-8623-c7d9ee77951c.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-26-spa-kyoto-fitness-the-lodge-of-four-se"
+  },
+  {
    "source": "AllEvents",
    "title": "Adult Book Club: History for the Books",
    "date": "2026-10-26",
@@ -1378,22 +1319,9 @@
    "town": "Dixon",
    "url": "https://www.maxpreps.com/mo/soccer/match/dixon-vs-new-covenant-academy-springfield/10-26-2026/?c=631fd4e6-e1f6-4522-ae13-67777435af4f",
    "desc": "",
-   "why": "High school boys soccer. New Covenant Academy 3-11, Dixon 7-6.",
+   "why": "High school boys soccer. New Covenant Academy 3-12, Dixon 7-6.",
    "verified": true,
    "id": "maxp-2026-10-26-new-covenant-academy-vs-dixon-boys-socc"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "New Heights Christian Academy vs. Fair Grove boys soccer",
-   "date": "2026-10-26",
-   "time": "4:30 PM",
-   "place": "Fair Grove",
-   "town": "Fair Grove",
-   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-new-heights-christian-academy-joplin/10-26-2026/?c=d98ec32b-f228-40ef-92b3-55711cf1550b",
-   "desc": "",
-   "why": "High school boys soccer. New Heights Christian Academy 5-10, Fair Grove 9-6.",
-   "verified": true,
-   "id": "maxp-2026-10-26-new-heights-christian-academy-vs-fair-g"
   },
   {
    "source": "MaxPreps",
@@ -1410,6 +1338,19 @@
   },
   {
    "source": "MaxPreps",
+   "title": "New Heights Christian Academy vs. Fair Grove boys soccer",
+   "date": "2026-10-26",
+   "time": "4:30 PM",
+   "place": "Fair Grove",
+   "town": "Fair Grove",
+   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-new-heights-christian-academy-joplin/10-26-2026/?c=d98ec32b-f228-40ef-92b3-55711cf1550b",
+   "desc": "",
+   "why": "High school boys soccer. New Heights Christian Academy 5-10, Fair Grove 9-6.",
+   "verified": true,
+   "id": "maxp-2026-10-26-new-heights-christian-academy-vs-fair-g"
+  },
+  {
+   "source": "MaxPreps",
    "title": "Lebanon vs. Marshfield boys soccer",
    "date": "2026-10-26",
    "time": "4:30 PM",
@@ -1417,7 +1358,7 @@
    "town": "Marshfield",
    "url": "https://www.maxpreps.com/mo/soccer/match/lebanon-vs-marshfield/10-26-2026/?c=6c28b2f0-2a01-4ee1-ab73-b6fd798cfcdd",
    "desc": "",
-   "why": "High school boys soccer. Lebanon 10-11, Marshfield 6-11.",
+   "why": "High school boys soccer. Lebanon 10-12, Marshfield 6-11.",
    "verified": true,
    "id": "maxp-2026-10-26-lebanon-vs-marshfield-boys-soccer"
   },
@@ -1430,7 +1371,7 @@
    "town": "Bolivar",
    "url": "https://www.maxpreps.com/mo/soccer/match/aurora-vs-bolivar/10-26-2026/?c=66ed0f77-7348-439c-a8b4-b71ee06c37a2",
    "desc": "",
-   "why": "High school boys soccer. Aurora 0-18, Bolivar 11-6.",
+   "why": "High school boys soccer. Aurora 0-19, Bolivar 11-7.",
    "verified": true,
    "id": "maxp-2026-10-26-aurora-vs-bolivar-boys-soccer"
   },
@@ -1539,7 +1480,7 @@
    "town": "Marshfield",
    "url": "https://www.maxpreps.com/mo/soccer/match/logan-rogersville-vs-marshfield/10-27-2026/?c=a6f7e4eb-ea84-471e-ad8b-e8f811324692",
    "desc": "",
-   "why": "High school boys soccer. Logan-Rogersville 14-5, Marshfield 6-11.",
+   "why": "High school boys soccer. Logan-Rogersville 15-5, Marshfield 6-11.",
    "verified": true,
    "id": "maxp-2026-10-27-logan-rogersville-vs-marshfield-boys-so"
   },
@@ -1552,7 +1493,7 @@
    "town": "Lebanon",
    "url": "https://www.maxpreps.com/mo/soccer/match/kickapoo-springfield-vs-lebanon/10-27-2026/?c=8d8e1c88-ee47-490c-a8b5-d3ff5cc67a2d",
    "desc": "",
-   "why": "High school boys soccer. Kickapoo 6-16, Lebanon 10-11.",
+   "why": "High school boys soccer. Kickapoo 6-16, Lebanon 10-12.",
    "verified": true,
    "id": "maxp-2026-10-27-kickapoo-vs-lebanon-boys-soccer"
   },
@@ -1591,7 +1532,7 @@
    "town": "Camdenton",
    "url": "https://www.maxpreps.com/mo/soccer/match/bolivar-vs-camdenton/10-27-2026/?c=28a3031c-b408-4b89-b284-f3666483300d",
    "desc": "",
-   "why": "High school boys soccer. Bolivar 11-6, Camdenton 10-12.",
+   "why": "High school boys soccer. Bolivar 11-7, Camdenton 11-12.",
    "verified": true,
    "id": "maxp-2026-10-27-bolivar-vs-camdenton-boys-soccer"
   },
@@ -1645,6 +1586,18 @@
    "id": "lake-2026-10-28-25th-cadv-brunch-buckles-and-boots-for"
   },
   {
+   "source": "Lake Expo",
+   "title": "Xtreme Bingo @ Horny Toad's/Camden on the Lake",
+   "date": "2026-10-28",
+   "time": "6:00 pm",
+   "place": "Horny Toad",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/xtreme-bingo-horny-toads-camden-on-the-lake/event_cdeec1c0-36e7-477c-83a8-8f46bdd2b164.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-28-xtreme-bingo-horny-toad-s-camden-on-th"
+  },
+  {
    "source": "AllEvents",
    "title": "Marshfield Means Business",
    "date": "2026-10-28",
@@ -1655,6 +1608,30 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-28-marshfield-means-business"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Storytime",
+   "date": "2026-10-29",
+   "time": "10:00 AM - 11:00 AM",
+   "place": "Lebanon-Laclede County Library",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/storytime523254222323243222322",
+   "desc": "This program is typically geared towards 2-6 year old's. Wednesdays and Thursdays will cover the same material, but each week will have a different theme. In Storytime, we sing songs, read a few books, make a craft and have snack.",
+   "verified": true,
+   "id": "visi-2026-10-29-storytime"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Thursday Night Pool Tournament",
+   "date": "2026-10-29",
+   "time": "6:00pm - 1:30am",
+   "place": "Club Rodeo Midway",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17779&custom_date_start=1793296800&custom_date_end=1793237400",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-29-thursday-night-pool-tournament"
   },
   {
    "source": "Lake Expo",
@@ -1739,7 +1716,7 @@
    "town": "Waynesville",
    "url": "https://www.maxpreps.com/mo/soccer/match/parkview-springfield-vs-waynesville/10-29-2026/?c=ea2c672a-bf08-498b-ad77-fc7b885b58c2",
    "desc": "",
-   "why": "High school boys soccer. Parkview 12-6, Waynesville 5-10.",
+   "why": "High school boys soccer. Parkview 12-7, Waynesville 5-10.",
    "verified": true,
    "id": "maxp-2026-10-29-parkview-vs-waynesville-boys-soccer"
   },
@@ -1841,6 +1818,18 @@
   },
   {
    "source": "Lake Expo",
+   "title": "Halloween Trick-or-Treat Trail at The Lodge of the Four Seasons",
+   "date": "2026-10-30",
+   "time": "4:00 pm \u2013 9:00 pm",
+   "place": "The Lodge Of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/halloween-trick-or-treat-trail-at-the-lodge-of-the-four-seasons/event_381d194a-a348-481a-a3cc-1a5fbabbe378.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-30-halloween-trick-or-treat-trail-at-the-lo"
+  },
+  {
+   "source": "Lake Expo",
    "title": "The Encore - Live Music by Whiskey Trio",
    "date": "2026-10-30",
    "time": "8:00 pm \u2013 12:00 am",
@@ -1913,18 +1902,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Halloweekend at The 1906",
-   "date": "2026-10-30",
-   "time": "",
-   "place": "115 W Broadway St, Bolivar, MO",
-   "town": "Bolivar",
-   "url": "https://allevents.in/bolivar/halloweekend-at-the-1906/200030849546106",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-30-halloweekend-at-the-1906"
-  },
-  {
-   "source": "AllEvents",
    "title": "Bolivar Trunk or Treat",
    "date": "2026-10-30",
    "time": "",
@@ -1946,6 +1923,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-30-haunted-hits-singo"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Halloweekend at The 1906",
+   "date": "2026-10-30",
+   "time": "",
+   "place": "115 W Broadway St, Bolivar, MO",
+   "town": "Bolivar",
+   "url": "https://allevents.in/bolivar/halloweekend-at-the-1906/200030849546106",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-30-halloweekend-at-the-1906"
   },
   {
    "source": "AllEvents",
@@ -2285,6 +2274,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "Halloween Story Time",
+   "date": "2026-10-31",
+   "time": "",
+   "place": "1400 S Route 7, Camdenton, MO",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/halloween-story-time/200030876078933",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-31-halloween-story-time"
+  },
+  {
+   "source": "AllEvents",
    "title": "AKA- Live at Double D's Roadhouse",
    "date": "2026-10-31",
    "time": "",
@@ -2381,18 +2382,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "\ud83c\udf83The Hallow-Maze 2026\ud83c\udf83",
-   "date": "2026-10-31",
-   "time": "",
-   "place": "1011 W Main St, Buffalo Mo",
-   "town": "Buffalo",
-   "url": "https://allevents.in/buffalo/the-hallow-maze-2026/200030849299105",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-31-the-hallow-maze-2026"
-  },
-  {
-   "source": "AllEvents",
    "title": "Buffalo Boo Bash & Block Party",
    "date": "2026-10-31",
    "time": "",
@@ -2402,6 +2391,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-31-buffalo-boo-bash-block-party"
+  },
+  {
+   "source": "AllEvents",
+   "title": "\ud83c\udf83The Hallow-Maze 2026\ud83c\udf83",
+   "date": "2026-10-31",
+   "time": "",
+   "place": "1011 W Main St, Buffalo Mo",
+   "town": "Buffalo",
+   "url": "https://allevents.in/buffalo/the-hallow-maze-2026/200030849299105",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-31-the-hallow-maze-2026"
   },
   {
    "source": "Visit Pulaski County",
@@ -2573,6 +2574,19 @@
    "id": "visi-2026-11-05-wall-of-honor"
   },
   {
+   "source": "City of Lebanon",
+   "title": "Golf Course Advisory Board Meeting",
+   "date": "2026-11-05",
+   "time": "3:00 PM",
+   "place": "",
+   "town": "Lebanon",
+   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4667",
+   "desc": "",
+   "verified": false,
+   "id": "city-2026-11-05-golf-course-advisory-board-meeting",
+   "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
    "source": "Visit Pulaski County",
    "title": "Music Bingo @ Olde Oak Station Event Venue",
    "date": "2026-11-05",
@@ -2605,8 +2619,7 @@
    "town": "Lebanon",
    "url": "https://allevents.in/lebanon/grand-opening-weekend/200030790093720",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-05-grand-opening-weekend"
   },
   {
@@ -2618,8 +2631,7 @@
    "town": "Lebanon",
    "url": "https://allevents.in/lebanon/2026-wall-of-honor-community-achievement-award/200029853709614",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-05-2026-wall-of-honor-community-achievement"
   },
   {
@@ -2631,8 +2643,7 @@
    "town": "Camdenton",
    "url": "https://allevents.in/camdenton/under-the-lights-community-night/200030858652200",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-05-under-the-lights-community-night"
   },
   {
@@ -2793,18 +2804,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "A Very Merry Christmas Kickoff",
-   "date": "2026-11-06",
-   "time": "",
-   "place": "200 S Ash St, Buffalo, MO",
-   "town": "Buffalo",
-   "url": "https://allevents.in/buffalo/a-very-merry-christmas-kickoff/200030849666127",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-06-a-very-merry-christmas-kickoff"
-  },
-  {
-   "source": "AllEvents",
    "title": "Maple & Main presents Goldpine",
    "date": "2026-11-06",
    "time": "",
@@ -2814,6 +2813,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-06-maple-main-presents-goldpine"
+  },
+  {
+   "source": "AllEvents",
+   "title": "A Very Merry Christmas Kickoff",
+   "date": "2026-11-06",
+   "time": "",
+   "place": "200 S Ash St, Buffalo, MO",
+   "town": "Buffalo",
+   "url": "https://allevents.in/buffalo/a-very-merry-christmas-kickoff/200030849666127",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-06-a-very-merry-christmas-kickoff"
   },
   {
    "source": "Visit Lebanon",
@@ -3009,18 +3020,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "3M Marketplace Winter Jam",
-   "date": "2026-11-07",
-   "time": "",
-   "place": "329 Rose Dr, Marshfield, MO 65706-2339, United States",
-   "town": "Marshfield",
-   "url": "https://allevents.in/marshfield/3m-marketplace-winter-jam/200030849745734",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-07-3m-marketplace-winter-jam"
-  },
-  {
-   "source": "AllEvents",
    "title": "Son-Rise Craft Fair",
    "date": "2026-11-07",
    "time": "",
@@ -3042,6 +3041,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-07-daddy-daughter-dance"
+  },
+  {
+   "source": "AllEvents",
+   "title": "3M Marketplace Winter Jam",
+   "date": "2026-11-07",
+   "time": "",
+   "place": "329 Rose Dr, Marshfield, MO 65706-2339, United States",
+   "town": "Marshfield",
+   "url": "https://allevents.in/marshfield/3m-marketplace-winter-jam/200030849745734",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-07-3m-marketplace-winter-jam"
   },
   {
    "source": "AllEvents",
@@ -3194,18 +3205,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Murder Mystery: Blood Moon on Blackwater Lodge",
-   "date": "2026-11-13",
-   "time": "6:00pm - 8:00pm",
-   "place": "Bruce C. Clarke Library",
-   "town": "Fort Leonard Wood",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17981",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-13-murder-mystery-blood-moon-on-blackwater"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Texas Hold'em",
    "date": "2026-11-13",
    "time": "6:00pm - 8:00pm",
@@ -3215,6 +3214,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-13-texas-hold-em"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Murder Mystery: Blood Moon on Blackwater Lodge",
+   "date": "2026-11-13",
+   "time": "6:00pm - 8:00pm",
+   "place": "Bruce C. Clarke Library",
+   "town": "Fort Leonard Wood",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17981",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-13-murder-mystery-blood-moon-on-blackwater"
   },
   {
    "source": "Lake Expo",
@@ -3326,6 +3337,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "Ladies Night Out x Craft Club",
+   "date": "2026-11-14",
+   "time": "",
+   "place": "1400 S Route 7, Camdenton, MO",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/ladies-night-out-x-craft-club/200030876078833",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-14-ladies-night-out-x-craft-club"
+  },
+  {
+   "source": "AllEvents",
    "title": "Lake of the Ozarks Real Estate Investor Meetup",
    "date": "2026-11-14",
    "time": "",
@@ -3399,6 +3422,19 @@
    "why_held": "not a public event (meeting/closure/business)"
   },
   {
+   "source": "City of Lebanon",
+   "title": "Board of Public Works",
+   "date": "2026-11-18",
+   "time": "12:00 PM",
+   "place": "",
+   "town": "Lebanon",
+   "url": "https://www.lebanonmissouri.org/calendar.aspx?EID=4657",
+   "desc": "",
+   "verified": false,
+   "id": "city-2026-11-18-board-of-public-works",
+   "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
    "source": "Waynesville-St. Robert Chamber",
    "title": "November 2026 Friendsgiving Luncheon",
    "date": "2026-11-18",
@@ -3410,6 +3446,18 @@
    "verified": false,
    "id": "wayn-2026-11-18-november-2026-friendsgiving-luncheon",
    "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "StoryTime at Forget Me Not Horse Rescue & Sanctuary",
+   "date": "2026-11-18",
+   "time": "11:00 am \u2013 1:00 pm",
+   "place": "Missouri Forget Me Not Horse Rescue & Sanctuary",
+   "town": "Linn Creek",
+   "url": "https://www.lakeexpo.com/calendar/storytime-at-forget-me-not-horse-rescue-sanctuary/event_a543c3b0-3e7f-4021-842b-fca8c9b8a202.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-18-storytime-at-forget-me-not-horse-rescue"
   },
   {
    "source": "AllEvents",
@@ -3656,12 +3704,25 @@
    "title": "17th Annual Lake of the Ozarks 5K Turkey Trot & Fun Run",
    "date": "2026-11-26",
    "time": "7:00 am",
-   "place": "Camdenton High School",
-   "town": "Camdenton",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/17th-annual-lake-of-the-ozarks-5k-turkey-trot-fun-run/event_3ec808f8-d7a0-43c0-98fe-8b14d93314a4.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-11-26-17th-annual-lake-of-the-ozarks-5k-turkey"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Thanksgiving Buffet at HK's @ The Lodge of Four Seasons",
+   "date": "2026-11-26",
+   "time": "11:00 am \u2013 3:00 pm",
+   "place": "The Lodge Of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/family_friendly/thanksgiving-buffet-at-hks-the-lodge-of-four-seasons/event_f512fe67-be6d-4af9-a1e4-8be3932c7501.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-26-thanksgiving-buffet-at-hk-s-the-lodge"
   },
   {
    "source": "AllEvents",
@@ -3950,6 +4011,18 @@
    "desc": "Join us for the 2026 Miss Merry Christmas Pageant. This is such a fun holiday event for girls ages Kindergarten through 12th grade that will the opportunity to compete for the titles, Tiny Miss, Little Miss, Junior Miss, and Miss Merry Christmas!",
    "verified": true,
    "id": "visi-2026-12-05-2026-miss-merry-christmas-pageant"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Story Time with Santa & Mrs Clause",
+   "date": "2026-12-05",
+   "time": "",
+   "place": "1400 S Route 7, Camdenton, MO",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/story-time-with-santa-and-mrs-clause/200030876079033",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-05-story-time-with-santa-mrs-clause"
   },
   {
    "source": "AllEvents",
