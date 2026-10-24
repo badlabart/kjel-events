@@ -1,330 +1,7 @@
 {
- "collected": "2026-10-23T08:41",
+ "collected": "2026-10-24T05:33",
  "errors": {},
  "events": [
-  {
-   "source": "Visit Lebanon",
-   "title": "L-Life Food Pantry Golf Tournament!",
-   "date": "2026-10-23",
-   "time": "8:00 AM",
-   "place": "Spring Hollow Golf",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/l-life-food-pantry-golf-tournament",
-   "desc": "Gather your team and join us for the L-Life Food Pantry Golf Tournament! Every swing, every putt, and every sponsorship helps provide food and hope to local families facing food insecurity.",
-   "verified": true,
-   "id": "visi-2026-10-23-l-life-food-pantry-golf-tournament"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Trunk or Treat at Phoenix",
-   "date": "2026-10-23",
-   "time": "4:00 PM - 6:00 PM",
-   "place": "872 S. Jefferson Lebanon, MO 65536",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/trunk-or-treat-at-phoenix",
-   "desc": "Join Phoenix Home Care & Hospice for a fun Trunk or Treat event on Friday, October 23, from 4:00-6:00 PM.",
-   "verified": true,
-   "id": "visi-2026-10-23-trunk-or-treat-at-phoenix"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "The Haunted River Float at Ruby's Landing River Resort",
-   "date": "2026-10-23",
-   "time": "3:00pm - 12:00am",
-   "place": "Ruby's Landing River Resort",
-   "town": "Waynesville",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17721&custom_date_start=1792767600&custom_date_end=1792713600",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-23-the-haunted-river-float-at-ruby-s-landin"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Festool Demo Day @ High Brothers Lumber",
-   "date": "2026-10-23",
-   "time": "10:00 am",
-   "place": "",
-   "town": "Lake Area",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/festool-demo-day-high-brothers-lumber/event_867353c7-8b48-4c0f-a8af-cf9641f6c2c8.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-23-festool-demo-day-high-brothers-lumber"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Rocktober! Christmas in October - Battle of the Bands @ The Encore",
-   "date": "2026-10-23",
-   "time": "6:00 pm",
-   "place": "The Encore Lakeside Grill & Sky Bar",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/charity/rocktober-christmas-in-october---battle-of-the-bands-the-encore/event_54d4eb63-f82f-4c64-8346-d89bd41fac93.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-23-rocktober-christmas-in-october-battle"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Phantom of the Main Street Opry",
-   "date": "2026-10-23",
-   "time": "7:30 pm",
-   "place": "Main Street Music Hall",
-   "town": "Osage Beach",
-   "url": "https://www.lakeexpo.com/calendar/family_friendly/phantom-of-the-main-street-opry/event_93b5a9e6-46d4-4e8b-be7f-b9e5808ea518.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-23-phantom-of-the-main-street-opry"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Water Aerobics",
-   "date": "2026-10-23",
-   "time": "8:30 am \u2013 9:30 am",
-   "place": "",
-   "town": "Lake Area",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-water-aerobics/event_7b1a38f4-7d7c-4d96-bc49-5a5c7e47ddcf.html",
-   "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
-   "id": "lake-2026-10-23-spa-kyoto-fitness-the-lodge-of-four-se"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Davie Edie at Piney River Taproom",
-   "date": "2026-10-23",
-   "time": "",
-   "place": "326 Historic Route 66 E, Waynesville, MO",
-   "town": "Waynesville",
-   "url": "https://allevents.in/waynesville/davie-edie-at-piney-river-taproom/200030827801535",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-23-davie-edie-at-piney-river-taproom"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Practical Magic Halloween Event",
-   "date": "2026-10-23",
-   "time": "",
-   "place": "1155 North Business Hwy 5, Camdenton, MO",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/practical-magic-halloween-event/200030834824557",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-23-practical-magic-halloween-event"
-  },
-  {
-   "source": "AllEvents",
-   "title": "NOT-SO-SCARY HALLOWEEN PARTY!",
-   "date": "2026-10-23",
-   "time": "",
-   "place": "109 East US-54 STE 102, Camdenton, MO, United States, Missouri 65020",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/not-so-scary-halloween-party/200030769021331",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-23-not-so-scary-halloween-party"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Help Finish Building a Home for The McDaniel Family \u2014 Community Benefit Auction",
-   "date": "2026-10-23",
-   "time": "",
-   "place": "The Exchange Venue",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/help-finish-building-a-home-for-the-mcdaniel-family-community-benefit-auction/200030776204211",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-23-help-finish-building-a-home-for-the-mcda"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Oct. 23 @ 6pm Clay Reindeer and Snowman Lanterns $50",
-   "date": "2026-10-23",
-   "time": "",
-   "place": "79 McCrory Drive, Camdenton, MO",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/oct-23-6pm-clay-reindeer-and-snowman-lanterns-$50/200030799839302",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-23-oct-23-6pm-clay-reindeer-and-snowman"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Pumpkin Carve or Paint \ud83c\udf83\ud83c\udfa8",
-   "date": "2026-10-23",
-   "time": "",
-   "place": "940 Executive Dr, Osage Beach, Missouri, 65065",
-   "town": "Osage Beach",
-   "url": "https://allevents.in/osage-beach/pumpkin-carve-or-paint/200030834603341",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-23-pumpkin-carve-or-paint"
-  },
-  {
-   "source": "AllEvents",
-   "title": "The Encore Lakeside Grill & Sky Bar's Battle of the Bands!",
-   "date": "2026-10-23",
-   "time": "",
-   "place": "3076 Bagnell Dam Blvd, 65049",
-   "town": "Lake Ozark",
-   "url": "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bars-battle-of-the-bands/200030275767836",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-23-the-encore-lakeside-grill-sky-bar-s-ba"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Majestic Oaks Harvestfest",
-   "date": "2026-10-23",
-   "time": "",
-   "place": "8 Majestic Oaks Rd, Eldon, MO",
-   "town": "Eldon",
-   "url": "https://allevents.in/eldon/majestic-oaks-harvestfest/200030256804337",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-23-majestic-oaks-harvestfest"
-  },
-  {
-   "source": "AllEvents",
-   "title": "HOME Football Game vs. Fair Grove - SENIOR NIGHT",
-   "date": "2026-10-23",
-   "time": "",
-   "place": "Buffalo High School",
-   "town": "Buffalo",
-   "url": "https://allevents.in/buffalo/home-football-game-vs-fair-grove-senior-night/200030479322101",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-23-home-football-game-vs-fair-grove-seni"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Marshfield vs. West Plains football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "At West Plains High School",
-   "town": "Marshfield",
-   "url": "https://www.maxpreps.com/mo/football/game/marshfield-vs-west-plains/10-23-2026/?c=8260627c-429c-4e20-82f0-ce36ebcff029",
-   "desc": "",
-   "why": "High school football. Marshfield 2-6, West Plains 6-2.",
-   "verified": true,
-   "id": "maxp-2026-10-23-marshfield-vs-west-plains-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Versailles vs. Sherwood football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "At Sherwood High School",
-   "town": "Versailles",
-   "url": "https://www.maxpreps.com/mo/football/game/sherwood-creighton-vs-versailles/10-23-2026/?c=ffb17bf2-25ff-4735-a64b-b3b026c21eb9",
-   "desc": "",
-   "why": "High school football. Versailles 6-2, Sherwood 3-5.",
-   "verified": true,
-   "id": "maxp-2026-10-23-versailles-vs-sherwood-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Fair Grove vs. Buffalo football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "Buffalo High School",
-   "town": "Buffalo",
-   "url": "https://www.maxpreps.com/mo/football/game/buffalo-vs-fair-grove/10-23-2026/?c=bc01b6a0-8968-4bb8-9948-733af5b4c412",
-   "desc": "",
-   "why": "High school football. Fair Grove 7-1, Buffalo 3-5.",
-   "verified": true,
-   "id": "maxp-2026-10-23-fair-grove-vs-buffalo-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Camdenton vs. Rolla football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "At Rolla High School",
-   "town": "Camdenton",
-   "url": "https://www.maxpreps.com/mo/football/game/camdenton-vs-rolla/10-23-2026/?c=6595e798-37d5-4327-bb15-1c053354e8dd",
-   "desc": "",
-   "why": "High school football. Camdenton 6-2, Rolla 5-3.",
-   "verified": true,
-   "id": "maxp-2026-10-23-camdenton-vs-rolla-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Southern Boone vs. Osage football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "At Osage High School",
-   "town": "Lake Ozark",
-   "url": "https://www.maxpreps.com/mo/football/game/osage-kaiser-vs-southern-boone-ashland/10-23-2026/?c=7a2f0ddb-a272-489d-8ab2-4425e1379cd2",
-   "desc": "",
-   "why": "High school football. Southern Boone 6-2, Osage 3-5.",
-   "verified": true,
-   "id": "maxp-2026-10-23-southern-boone-vs-osage-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Eldon vs. California football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "At California High School",
-   "town": "Eldon",
-   "url": "https://www.maxpreps.com/mo/football/game/california-vs-eldon/10-23-2026/?c=1e5c20ce-6ee9-4420-8c15-e961960e288c",
-   "desc": "",
-   "why": "High school football. Eldon 1-7, California 1-7.",
-   "verified": true,
-   "id": "maxp-2026-10-23-eldon-vs-california-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Parkview vs. Bolivar football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "Bolivar High School",
-   "town": "Bolivar",
-   "url": "https://www.maxpreps.com/mo/football/game/bolivar-vs-parkview-springfield/10-23-2026/?c=4690fd43-bf89-4578-b5ac-76814ea255d9",
-   "desc": "",
-   "why": "High school football. Parkview 0-8, Bolivar 4-4.",
-   "verified": true,
-   "id": "maxp-2026-10-23-parkview-vs-bolivar-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Lebanon vs. Waynesville football",
-   "date": "2026-10-23",
-   "time": "7:00 PM",
-   "place": "Waynesville High School",
-   "town": "Waynesville",
-   "url": "https://www.maxpreps.com/mo/football/game/lebanon-vs-waynesville/10-23-2026/?c=8f521308-b10e-4e75-bd4d-777fb10243cf",
-   "desc": "",
-   "why": "High school football. Lebanon 2-6, Waynesville 0-8.",
-   "verified": true,
-   "id": "maxp-2026-10-23-lebanon-vs-waynesville-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Fair Grove vs. New Covenant Academy boys soccer",
-   "date": "2026-10-23",
-   "time": "4:30 PM",
-   "place": "At New Covenant Academy High School",
-   "town": "Fair Grove",
-   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-new-covenant-academy-springfield/10-23-2026/?c=e69d6a18-0776-4141-83d8-9386fc332cda",
-   "desc": "",
-   "why": "High school boys soccer. Fair Grove 9-6, New Covenant Academy 4-12.",
-   "verified": true,
-   "id": "maxp-2026-10-23-fair-grove-vs-new-covenant-academy-boys"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Sacred Heart vs. Dixon boys soccer",
-   "date": "2026-10-23",
-   "time": "4:30 PM",
-   "place": "Dixon High School",
-   "town": "Dixon",
-   "url": "https://www.maxpreps.com/mo/soccer/match/dixon-vs-sacred-heart-sedalia/10-23-2026/?c=c59f5725-dc2b-42f2-91e2-715cd3a0adb0",
-   "desc": "",
-   "why": "High school boys soccer. Sacred Heart 4-11-1, Dixon 7-6.",
-   "verified": true,
-   "id": "maxp-2026-10-23-sacred-heart-vs-dixon-boys-soccer"
-  },
   {
    "source": "Visit Lebanon",
    "title": "Off Road Rage Adventure Race",
@@ -396,6 +73,18 @@
    "desc": "Autumn Crafts is a fun, hands-on program where participants can create take-home fall-themed crafts. All ages are welcome to join.",
    "verified": true,
    "id": "visi-2026-10-24-bennett-spring-october-programs-autumn"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Conway Truck and Tractor Pulls",
+   "date": "2026-10-24",
+   "time": "4:00 PM",
+   "place": "Deernado Park",
+   "town": "Conway",
+   "url": "https://www.visitlebanonmo.org/events/2020/conway-truck-and-tractor-pulls",
+   "desc": "Conway Truck and Tractor Pulls brings trucks and tractors together for a family-friendly event benefiting Conway FFA. Admission is $10, 10 and under free. Hook Fee is $25 (WW Promotions).",
+   "verified": true,
+   "id": "visi-2026-10-24-conway-truck-and-tractor-pulls"
   },
   {
    "source": "Visit Lebanon",
@@ -471,66 +160,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Pulaski County Farmers Market",
-   "date": "2026-10-24",
-   "time": "8:00am - 12:00pm",
-   "place": "Pulaski County Farmers Market Farmers Market Pavilion",
-   "town": "Pulaski County",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17821&custom_date_start=1792828800&custom_date_end=1792843200",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-24-pulaski-county-farmers-market"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Halloween at Froggy's River Resort",
-   "date": "2026-10-24",
-   "time": "8:00am - 5:30pm",
-   "place": "Froggys River Resort",
-   "town": "Richland",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17819&custom_date_start=1792828800&custom_date_end=1792863000",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-24-halloween-at-froggy-s-river-resort"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "The Great Richland Pumpkin Hunt",
-   "date": "2026-10-24",
-   "time": "9:00am - 12:00pm",
-   "place": "Frisco Park - McClurg Street",
-   "town": "Richland",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17993",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-24-the-great-richland-pumpkin-hunt"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Old Stagecoach Stop Museum",
-   "date": "2026-10-24",
-   "time": "10:00am - 4:00pm",
-   "place": "106 Lynn Street",
-   "town": "Waynesville",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17858&custom_date_start=1792836000&custom_date_end=1792857600",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-24-old-stagecoach-stop-museum"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Pulaski County 1903 Historic Courthouse Museum",
-   "date": "2026-10-24",
-   "time": "11:00am - 4:00pm",
-   "place": "Pulaski County 1903 Historic Courthouse Museum",
-   "town": "Waynesville",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17617&custom_date_start=1792839600&custom_date_end=1792857600",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-24-pulaski-county-1903-historic-courthouse"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "The Haunted River Float at Ruby's Landing River Resort",
    "date": "2026-10-24",
    "time": "3:00pm - 12:00am",
@@ -555,18 +184,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Magic the Gathering Casual Commander night",
-   "date": "2026-10-24",
-   "time": "5:00pm - 11:00pm",
-   "place": "BK Games",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1792861200&custom_date_end=1792882800",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-24-magic-the-gathering-casual-commander-nig"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "3rd Annual Halloween Event at Gasconade Hills Resort",
    "date": "2026-10-24",
    "time": "6:00pm - 8:00pm",
@@ -588,6 +205,18 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-10-24-support-partner-in-pink-events-this-pink"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Rocktober! Christmas in October - Battle of the Bands @ The Encore",
+   "date": "2026-10-24",
+   "time": "12:00 pm",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/charity/rocktober-christmas-in-october---battle-of-the-bands-the-encore/event_54d4eb63-f82f-4c64-8346-d89bd41fac93.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-24-rocktober-christmas-in-october-battle"
   },
   {
    "source": "Lake Expo",
@@ -654,12 +283,11 @@
    "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Sunrise Yoga",
    "date": "2026-10-24",
    "time": "9:00 am \u2013 10:00 am",
-   "place": "",
-   "town": "Lake Area",
+   "place": "Lodge of Four Seasons",
+   "town": "Lake Ozark",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-sunrise-yoga/event_16070cd2-c359-48c9-ba60-51aeac3da277.html",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "lake-2026-10-24-spa-kyoto-fitness-the-lodge-of-four-se"
   },
   {
@@ -724,18 +352,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Pre-Release Event: Pokemon Delta Reign Day 1",
-   "date": "2026-10-24",
-   "time": "",
-   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/pre-release-event-pokemon-delta-reign-day-1/200030858653006",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-24-pre-release-event-pokemon-delta-reign-d"
-  },
-  {
-   "source": "AllEvents",
    "title": "FALL VENDOR EVENT",
    "date": "2026-10-24",
    "time": "",
@@ -745,6 +361,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-24-fall-vendor-event"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Pre-Release Event: Pokemon Delta Reign Day 1",
+   "date": "2026-10-24",
+   "time": "",
+   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/pre-release-event-pokemon-delta-reign-day-1/200030858653006",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-24-pre-release-event-pokemon-delta-reign-d"
   },
   {
    "source": "AllEvents",
@@ -1025,6 +653,19 @@
   },
   {
    "source": "MaxPreps",
+   "title": "Osage vs. California volleyball",
+   "date": "2026-10-24",
+   "time": "4:30 PM",
+   "place": "At California High School",
+   "town": "Lake Ozark",
+   "url": "https://www.maxpreps.com/mo/volleyball/match/california-vs-osage-kaiser/10-24-2026/?c=1e2d93ba-8242-425a-a741-000f8fadd2f4",
+   "desc": "",
+   "why": "High school volleyball. Osage 25-1-1, California 16-11-4.",
+   "verified": true,
+   "id": "maxp-2026-10-24-osage-vs-california-volleyball"
+  },
+  {
+   "source": "MaxPreps",
    "title": "Central vs. Laquey boys soccer",
    "date": "2026-10-24",
    "time": "12:00 PM",
@@ -1032,7 +673,7 @@
    "town": "Laquey",
    "url": "https://www.maxpreps.com/mo/soccer/match/central-springfield-vs-laquey/10-24-2026/?c=5a879214-6871-4f22-b3f5-5af2026c8dea",
    "desc": "",
-   "why": "High school boys soccer. Central 16-5, Laquey 4-1.",
+   "why": "High school boys soccer. Central 16-6, Laquey 4-1.",
    "verified": true,
    "id": "maxp-2026-10-24-central-vs-laquey-boys-soccer"
   },
@@ -1182,7 +823,7 @@
    "town": "Crocker",
    "url": "https://www.maxpreps.com/mo/soccer/match/crocker-vs-stover/10-26-2026/?c=bd65d2ba-cee3-4353-bc7c-1daebba3340b",
    "desc": "",
-   "why": "High school boys soccer. Crocker 7-8, Stover 10-3.",
+   "why": "High school boys soccer. Crocker 7-9, Stover 10-3.",
    "verified": true,
    "id": "maxp-2026-10-26-crocker-vs-stover-boys-soccer"
   },
@@ -1195,7 +836,7 @@
    "town": "Marshfield",
    "url": "https://www.maxpreps.com/mo/soccer/match/lebanon-vs-marshfield/10-26-2026/?c=6c28b2f0-2a01-4ee1-ab73-b6fd798cfcdd",
    "desc": "",
-   "why": "High school boys soccer. Lebanon 10-12, Marshfield 6-11.",
+   "why": "High school boys soccer. Lebanon 10-13, Marshfield 7-12.",
    "verified": true,
    "id": "maxp-2026-10-26-lebanon-vs-marshfield-boys-soccer"
   },
@@ -1317,7 +958,7 @@
    "town": "Marshfield",
    "url": "https://www.maxpreps.com/mo/soccer/match/logan-rogersville-vs-marshfield/10-27-2026/?c=a6f7e4eb-ea84-471e-ad8b-e8f811324692",
    "desc": "",
-   "why": "High school boys soccer. Logan-Rogersville 15-5, Marshfield 6-11.",
+   "why": "High school boys soccer. Logan-Rogersville 16-5, Marshfield 7-12.",
    "verified": true,
    "id": "maxp-2026-10-27-logan-rogersville-vs-marshfield-boys-so"
   },
@@ -1330,7 +971,7 @@
    "town": "Lebanon",
    "url": "https://www.maxpreps.com/mo/soccer/match/kickapoo-springfield-vs-lebanon/10-27-2026/?c=8d8e1c88-ee47-490c-a8b5-d3ff5cc67a2d",
    "desc": "",
-   "why": "High school boys soccer. Kickapoo 6-17, Lebanon 10-12.",
+   "why": "High school boys soccer. Kickapoo 6-17, Lebanon 10-13.",
    "verified": true,
    "id": "maxp-2026-10-27-kickapoo-vs-lebanon-boys-soccer"
   },
@@ -1356,7 +997,7 @@
    "town": "Lake Ozark",
    "url": "https://www.maxpreps.com/mo/soccer/match/fulton-vs-osage-kaiser/10-27-2026/?c=3b29a6ff-23f9-4c18-990b-338e673a4e2a",
    "desc": "",
-   "why": "High school boys soccer. Osage 3-12, Fulton 9-5.",
+   "why": "High school boys soccer. Osage 4-12, Fulton 9-5.",
    "verified": true,
    "id": "maxp-2026-10-27-osage-vs-fulton-boys-soccer"
   },
@@ -1436,6 +1077,18 @@
   },
   {
    "source": "Lake Expo",
+   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Water Aerobics",
+   "date": "2026-10-28",
+   "time": "8:30 am \u2013 9:30 am",
+   "place": "Lodge of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-water-aerobics/event_7b1a38f4-7d7c-4d96-bc49-5a5c7e47ddcf.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-28-spa-kyoto-fitness-the-lodge-of-four-se"
+  },
+  {
+   "source": "Lake Expo",
    "title": "Xtreme Bingo @ Horny Toad's/Camden on the Lake",
    "date": "2026-10-28",
    "time": "6:00 pm",
@@ -1511,12 +1164,11 @@
    "title": "Spools & Needles Group",
    "date": "2026-10-29",
    "time": "10:00 am \u2013 2:00 pm",
-   "place": "",
-   "town": "Lake Area",
+   "place": "Camden County Museum",
+   "town": "Linn Creek",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/spools-needles-group/event_98f5157c-d7a0-11e8-ab79-f773550c4324.html",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "lake-2026-10-29-spools-needles-group"
   },
   {
@@ -1588,7 +1240,7 @@
    "town": "Crocker",
    "url": "https://www.maxpreps.com/mo/soccer/match/crocker-vs-iberia/10-29-2026/?c=29c8b8a0-3395-4690-b4de-919a6ef38496",
    "desc": "",
-   "why": "High school boys soccer. Iberia 2-15, Crocker 7-8.",
+   "why": "High school boys soccer. Iberia 2-15, Crocker 7-9.",
    "verified": true,
    "id": "maxp-2026-10-29-iberia-vs-crocker-boys-soccer"
   },
@@ -1601,7 +1253,7 @@
    "town": "Lake Ozark",
    "url": "https://www.maxpreps.com/mo/soccer/match/eugene-vs-osage-kaiser/10-29-2026/?c=b30d9523-b385-4d89-b544-5e1f388eb26a",
    "desc": "",
-   "why": "High school boys soccer. Osage 3-12, Eugene 5-9.",
+   "why": "High school boys soccer. Osage 4-12, Eugene 6-9.",
    "verified": true,
    "id": "maxp-2026-10-29-osage-vs-eugene-boys-soccer"
   },
@@ -1614,7 +1266,7 @@
    "town": "Waynesville",
    "url": "https://www.maxpreps.com/mo/soccer/match/parkview-springfield-vs-waynesville/10-29-2026/?c=ea2c672a-bf08-498b-ad77-fc7b885b58c2",
    "desc": "",
-   "why": "High school boys soccer. Parkview 12-7, Waynesville 5-10.",
+   "why": "High school boys soccer. Parkview 12-8, Waynesville 5-10.",
    "verified": true,
    "id": "maxp-2026-10-29-parkview-vs-waynesville-boys-soccer"
   },
@@ -1668,18 +1320,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "The Haunted River Float at Ruby's Landing River Resort",
-   "date": "2026-10-30",
-   "time": "3:00pm - 12:00am",
-   "place": "Ruby's Landing River Resort",
-   "town": "Waynesville",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17721&custom_date_start=1793372400&custom_date_end=1793318400",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-30-the-haunted-river-float-at-ruby-s-landin"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Trunk or Treat",
    "date": "2026-10-30",
    "time": "3:00pm - 5:00pm",
@@ -1689,6 +1329,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-10-30-trunk-or-treat"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "The Haunted River Float at Ruby's Landing River Resort",
+   "date": "2026-10-30",
+   "time": "3:00pm - 12:00am",
+   "place": "Ruby's Landing River Resort",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17721&custom_date_start=1793372400&custom_date_end=1793318400",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-30-the-haunted-river-float-at-ruby-s-landin"
   },
   {
    "source": "Visit Pulaski County",
@@ -1884,6 +1536,18 @@
   },
   {
    "source": "Visit Lebanon",
+   "title": "Lebanon Farmers Market",
+   "date": "2026-10-31",
+   "time": "8:00 AM - 1:00 PM",
+   "place": "The Market",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/lebanon-farmers-market(345)",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-31-lebanon-farmers-market"
+  },
+  {
+   "source": "Visit Lebanon",
    "title": "Trick-or-Treat at the Library",
    "date": "2026-10-31",
    "time": "10:00 AM - 4:00 PM",
@@ -1992,6 +1656,30 @@
   },
   {
    "source": "Visit Pulaski County",
+   "title": "Pulaski County Farmers Market",
+   "date": "2026-10-31",
+   "time": "8:00am - 12:00pm",
+   "place": "Pulaski County Farmers Market Farmers Market Pavilion",
+   "town": "Pulaski County",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17821&custom_date_start=1793433600&custom_date_end=1793448000",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-31-pulaski-county-farmers-market"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Old Stagecoach Stop Museum",
+   "date": "2026-10-31",
+   "time": "10:00am - 4:00pm",
+   "place": "106 Lynn Street",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17858&custom_date_start=1793440800&custom_date_end=1793462400",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-31-old-stagecoach-stop-museum"
+  },
+  {
+   "source": "Visit Pulaski County",
    "title": "Pumpkin Fest 2026",
    "date": "2026-10-31",
    "time": "10:00am - 2:00pm",
@@ -2004,6 +1692,42 @@
   },
   {
    "source": "Visit Pulaski County",
+   "title": "Pulaski County 1903 Historic Courthouse Museum",
+   "date": "2026-10-31",
+   "time": "11:00am - 4:00pm",
+   "place": "Pulaski County 1903 Historic Courthouse Museum",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17617&custom_date_start=1793444400&custom_date_end=1793462400",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-31-pulaski-county-1903-historic-courthouse"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "The Haunted River Float at Ruby's Landing River Resort",
+   "date": "2026-10-31",
+   "time": "3:00pm - 12:00am",
+   "place": "Ruby's Landing River Resort",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17721&custom_date_start=1793458800&custom_date_end=1793404800",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-31-the-haunted-river-float-at-ruby-s-landin"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Magic the Gathering Casual Commander night",
+   "date": "2026-10-31",
+   "time": "5:00pm - 11:00pm",
+   "place": "BK Games",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1793466000&custom_date_end=1793487600",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-31-magic-the-gathering-casual-commander-nig"
+  },
+  {
+   "source": "Visit Pulaski County",
    "title": "Dixon's Trick or Treat on Main Street",
    "date": "2026-10-31",
    "time": "5:00pm - 7:00pm",
@@ -2013,6 +1737,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-10-31-dixon-s-trick-or-treat-on-main-street"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Phantom of the Main Street Opry",
+   "date": "2026-10-31",
+   "time": "7:30 pm",
+   "place": "Main Street Music Hall",
+   "town": "Osage Beach",
+   "url": "https://www.lakeexpo.com/calendar/family_friendly/phantom-of-the-main-street-opry/event_93b5a9e6-46d4-4e8b-be7f-b9e5808ea518.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-31-phantom-of-the-main-street-opry"
   },
   {
    "source": "Lake Expo",
@@ -2335,7 +2071,7 @@
    "town": "Bolivar",
    "url": "https://www.maxpreps.com/mo/soccer/match/bolivar-vs-osage-kaiser/10-31-2026/?c=112d25af-85d1-4573-a1a2-72e6ffc10d5b",
    "desc": "",
-   "why": "High school boys soccer. Osage 3-12, Bolivar 11-7.",
+   "why": "High school boys soccer. Osage 4-12, Bolivar 11-7.",
    "verified": true,
    "id": "maxp-2026-10-31-osage-vs-bolivar-boys-soccer"
   },
@@ -2362,6 +2098,18 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-11-01-healing-services-at-new-revival-center"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Fish Fry and Social for LOZ USCG Captains",
+   "date": "2026-11-01",
+   "time": "",
+   "place": "341 Old South 5, Camdenton, MO 65020-6414, United States",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/fish-fry-and-social-for-loz-uscg-captains/200030891852015",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-01-fish-fry-and-social-for-loz-uscg-captain"
   },
   {
    "source": "AllEvents",
@@ -2469,8 +2217,8 @@
    "url": "https://allevents.in/lebanon/november-business-builders-luncheon/200030862798208",
    "desc": "",
    "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
-   "id": "alle-2026-11-04-november-business-builder-s-luncheon"
+   "id": "alle-2026-11-04-november-business-builder-s-luncheon",
+   "why_held": "not a public event (meeting/closure/business)"
   },
   {
    "source": "Visit Lebanon",
@@ -2698,8 +2446,7 @@
    "town": "Lebanon",
    "url": "https://allevents.in/lebanon/holiday-bazaar-and-bake-sale/200030789912315",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-06-holiday-bazaar-bake-sale"
   },
   {
@@ -3100,6 +2847,18 @@
    "id": "visi-2026-11-11-a-season-in-the-hives-natural-beekeepin"
   },
   {
+   "source": "Visit Lebanon",
+   "title": "Veterans Day Silent Vigil",
+   "date": "2026-11-11",
+   "time": "10:45 AM",
+   "place": "Veterans Memorial",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/veterans-day-silent-vigil",
+   "desc": "Join Lebanon's first Veterans Day Silent Vigil on Nov. 11 at Veterans Memorial Park. Veterans, service members, and military families are invited to participate in this day-long tribute honoring those who served.",
+   "verified": true,
+   "id": "visi-2026-11-11-veterans-day-silent-vigil"
+  },
+  {
    "source": "City of Lebanon",
    "title": "Lebanon Park Board",
    "date": "2026-11-11",
@@ -3359,18 +3118,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Lake of the Ozarks Real Estate Investor Meetup",
-   "date": "2026-11-14",
-   "time": "",
-   "place": "Baxter's Lakeside Grille",
-   "town": "Lake Ozark",
-   "url": "https://allevents.in/lake-ozark/lake-of-the-ozarks-real-estate-investor-meetup/100001993270455590",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-14-lake-of-the-ozarks-real-estate-investor"
-  },
-  {
-   "source": "AllEvents",
    "title": "Defiance @ The Encore Lakeside Grill & Sky Bar",
    "date": "2026-11-14",
    "time": "",
@@ -3603,6 +3350,18 @@
   },
   {
    "source": "Visit Pulaski County",
+   "title": "Fort Wood Community Spouses' Club Craft Fair",
+   "date": "2026-11-21",
+   "time": "9:00am - 3:00pm",
+   "place": "Waynesville High School",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=18015",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-21-fort-wood-community-spouses-club-craft"
+  },
+  {
+   "source": "Visit Pulaski County",
    "title": "Winter Ball Fundraiser",
    "date": "2026-11-21",
    "time": "5:00pm - 8:00pm",
@@ -3708,6 +3467,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-26-galloping-gobbler"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "17th Annual Lake of the Ozarks 5K Turkey Trot & Fun Run",
+   "date": "2026-11-26",
+   "time": "7:00 am",
+   "place": "Camdenton High School",
+   "town": "Camdenton",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/17th-annual-lake-of-the-ozarks-5k-turkey-trot-fun-run/event_3ec808f8-d7a0-43c0-98fe-8b14d93314a4.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-26-17th-annual-lake-of-the-ozarks-5k-turkey"
   },
   {
    "source": "AllEvents",
