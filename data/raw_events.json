@@ -1,119 +1,7 @@
 {
- "collected": "2026-10-25T10:15",
+ "collected": "2026-10-26T09:53",
  "errors": {},
  "events": [
-  {
-   "source": "Lake Expo",
-   "title": "Support Partner in Pink Events this Pinktober!",
-   "date": "2026-10-25",
-   "time": "7:30 am",
-   "place": "",
-   "town": "Lake Area",
-   "url": "https://www.lakeexpo.com/calendar/charity/support-partner-in-pink-events-this-pinktober/event_b639fecb-7b0a-4e69-85ec-788125733254.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-25-support-partner-in-pink-events-this-pink"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Rocktober! Christmas in October - Battle of the Bands @ The Encore",
-   "date": "2026-10-25",
-   "time": "12:00 pm",
-   "place": "The Encore Lakeside Grill & Sky Bar",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/charity/rocktober-christmas-in-october---battle-of-the-bands-the-encore/event_54d4eb63-f82f-4c64-8346-d89bd41fac93.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-25-rocktober-christmas-in-october-battle"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Captain Ron's - 20th Annual Kids Spooktacular",
-   "date": "2026-10-25",
-   "time": "5:00 pm \u2013 6:30 pm",
-   "place": "Captain Ron's Bar & Grill",
-   "town": "Sunrise Beach",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/captain-rons---20th-annual-kids-spooktacular/event_dbf0d7fc-3d47-475c-80dc-44d109cd1699.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-25-captain-ron-s-20th-annual-kids-spookta"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "H. Toad's Bloody Mary Bar",
-   "date": "2026-10-25",
-   "time": "9:00 am \u2013 1:00 pm",
-   "place": "Horny Toad",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-10-25-h-toad-s-bloody-mary-bar"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Pre-Release Event: Pokemon Delta Reign Day 2",
-   "date": "2026-10-25",
-   "time": "",
-   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/pre-release-event-pokemon-delta-reign-day-2/200030858654513",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-25-pre-release-event-pokemon-delta-reign-d"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "McDonald County vs. Bolivar football",
-   "date": "2026-10-25",
-   "time": "7:00 PM",
-   "place": "Bolivar High School",
-   "town": "Bolivar",
-   "url": "https://www.maxpreps.com/mo/football/game/bolivar-vs-mcdonald-county-anderson/10-30-2026/?c=c0a72185-95ff-48ff-8dfe-09b22d37101f",
-   "desc": "",
-   "why": "High school football. McDonald County 3-6, Bolivar 5-4.",
-   "verified": true,
-   "id": "maxp-2026-10-25-mcdonald-county-vs-bolivar-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Waynesville vs. Kickapoo football",
-   "date": "2026-10-25",
-   "time": "7:00 PM",
-   "place": "At Kickapoo High School",
-   "town": "Waynesville",
-   "url": "https://www.maxpreps.com/mo/football/game/kickapoo-springfield-vs-waynesville/10-30-2026/?c=1e7ba718-6f7e-4ffa-bf77-2c2f5de339c8",
-   "desc": "",
-   "why": "High school football. Waynesville 0-9, Kickapoo 2-7.",
-   "verified": true,
-   "id": "maxp-2026-10-25-waynesville-vs-kickapoo-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Lebanon vs. Camdenton football",
-   "date": "2026-10-25",
-   "time": "7:00 PM",
-   "place": "Camdenton High School",
-   "town": "Camdenton",
-   "url": "https://www.maxpreps.com/mo/football/game/camdenton-vs-lebanon/10-30-2026/?c=19f472a5-514c-4715-9385-03698f0aab47",
-   "desc": "",
-   "why": "High school football. Lebanon 3-6, Camdenton 7-2.",
-   "verified": true,
-   "id": "maxp-2026-10-25-lebanon-vs-camdenton-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Houston vs. Fair Grove football",
-   "date": "2026-10-25",
-   "time": "7:00 PM",
-   "place": "Fair Grove High School",
-   "town": "Fair Grove",
-   "url": "https://www.maxpreps.com/mo/football/game/fair-grove-vs-houston/10-30-2026/?c=6e725067-9c90-4238-b3ef-e36eeecad50d",
-   "desc": "",
-   "why": "High school football. Houston 2-7, Fair Grove 8-1.",
-   "verified": true,
-   "id": "maxp-2026-10-25-houston-vs-fair-grove-football"
-  },
   {
    "source": "City of Lebanon",
    "title": "Lebanon City Council Meeting",
@@ -139,6 +27,18 @@
    "verified": false,
    "id": "city-2026-10-26-lebanon-city-council-work-session",
    "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Missouri Good Neighbor Week: Lake Area Food Drive!",
+   "date": "2026-10-26",
+   "time": "12:00 am",
+   "place": "",
+   "town": "Lake Area",
+   "url": "https://www.lakeexpo.com/calendar/charity/missouri-good-neighbor-week-lake-area-food-drive/event_efffdd5f-947f-4767-8305-bc467e70c483.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-26-missouri-good-neighbor-week-lake-area-f"
   },
   {
    "source": "Lake Expo",
@@ -204,19 +104,6 @@
   },
   {
    "source": "MaxPreps",
-   "title": "Lebanon vs. Marshfield boys soccer",
-   "date": "2026-10-26",
-   "time": "4:30 PM",
-   "place": "Marshfield High School",
-   "town": "Marshfield",
-   "url": "https://www.maxpreps.com/mo/soccer/match/lebanon-vs-marshfield/10-26-2026/?c=6c28b2f0-2a01-4ee1-ab73-b6fd798cfcdd",
-   "desc": "",
-   "why": "High school boys soccer. Lebanon 10-13, Marshfield 7-12.",
-   "verified": true,
-   "id": "maxp-2026-10-26-lebanon-vs-marshfield-boys-soccer"
-  },
-  {
-   "source": "MaxPreps",
    "title": "New Heights Christian Academy vs. Fair Grove boys soccer",
    "date": "2026-10-26",
    "time": "4:30 PM",
@@ -227,6 +114,19 @@
    "why": "High school boys soccer. New Heights Christian Academy 5-11, Fair Grove 9-6-1.",
    "verified": true,
    "id": "maxp-2026-10-26-new-heights-christian-academy-vs-fair-g"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Lebanon vs. Marshfield boys soccer",
+   "date": "2026-10-26",
+   "time": "4:30 PM",
+   "place": "Marshfield High School",
+   "town": "Marshfield",
+   "url": "https://www.maxpreps.com/mo/soccer/match/lebanon-vs-marshfield/10-26-2026/?c=6c28b2f0-2a01-4ee1-ab73-b6fd798cfcdd",
+   "desc": "",
+   "why": "High school boys soccer. Lebanon 10-13, Marshfield 7-12.",
+   "verified": true,
+   "id": "maxp-2026-10-26-lebanon-vs-marshfield-boys-soccer"
   },
   {
    "source": "MaxPreps",
@@ -552,11 +452,12 @@
    "title": "Spools & Needles Group",
    "date": "2026-10-29",
    "time": "10:00 am \u2013 2:00 pm",
-   "place": "Camden County Museum",
-   "town": "Linn Creek",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/spools-needles-group/event_98f5157c-d7a0-11e8-ab79-f773550c4324.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-10-29-spools-needles-group"
   },
   {
@@ -876,6 +777,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "Lunch Engagement",
+   "date": "2026-10-30",
+   "time": "",
+   "place": "Grand Missouri Bank",
+   "town": "Bolivar",
+   "url": "https://allevents.in/bolivar/lunch-engagement/200030123997203",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-30-lunch-engagement"
+  },
+  {
+   "source": "AllEvents",
    "title": "Haunted Hits Singo",
    "date": "2026-10-30",
    "time": "",
@@ -921,6 +834,123 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-30-trick-or-treating-around-the-marshfield"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Lebanon vs. Camdenton football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "Camdenton High School",
+   "town": "Camdenton",
+   "url": "https://www.maxpreps.com/mo/football/game/camdenton-vs-lebanon/10-30-2026/?c=19f472a5-514c-4715-9385-03698f0aab47",
+   "desc": "",
+   "why": "High school football. Lebanon 3-6, Camdenton 7-2.",
+   "verified": true,
+   "id": "maxp-2026-10-30-lebanon-vs-camdenton-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Buffalo vs. Cuba football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "At Cuba High School",
+   "town": "Buffalo",
+   "url": "https://www.maxpreps.com/mo/football/game/buffalo-vs-cuba/10-30-2026/?c=96467a1d-a255-4da8-8500-ec7019dae6ff",
+   "desc": "",
+   "why": "High school football. Buffalo 3-6, Cuba 4-5.",
+   "verified": true,
+   "id": "maxp-2026-10-30-buffalo-vs-cuba-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Marshfield vs. Carl Junction football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "At Carl Junction High School",
+   "town": "Marshfield",
+   "url": "https://www.maxpreps.com/mo/football/game/carl-junction-vs-marshfield/10-30-2026/?c=29fa0acd-f262-40a6-aee7-a32b662927d2",
+   "desc": "",
+   "why": "High school football. Marshfield 2-7, Carl Junction 5-4.",
+   "verified": true,
+   "id": "maxp-2026-10-30-marshfield-vs-carl-junction-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Marshall vs. Osage football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "At Osage High School",
+   "town": "Lake Ozark",
+   "url": "https://www.maxpreps.com/mo/football/game/marshall-vs-osage-kaiser/10-30-2026/?c=e9172fa2-b0db-47cd-a4ac-f40d867029a9",
+   "desc": "",
+   "why": "High school football. Marshall 1-8, Osage 3-6.",
+   "verified": true,
+   "id": "maxp-2026-10-30-marshall-vs-osage-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Versailles vs. North Callaway football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "At North Callaway High School",
+   "town": "Versailles",
+   "url": "https://www.maxpreps.com/mo/football/game/north-callaway-kingdom-city-vs-versailles/10-30-2026/?c=846fc28b-3764-4748-9594-19d203f2ef9b",
+   "desc": "",
+   "why": "High school football. Versailles 6-3, North Callaway 7-2.",
+   "verified": true,
+   "id": "maxp-2026-10-30-versailles-vs-north-callaway-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Eldon vs. Hallsville football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "At Hallsville High School",
+   "town": "Eldon",
+   "url": "https://www.maxpreps.com/mo/football/game/eldon-vs-hallsville/10-30-2026/?c=81316320-00fb-45c6-aab2-9c4b92192be3",
+   "desc": "",
+   "why": "High school football. Eldon 1-8, Hallsville 7-2.",
+   "verified": true,
+   "id": "maxp-2026-10-30-eldon-vs-hallsville-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Waynesville vs. Kickapoo football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "At Kickapoo High School",
+   "town": "Waynesville",
+   "url": "https://www.maxpreps.com/mo/football/game/kickapoo-springfield-vs-waynesville/10-30-2026/?c=1e7ba718-6f7e-4ffa-bf77-2c2f5de339c8",
+   "desc": "",
+   "why": "High school football. Waynesville 0-9, Kickapoo 2-7.",
+   "verified": true,
+   "id": "maxp-2026-10-30-waynesville-vs-kickapoo-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Houston vs. Fair Grove football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "Fair Grove High School",
+   "town": "Fair Grove",
+   "url": "https://www.maxpreps.com/mo/football/game/fair-grove-vs-houston/10-30-2026/?c=6e725067-9c90-4238-b3ef-e36eeecad50d",
+   "desc": "",
+   "why": "High school football. Houston 2-7, Fair Grove 8-1.",
+   "verified": true,
+   "id": "maxp-2026-10-30-houston-vs-fair-grove-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "McDonald County vs. Bolivar football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "Bolivar High School",
+   "town": "Bolivar",
+   "url": "https://www.maxpreps.com/mo/football/game/bolivar-vs-mcdonald-county-anderson/10-30-2026/?c=c0a72185-95ff-48ff-8dfe-09b22d37101f",
+   "desc": "",
+   "why": "High school football. McDonald County 3-6, Bolivar 5-4.",
+   "verified": true,
+   "id": "maxp-2026-10-30-mcdonald-county-vs-bolivar-football"
   },
   {
    "source": "Visit Lebanon",
@@ -1203,12 +1233,25 @@
    "title": "Captain Ron's - Live Music by The Nobodies",
    "date": "2026-10-31",
    "time": "7:00 pm \u2013 11:00 pm",
-   "place": "Captain Ron's Bar & Grill",
-   "town": "Sunrise Beach",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/live_entertainment/captain-rons---live-music-by-the-nobodies/event_164294c3-22fe-48cf-9a93-aa2574626fbe.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-10-31-captain-ron-s-live-music-by-the-nobodi"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "H. Toad's Bloody Mary Bar",
+   "date": "2026-10-31",
+   "time": "9:00 am \u2013 1:00 pm",
+   "place": "Horny Toad",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-10-31-h-toad-s-bloody-mary-bar"
   },
   {
    "source": "AllEvents",
@@ -1332,6 +1375,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "Poke Saturdays!! - Casual Play and LEARNING!!",
+   "date": "2026-10-31",
+   "time": "",
+   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/poke-saturdays-casual-play-and-learning/200030834434702",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-31-poke-saturdays-casual-play-and-learn"
+  },
+  {
+   "source": "AllEvents",
    "title": "HAUNTED ALLEY",
    "date": "2026-10-31",
    "time": "",
@@ -1404,18 +1459,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Hollyween's 2nd Annual Trunk or Treat",
-   "date": "2026-10-31",
-   "time": "",
-   "place": "101 E 4th St, Eldon, MO 65026-1571, United States",
-   "town": "Eldon",
-   "url": "https://allevents.in/eldon/hollyweens-2nd-annual-trunk-or-treat/200030777156622",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-31-hollyween-s-2nd-annual-trunk-or-treat"
-  },
-  {
-   "source": "AllEvents",
    "title": "The Great Pumpkin Party",
    "date": "2026-10-31",
    "time": "",
@@ -1425,6 +1468,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-31-the-great-pumpkin-party"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Hollyween's 2nd Annual Trunk or Treat",
+   "date": "2026-10-31",
+   "time": "",
+   "place": "101 E 4th St, Eldon, MO 65026-1571, United States",
+   "town": "Eldon",
+   "url": "https://allevents.in/eldon/hollyweens-2nd-annual-trunk-or-treat/200030777156622",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-31-hollyween-s-2nd-annual-trunk-or-treat"
   },
   {
    "source": "AllEvents",
@@ -1505,11 +1560,12 @@
    "title": "Healing Services At New Revival Center",
    "date": "2026-11-01",
    "time": "6:30 pm",
-   "place": "New Revival Center",
-   "town": "Versailles",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/healing-services-at-new-revival-center/event_8f48e364-1da5-11e9-8348-670f6b36762e.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-11-01-healing-services-at-new-revival-center"
   },
   {
@@ -1561,6 +1617,18 @@
    "id": "alle-2026-11-01-miss-halloween-pageant-2026"
   },
   {
+   "source": "Visit Pulaski County",
+   "title": "Turkey Shoot",
+   "date": "2026-11-02",
+   "time": "10:30am - 10:00pm",
+   "place": "Daugherty Bowling Center",
+   "town": "Fort Leonard Wood",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1793615400&custom_date_end=1793656800",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-02-turkey-shoot"
+  },
+  {
    "source": "AllEvents",
    "title": "October Book Club at Plants and Pages",
    "date": "2026-11-02",
@@ -1571,6 +1639,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-02-october-book-club-at-plants-and-pages"
+  },
+  {
+   "source": "AllEvents",
+   "title": "PRIVATE Make Your Own Fire Cider & Elderberry Class",
+   "date": "2026-11-02",
+   "time": "",
+   "place": "Camdenton, Missouri",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/private-make-your-own-fire-cider-and-elderberry-class/200030908702544",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-02-private-make-your-own-fire-cider-elder"
   },
   {
    "source": "Visit Pulaski County",
@@ -1597,6 +1677,18 @@
    "id": "visi-2026-11-03-learn-to-sew-a-trivet"
   },
   {
+   "source": "Lake Expo",
+   "title": "Watch the Midterm Elections @ The Encore",
+   "date": "2026-11-03",
+   "time": "6:00 pm",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/watch-the-midterm-elections-the-encore/event_d3dc827f-e5c4-4634-a7d8-20c10f57158c.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-03-watch-the-midterm-elections-the-encore"
+  },
+  {
    "source": "AllEvents",
    "title": "Winter/Christmas wood paint class",
    "date": "2026-11-03",
@@ -1619,6 +1711,58 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-03-rotary-fish-fry"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Warrensburg vs. Camdenton boys soccer",
+   "date": "2026-11-03",
+   "time": "5:00 PM",
+   "place": "Camdenton High School",
+   "town": "Camdenton",
+   "url": "https://www.maxpreps.com/mo/soccer/match/camdenton-vs-warrensburg/11-3-2026/?c=4a9da72b-61db-45b5-9a73-fda28545e5a0",
+   "desc": "",
+   "why": "High school boys soccer. Warrensburg 1-13-1, Camdenton 11-12.",
+   "verified": true,
+   "id": "maxp-2026-11-03-warrensburg-vs-camdenton-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Marshfield vs. Capital City boys soccer",
+   "date": "2026-11-03",
+   "time": "5:00 PM",
+   "place": "At Capital City High School",
+   "town": "Marshfield",
+   "url": "https://www.maxpreps.com/mo/soccer/match/capital-city-jefferson-city-vs-marshfield/11-3-2026/?c=c0d94838-0f56-4d09-9c08-ca823ae834f2",
+   "desc": "",
+   "why": "High school boys soccer. Marshfield 7-12, Capital City 12-13.",
+   "verified": true,
+   "id": "maxp-2026-11-03-marshfield-vs-capital-city-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "New Covenant Academy vs. Fair Grove boys soccer",
+   "date": "2026-11-03",
+   "time": "6:45 PM",
+   "place": "Fair Grove",
+   "town": "Fair Grove",
+   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-new-covenant-academy-springfield/11-3-2026/?c=2c1b4dcd-73d0-4a35-8c8f-41d0061d3cad",
+   "desc": "",
+   "why": "High school boys soccer. New Covenant Academy 4-12-1, Fair Grove 9-6-1.",
+   "verified": true,
+   "id": "maxp-2026-11-03-new-covenant-academy-vs-fair-grove-boys"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Lebanon vs. Pleasant Hill boys soccer",
+   "date": "2026-11-03",
+   "time": "7:00 PM",
+   "place": "At Pleasant Hill High School",
+   "town": "Lebanon",
+   "url": "https://www.maxpreps.com/mo/soccer/match/lebanon-vs-pleasant-hill-roosters-chicks/11-3-2026/?c=89f60370-1251-4113-9fbe-6fb920ffe94c",
+   "desc": "",
+   "why": "High school boys soccer. Lebanon 10-13, Pleasant Hill 8-4-1.",
+   "verified": true,
+   "id": "maxp-2026-11-03-lebanon-vs-pleasant-hill-boys-soccer"
   },
   {
    "source": "Visit Lebanon",
@@ -1839,6 +1983,18 @@
    "id": "visi-2026-11-06-trivia-night"
   },
   {
+   "source": "Lake Expo",
+   "title": "The Encore - Live Music by Piano Nights with Krista Meadows",
+   "date": "2026-11-06",
+   "time": "7:00 pm",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-piano-nights-with-krista-meadows/event_2740184e-7f32-4988-8177-b25e0161ee9e.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-06-the-encore-live-music-by-piano-nights"
+  },
+  {
    "source": "AllEvents",
    "title": "My Kind of Christmas Mercy Lebanon Auxiliary Gift Shop Open House - 11/6 & 11/7",
    "date": "2026-11-06",
@@ -1849,18 +2005,6 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-06-my-kind-of-christmas-mercy-lebanon-auxil"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Crafted in Faith Coffee Truck at Mercy Lebanon - Fri., Nov. 6th - 8:30 AM - 2:30 PM",
-   "date": "2026-11-06",
-   "time": "",
-   "place": "100 Hospital Drive, Lebanon, MO 65536",
-   "town": "Lebanon",
-   "url": "https://allevents.in/lebanon/crafted-in-faith-coffee-truck-at-mercy-lebanon-fri-nov-6th-8-30-am-2-30-pm/200030881964825",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-06-crafted-in-faith-coffee-truck-at-mercy-l"
   },
   {
    "source": "AllEvents",
@@ -1885,6 +2029,30 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-06-cmg-clinical-competency-fair-lebanon"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Crafted in Faith Coffee Truck at Mercy Lebanon - Fri., Nov. 6th - 8:30 AM - 2:30 PM",
+   "date": "2026-11-06",
+   "time": "",
+   "place": "100 Hospital Drive, Lebanon, MO 65536",
+   "town": "Lebanon",
+   "url": "https://allevents.in/lebanon/crafted-in-faith-coffee-truck-at-mercy-lebanon-fri-nov-6th-8-30-am-2-30-pm/200030881964825",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-06-crafted-in-faith-coffee-truck-at-mercy-l"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Red Cross Shelter Training (Waynesville, MO)",
+   "date": "2026-11-06",
+   "time": "",
+   "place": "25625 Highway 17, Waynesville, MO 65583-2292, United States",
+   "town": "Waynesville",
+   "url": "https://allevents.in/waynesville/red-cross-shelter-training-waynesville-mo/200030913332618",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-06-red-cross-shelter-training-waynesville"
   },
   {
    "source": "AllEvents",
@@ -2041,6 +2209,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-07-2026-veteran-s-day-ceremony-and-parade"
+  },
+  {
+   "source": "AllEvents",
+   "title": "meet the award winning local author, book signing event",
+   "date": "2026-11-07",
+   "time": "",
+   "place": "22240 spruce rd waynesville mo 65583",
+   "town": "Waynesville",
+   "url": "https://allevents.in/waynesville/meet-the-award-winning-local-author-book-signing-event/200030913334226",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-07-meet-the-award-winning-local-author-boo"
   },
   {
    "source": "AllEvents",
@@ -2348,6 +2528,18 @@
    "why_held": "not a public event (meeting/closure/business)"
   },
   {
+   "source": "Lake Expo",
+   "title": "Upcoming Events Celebrate 80 Years of Lake Life with the Camdenton Area Chamber of Commerce!",
+   "date": "2026-11-12",
+   "time": "5:00 pm",
+   "place": "The Exchange Venue",
+   "town": "Camdenton",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/celebrate-80-years-of-lake-life-with-the-camdenton-area-chamber-of-commerce/event_dcd7c3c9-2ddf-4a72-b198-57d5de24a566.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-12-upcoming-events-celebrate-80-years-of-la"
+  },
+  {
    "source": "AllEvents",
    "title": "Ribbon Cutting | KJEL @ Boat Town Brewing",
    "date": "2026-11-12",
@@ -2419,6 +2611,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-13-murder-mystery-blood-moon-on-blackwater"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Live Music & Entertainment at Lake of the Ozarks The Encore - Live Music by Defiance",
+   "date": "2026-11-13",
+   "time": "7:00 pm",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-defiance/event_31e38212-b926-4839-a944-40764db774dc.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-13-live-music-entertainment-at-lake-of-th"
   },
   {
    "source": "Lake Expo",
@@ -2640,6 +2844,19 @@
    "why_held": "not a public event (meeting/closure/business)"
   },
   {
+   "source": "Waynesville-St. Robert Chamber",
+   "title": "November 2026 Friendsgiving Luncheon",
+   "date": "2026-11-18",
+   "time": "11:30 AM - 01:00 PM",
+   "place": "The ARK Community & Sports Center",
+   "town": "Waynesville",
+   "url": "https://waynesville-strobertchamber.glueup.com/event/165906",
+   "desc": "",
+   "verified": false,
+   "id": "wayn-2026-11-18-november-2026-friendsgiving-luncheon",
+   "why_held": "not a public event (meeting/closure/business)"
+  },
+  {
    "source": "Lake Expo",
    "title": "StoryTime at Forget Me Not Horse Rescue & Sanctuary",
    "date": "2026-11-18",
@@ -2722,6 +2939,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-20-campsgiving-at-froggy-s-river-resort"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Live Music & Entertainment at Lake of the Ozarks The Encore - Live Music by Optimus Prime",
+   "date": "2026-11-20",
+   "time": "8:00 pm",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-optimus-prime/event_89b4c76f-fa41-40dc-9b4a-a71f34861be5.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-20-live-music-entertainment-at-lake-of-th"
   },
   {
    "source": "AllEvents",
@@ -2818,6 +3047,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-21-open-mic-night"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Christmas at the Landing Shopping Event!",
+   "date": "2026-11-21",
+   "time": "",
+   "place": "The Landing on Main Street",
+   "town": "Osage Beach",
+   "url": "https://allevents.in/osage-beach/christmas-at-the-landing-shopping-event/200030914879039",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-21-christmas-at-the-landing-shopping-event"
   },
   {
    "source": "AllEvents",
@@ -2928,6 +3169,18 @@
    "id": "lake-2026-11-26-thanksgiving-buffet-at-hk-s-the-lodge"
   },
   {
+   "source": "Lake Expo",
+   "title": "Upcoming Events Thanksgiving Day Feast @ The Encore",
+   "date": "2026-11-26",
+   "time": "10:00 am",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/thanksgiving-day-feast-the-encore/event_00659d3d-32c1-4787-ae26-2dd323a981ae.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-26-upcoming-events-thanksgiving-day-feast"
+  },
+  {
    "source": "AllEvents",
    "title": "LOTO Turkey Trot 5k and Fun Run",
    "date": "2026-11-26",
@@ -2962,6 +3215,18 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-11-27-ozarks-amphitheater-2027-chill-on-the-hi"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Live Music & Entertainment at Lake of the Ozarks The Encore - Live Music by The Rusty Ford Band",
+   "date": "2026-11-27",
+   "time": "8:00 pm \u2013 12:00 am",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-the-rusty-ford-band/event_ec61706d-1bc4-43e7-b92e-496390ab13ff.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-27-live-music-entertainment-at-lake-of-th"
   },
   {
    "source": "AllEvents",
@@ -3022,6 +3287,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-28-kid-s-christmas-craft-time-olde-oak-stat"
+  },
+  {
+   "source": "Waynesville-St. Robert Chamber",
+   "title": "Shop Small Business Saturday 2026",
+   "date": "2026-11-28",
+   "time": "12:00 AM - 12:00 AM",
+   "place": "",
+   "town": "Waynesville",
+   "url": "https://waynesville-strobertchamber.glueup.com/event/166013",
+   "desc": "",
+   "verified": true,
+   "id": "wayn-2026-11-28-shop-small-business-saturday-2026"
   },
   {
    "source": "Lake Expo",
@@ -3092,7 +3369,8 @@
    "town": "Eldon",
    "url": "https://allevents.in/eldon/our-fathers-table-christmas-party/200030777153611",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-12-01-our-father-s-table-christmas-party"
   },
   {
@@ -3142,6 +3420,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-12-04-pjs-pancakes-a-night-on-the-polar-exp"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Santa's Cottage @ The Lodge!",
+   "date": "2026-12-04",
+   "time": "4:00 pm",
+   "place": "The Lodge Of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/santas-cottage-the-lodge/event_05a16c96-c203-4e94-b703-34dc97f9ca57.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-12-04-santa-s-cottage-the-lodge"
   },
   {
    "source": "AllEvents",
@@ -3220,11 +3510,12 @@
    "title": "Kiwanis Lake Area Christmas for Kids!",
    "date": "2026-12-05",
    "time": "5:00 pm",
-   "place": "The Encore Lakeside Grill & Sky Bar",
-   "town": "Lake Ozark",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/charity/kiwanis-lake-area-christmas-for-kids/event_83e01e77-6281-4455-9dbd-e7e06b719148.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-12-05-kiwanis-lake-area-christmas-for-kids"
   },
   {
@@ -3300,6 +3591,19 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-07-first-week-of-classroom-shopping-for-dog"
+  },
+  {
+   "source": "Waynesville-St. Robert Chamber",
+   "title": "December 2026 Luncheon",
+   "date": "2026-12-09",
+   "time": "11:30 AM - 01:00 PM",
+   "place": "Waynesville Career Center",
+   "town": "Waynesville",
+   "url": "https://waynesville-strobertchamber.glueup.com/event/165907",
+   "desc": "",
+   "verified": false,
+   "id": "wayn-2026-12-09-december-2026-luncheon",
+   "why_held": "not a public event (meeting/closure/business)"
   },
   {
    "source": "AllEvents",
