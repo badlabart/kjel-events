@@ -1,168 +1,7 @@
 {
- "collected": "2026-10-27T05:42",
+ "collected": "2026-10-28T09:06",
  "errors": {},
  "events": [
-  {
-   "source": "Visit Lebanon",
-   "title": "Home School Art Classes",
-   "date": "2026-10-27",
-   "time": "",
-   "place": "Lebanon Art Guild",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/home-school-art-classes2222722222",
-   "desc": "Homeschool Art Classes at the Lebanon Art Guild offer hands-on art education for kids and teens ages 5\u201317. Classes meet on the second and fourth Tuesdays..",
-   "verified": true,
-   "id": "visi-2026-10-27-home-school-art-classes"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Original Song and Spoken Word Showcase",
-   "date": "2026-10-27",
-   "time": "",
-   "place": "Piney River Taproom - Downtown Waynesville",
-   "town": "Waynesville",
-   "url": "https://allevents.in/waynesville/original-song-and-spoken-word-showcase/200030843409535",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-27-original-song-and-spoken-word-showcase"
-  },
-  {
-   "source": "AllEvents",
-   "title": "A Court of Splintered Harmony ACOTAR 6 Release Party at Plants and Pages",
-   "date": "2026-10-27",
-   "time": "",
-   "place": "310 Historic Route 66 E, Waynesville, MO",
-   "town": "Waynesville",
-   "url": "https://allevents.in/waynesville/a-court-of-splintered-harmony-acotar-6-release-party-at-plants-and-pages/200030811573130",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-27-a-court-of-splintered-harmony-acotar-6-r"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Mommy & Me: Trick or Treat Yoga\ud83c\udf83",
-   "date": "2026-10-27",
-   "time": "",
-   "place": "Protein Barre",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/mommy-and-me-trick-or-treat-yoga/200030774244647",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-27-mommy-me-trick-or-treat-yoga"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Estate Auction",
-   "date": "2026-10-27",
-   "time": "",
-   "place": "143 North State Highway 7, Camdenton, MO",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/estate-auction/200030732250449",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-27-estate-auction"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Pauper Tuesdays!!",
-   "date": "2026-10-27",
-   "time": "",
-   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/pauper-tuesdays/200030745228125",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-27-pauper-tuesdays"
-  },
-  {
-   "source": "AllEvents",
-   "title": "38th Anniversary Party",
-   "date": "2026-10-27",
-   "time": "",
-   "place": "8779 MO-5, Camdenton, MO, United States, Missouri 65020",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/38th-anniversary-party/200029576412937",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-27-38th-anniversary-party"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Eldon Parents as Teachers Halloween Costume March",
-   "date": "2026-10-27",
-   "time": "",
-   "place": "101 S Pine St, Eldon, MO 65026",
-   "town": "Eldon",
-   "url": "https://allevents.in/eldon/eldon-parents-as-teachers-halloween-costume-march/200030855046150",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-27-eldon-parents-as-teachers-halloween-cost"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Logan-Rogersville vs. Marshfield boys soccer",
-   "date": "2026-10-27",
-   "time": "4:30 PM",
-   "place": "Marshfield High School",
-   "town": "Marshfield",
-   "url": "https://www.maxpreps.com/mo/soccer/match/logan-rogersville-vs-marshfield/10-27-2026/?c=a6f7e4eb-ea84-471e-ad8b-e8f811324692",
-   "desc": "",
-   "why": "High school boys soccer. Logan-Rogersville 16-5, Marshfield 7-12.",
-   "verified": true,
-   "id": "maxp-2026-10-27-logan-rogersville-vs-marshfield-boys-so"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Kickapoo vs. Lebanon boys soccer",
-   "date": "2026-10-27",
-   "time": "6:30 PM",
-   "place": "Lebanon High School",
-   "town": "Lebanon",
-   "url": "https://www.maxpreps.com/mo/soccer/match/kickapoo-springfield-vs-lebanon/10-27-2026/?c=8d8e1c88-ee47-490c-a8b5-d3ff5cc67a2d",
-   "desc": "",
-   "why": "High school boys soccer. Kickapoo 6-17, Lebanon 10-13.",
-   "verified": true,
-   "id": "maxp-2026-10-27-kickapoo-vs-lebanon-boys-soccer"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Glendale vs. Waynesville boys soccer",
-   "date": "2026-10-27",
-   "time": "6:40 PM",
-   "place": "Waynesville High School",
-   "town": "Waynesville",
-   "url": "https://www.maxpreps.com/mo/soccer/match/glendale-springfield-vs-waynesville/10-27-2026/?c=b5085a45-3139-40e7-9f23-6a31eaba288d",
-   "desc": "",
-   "why": "High school boys soccer. Glendale 15-4-1, Waynesville 5-11.",
-   "verified": true,
-   "id": "maxp-2026-10-27-glendale-vs-waynesville-boys-soccer"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Osage vs. Fulton boys soccer",
-   "date": "2026-10-27",
-   "time": "6:45 PM",
-   "place": "At Fulton High School",
-   "town": "Lake Ozark",
-   "url": "https://www.maxpreps.com/mo/soccer/match/fulton-vs-osage-kaiser/10-27-2026/?c=3b29a6ff-23f9-4c18-990b-338e673a4e2a",
-   "desc": "",
-   "why": "High school boys soccer. Osage 4-12, Fulton 9-5.",
-   "verified": true,
-   "id": "maxp-2026-10-27-osage-vs-fulton-boys-soccer"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Bolivar vs. Camdenton boys soccer",
-   "date": "2026-10-27",
-   "time": "7:00 PM",
-   "place": "Camdenton High School",
-   "town": "Camdenton",
-   "url": "https://www.maxpreps.com/mo/soccer/match/bolivar-vs-camdenton/10-27-2026/?c=28a3031c-b408-4b89-b284-f3666483300d",
-   "desc": "",
-   "why": "High school boys soccer. Bolivar 11-7, Camdenton 11-12.",
-   "verified": true,
-   "id": "maxp-2026-10-27-bolivar-vs-camdenton-boys-soccer"
-  },
   {
    "source": "Visit Lebanon",
    "title": "Storytime",
@@ -201,18 +40,6 @@
    "why_held": "not a public event (meeting/closure/business)"
   },
   {
-   "source": "Visit Pulaski County",
-   "title": "Magic the Gathering Casual Commander night",
-   "date": "2026-10-28",
-   "time": "5:00pm - 11:00pm",
-   "place": "BK Games",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1793206800&custom_date_end=1793228400",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-28-magic-the-gathering-casual-commander-nig"
-  },
-  {
    "source": "Lake Expo",
    "title": "25th CADV Brunch: Buckles and Boots for Bravery",
    "date": "2026-10-28",
@@ -229,11 +56,12 @@
    "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: PiYo",
    "date": "2026-10-28",
    "time": "6:45 am \u2013 7:45 am",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-piyo/event_c678fe52-9c27-4b30-8623-c7d9ee77951c.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-10-28-spa-kyoto-fitness-the-lodge-of-four-se"
   },
   {
@@ -241,11 +69,12 @@
    "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: Water Aerobics",
    "date": "2026-10-28",
    "time": "8:30 am \u2013 9:30 am",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-water-aerobics/event_7b1a38f4-7d7c-4d96-bc49-5a5c7e47ddcf.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-10-28-spa-kyoto-fitness-the-lodge-of-four-se"
   },
   {
@@ -259,6 +88,30 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-10-28-xtreme-bingo-horny-toad-s-camden-on-th"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Wednesday Morning Story Time - October 28th",
+   "date": "2026-10-28",
+   "time": "",
+   "place": "404 E 4th St, Suite C, Eldon, MO",
+   "town": "Eldon",
+   "url": "https://allevents.in/eldon/wednesday-morning-story-time-october-28th/200030922164702",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-28-wednesday-morning-story-time-october-2"
+  },
+  {
+   "source": "AllEvents",
+   "title": "The Great Mid-Week Halloween Bash!",
+   "date": "2026-10-28",
+   "time": "",
+   "place": "1171 E 412th Rd, Bolivar, MO",
+   "town": "Bolivar",
+   "url": "https://allevents.in/bolivar/the-great-mid-week-halloween-bash/200030922327514",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-28-the-great-mid-week-halloween-bash"
   },
   {
    "source": "AllEvents",
@@ -313,11 +166,12 @@
    "title": "The Encore - Live Music by Zach Simpson",
    "date": "2026-10-29",
    "time": "6:30 pm",
-   "place": "The Encore Lakeside Grill & Sky Bar",
-   "town": "Lake Ozark",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-zach-simpson/event_6dc87958-cdc7-449a-ac27-cca78ca93c1e.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-10-29-the-encore-live-music-by-zach-simpson"
   },
   {
@@ -325,11 +179,12 @@
    "title": "Spools & Needles Group",
    "date": "2026-10-29",
    "time": "10:00 am \u2013 2:00 pm",
-   "place": "Camden County Museum",
-   "town": "Linn Creek",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/spools-needles-group/event_98f5157c-d7a0-11e8-ab79-f773550c4324.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-10-29-spools-needles-group"
   },
   {
@@ -401,7 +256,7 @@
    "town": "Crocker",
    "url": "https://www.maxpreps.com/mo/soccer/match/crocker-vs-iberia/10-29-2026/?c=29c8b8a0-3395-4690-b4de-919a6ef38496",
    "desc": "",
-   "why": "High school boys soccer. Iberia 2-16, Crocker 7-9.",
+   "why": "High school boys soccer. Iberia 2-17, Crocker 7-10.",
    "verified": true,
    "id": "maxp-2026-10-29-iberia-vs-crocker-boys-soccer"
   },
@@ -414,7 +269,7 @@
    "town": "Lake Ozark",
    "url": "https://www.maxpreps.com/mo/soccer/match/eugene-vs-osage-kaiser/10-29-2026/?c=b30d9523-b385-4d89-b544-5e1f388eb26a",
    "desc": "",
-   "why": "High school boys soccer. Osage 4-12, Eugene 6-9.",
+   "why": "High school boys soccer. Osage 5-12, Eugene 6-9.",
    "verified": true,
    "id": "maxp-2026-10-29-osage-vs-eugene-boys-soccer"
   },
@@ -427,7 +282,7 @@
    "town": "Waynesville",
    "url": "https://www.maxpreps.com/mo/soccer/match/parkview-springfield-vs-waynesville/10-29-2026/?c=ea2c672a-bf08-498b-ad77-fc7b885b58c2",
    "desc": "",
-   "why": "High school boys soccer. Parkview 12-8, Waynesville 5-11.",
+   "why": "High school boys soccer. Parkview 12-9, Waynesville 5-12.",
    "verified": true,
    "id": "maxp-2026-10-29-parkview-vs-waynesville-boys-soccer"
   },
@@ -481,18 +336,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "The Haunted River Float at Ruby's Landing River Resort",
-   "date": "2026-10-30",
-   "time": "3:00pm - 12:00am",
-   "place": "Ruby's Landing River Resort",
-   "town": "Waynesville",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17721&custom_date_start=1793372400&custom_date_end=1793318400",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-10-30-the-haunted-river-float-at-ruby-s-landin"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Trunk or Treat",
    "date": "2026-10-30",
    "time": "3:00pm - 5:00pm",
@@ -502,6 +345,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-10-30-trunk-or-treat"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "The Haunted River Float at Ruby's Landing River Resort",
+   "date": "2026-10-30",
+   "time": "3:00pm - 12:00am",
+   "place": "Ruby's Landing River Resort",
+   "town": "Waynesville",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17721&custom_date_start=1793372400&custom_date_end=1793318400",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-10-30-the-haunted-river-float-at-ruby-s-landin"
   },
   {
    "source": "Visit Pulaski County",
@@ -589,6 +444,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "END OF THE YEAR SPECIAL!!! 20 RIBEYES $50 / HUGE TRUCKLOAD MEAT SALE IN LEBANON, MO @ LOWES",
+   "date": "2026-10-30",
+   "time": "",
+   "place": "190 E State Route 32, Lebanon, MO 65536, United States",
+   "town": "Lebanon",
+   "url": "https://allevents.in/lebanon/end-of-the-year-special-20-ribeyes-$50-huge-truckload-meat-sale-in-lebanon-mo-lowes/200030923985801",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-30-end-of-the-year-special-20-ribeyes-5"
+  },
+  {
+   "source": "AllEvents",
    "title": "Lattes by the Lake at Mercy Lebanon - Fri., Oct. 30th - 8 AM - 2 PM",
    "date": "2026-10-30",
    "time": "",
@@ -646,6 +513,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-30-spooky-self-wash-10-all-day"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Open Play Costume Party \ud83c\udf83\ud83d\udc7b",
+   "date": "2026-10-30",
+   "time": "",
+   "place": "404 E 4th St, Suite C, Eldon, MO",
+   "town": "Eldon",
+   "url": "https://allevents.in/eldon/open-play-costume-party/200030922164200",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-30-open-play-costume-party"
   },
   {
    "source": "AllEvents",
@@ -760,19 +639,6 @@
   },
   {
    "source": "MaxPreps",
-   "title": "Versailles vs. North Callaway football",
-   "date": "2026-10-30",
-   "time": "7:00 PM",
-   "place": "At North Callaway High School",
-   "town": "Versailles",
-   "url": "https://www.maxpreps.com/mo/football/game/north-callaway-kingdom-city-vs-versailles/10-30-2026/?c=846fc28b-3764-4748-9594-19d203f2ef9b",
-   "desc": "",
-   "why": "High school football. Versailles 6-3, North Callaway 7-2.",
-   "verified": true,
-   "id": "maxp-2026-10-30-versailles-vs-north-callaway-football"
-  },
-  {
-   "source": "MaxPreps",
    "title": "Eldon vs. Hallsville football",
    "date": "2026-10-30",
    "time": "7:00 PM",
@@ -796,6 +662,19 @@
    "why": "High school football. Waynesville 0-9, Kickapoo 2-7.",
    "verified": true,
    "id": "maxp-2026-10-30-waynesville-vs-kickapoo-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Versailles vs. North Callaway football",
+   "date": "2026-10-30",
+   "time": "7:00 PM",
+   "place": "At North Callaway High School",
+   "town": "Versailles",
+   "url": "https://www.maxpreps.com/mo/football/game/north-callaway-kingdom-city-vs-versailles/10-30-2026/?c=846fc28b-3764-4748-9594-19d203f2ef9b",
+   "desc": "",
+   "why": "High school football. Versailles 6-3, North Callaway 7-2.",
+   "verified": true,
+   "id": "maxp-2026-10-30-versailles-vs-north-callaway-football"
   },
   {
    "source": "MaxPreps",
@@ -1129,11 +1008,12 @@
    "title": "H. Toad's Bloody Mary Bar",
    "date": "2026-10-31",
    "time": "9:00 am \u2013 1:00 pm",
-   "place": "Horny Toad",
-   "town": "Lake Ozark",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-10-31-h-toad-s-bloody-mary-bar"
   },
   {
@@ -1366,18 +1246,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "The Great Pumpkin Party",
-   "date": "2026-10-31",
-   "time": "",
-   "place": "209 S Aurora St, Eldon, MO, United States, Missouri 65026",
-   "town": "Eldon",
-   "url": "https://allevents.in/eldon/the-great-pumpkin-party/200030834070813",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-10-31-the-great-pumpkin-party"
-  },
-  {
-   "source": "AllEvents",
    "title": "Hollyween's 2nd Annual Trunk or Treat",
    "date": "2026-10-31",
    "time": "",
@@ -1387,6 +1255,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-10-31-hollyween-s-2nd-annual-trunk-or-treat"
+  },
+  {
+   "source": "AllEvents",
+   "title": "The Great Pumpkin Party",
+   "date": "2026-10-31",
+   "time": "",
+   "place": "209 S Aurora St, Eldon, MO, United States, Missouri 65026",
+   "town": "Eldon",
+   "url": "https://allevents.in/eldon/the-great-pumpkin-party/200030834070813",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-10-31-the-great-pumpkin-party"
   },
   {
    "source": "AllEvents",
@@ -1433,7 +1313,7 @@
    "town": "Waynesville",
    "url": "https://www.maxpreps.com/mo/soccer/match/glendale-springfield-vs-waynesville/10-31-2026/?c=0ba311b6-8cf4-42ff-a611-62405fe63ddf",
    "desc": "",
-   "why": "High school boys soccer. Waynesville 5-11, Glendale 15-4-1.",
+   "why": "High school boys soccer. Waynesville 5-12, Glendale 16-4-1.",
    "verified": true,
    "id": "maxp-2026-10-31-waynesville-vs-glendale-boys-soccer"
   },
@@ -1446,7 +1326,7 @@
    "town": "Bolivar",
    "url": "https://www.maxpreps.com/mo/soccer/match/bolivar-vs-cassville/10-31-2026/?c=e094879f-3985-4ef5-ac10-d21debe2b37b",
    "desc": "",
-   "why": "High school boys soccer. Cassville 10-11-1, Bolivar 11-7.",
+   "why": "High school boys soccer. Cassville 10-11-1, Bolivar 12-8.",
    "verified": true,
    "id": "maxp-2026-10-31-cassville-vs-bolivar-boys-soccer"
   },
@@ -1459,9 +1339,21 @@
    "town": "Bolivar",
    "url": "https://www.maxpreps.com/mo/soccer/match/bolivar-vs-osage-kaiser/10-31-2026/?c=112d25af-85d1-4573-a1a2-72e6ffc10d5b",
    "desc": "",
-   "why": "High school boys soccer. Osage 4-12, Bolivar 11-7.",
+   "why": "High school boys soccer. Osage 5-12, Bolivar 12-8.",
    "verified": true,
    "id": "maxp-2026-10-31-osage-vs-bolivar-boys-soccer"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "45th Annual Toy Run",
+   "date": "2026-11-01",
+   "time": "12:00 PM",
+   "place": "2538 Evergreen Parkway Lebanon, MO 65536",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/45th-annual-toy-run",
+   "desc": "45th Annual Toy Run benefiting local families. Bring a new unwrapped toy and canned food donation. Free chili and drinks after the ride. November 1, 2026, at the American Legion Hall in Lebanon.",
+   "verified": true,
+   "id": "visi-2026-11-01-45th-annual-toy-run"
   },
   {
    "source": "Visit Pulaski County",
@@ -1480,11 +1372,12 @@
    "title": "Healing Services At New Revival Center",
    "date": "2026-11-01",
    "time": "6:30 pm",
-   "place": "New Revival Center",
-   "town": "Versailles",
+   "place": "",
+   "town": "Lake Area",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/healing-services-at-new-revival-center/event_8f48e364-1da5-11e9-8348-670f6b36762e.html",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "lake-2026-11-01-healing-services-at-new-revival-center"
   },
   {
@@ -1570,6 +1463,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-02-private-make-your-own-fire-cider-elder"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Magic the Gathering - Modern Monday",
+   "date": "2026-11-02",
+   "time": "",
+   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/magic-the-gathering-modern-monday/200030771647721",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-02-magic-the-gathering-modern-monday"
   },
   {
    "source": "AllEvents",
@@ -1664,7 +1569,7 @@
    "town": "Marshfield",
    "url": "https://www.maxpreps.com/mo/soccer/match/capital-city-jefferson-city-vs-marshfield/11-3-2026/?c=c0d94838-0f56-4d09-9c08-ca823ae834f2",
    "desc": "",
-   "why": "High school boys soccer. Marshfield 7-12, Capital City 12-13.",
+   "why": "High school boys soccer. Marshfield 7-14, Capital City 12-14.",
    "verified": true,
    "id": "maxp-2026-11-03-marshfield-vs-capital-city-boys-soccer"
   },
@@ -1677,7 +1582,7 @@
    "town": "Camdenton",
    "url": "https://www.maxpreps.com/mo/soccer/match/camdenton-vs-warrensburg/11-3-2026/?c=4a9da72b-61db-45b5-9a73-fda28545e5a0",
    "desc": "",
-   "why": "High school boys soccer. Warrensburg 1-13-1, Camdenton 11-12.",
+   "why": "High school boys soccer. Warrensburg 2-13-1, Camdenton 12-12.",
    "verified": true,
    "id": "maxp-2026-11-03-warrensburg-vs-camdenton-boys-soccer"
   },
@@ -1690,7 +1595,7 @@
    "town": "Fair Grove",
    "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-new-covenant-academy-springfield/11-3-2026/?c=2c1b4dcd-73d0-4a35-8c8f-41d0061d3cad",
    "desc": "",
-   "why": "High school boys soccer. New Covenant Academy 4-12-1, Fair Grove 9-6-1.",
+   "why": "High school boys soccer. New Covenant Academy 5-13-1, Fair Grove 10-6-1.",
    "verified": true,
    "id": "maxp-2026-11-03-new-covenant-academy-vs-fair-grove-boys"
   },
@@ -1703,7 +1608,7 @@
    "town": "Lebanon",
    "url": "https://www.maxpreps.com/mo/soccer/match/lebanon-vs-pleasant-hill-roosters-chicks/11-3-2026/?c=89f60370-1251-4113-9fbe-6fb920ffe94c",
    "desc": "",
-   "why": "High school boys soccer. Lebanon 10-13, Pleasant Hill 8-4-1.",
+   "why": "High school boys soccer. Lebanon 11-14, Pleasant Hill 10-4-1.",
    "verified": true,
    "id": "maxp-2026-11-03-lebanon-vs-pleasant-hill-boys-soccer"
   },
@@ -1718,6 +1623,42 @@
    "desc": "Join us for a very special Storytime with local children's book author, Hillary Cox. Hillary will read her book, \"A Friend for Lunch.\" Crafts and snacks will be provided.",
    "verified": true,
    "id": "visi-2026-11-04-storytime-a-friend-for-lunch-with-hill"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Season of Savings Passport",
+   "date": "2026-11-04",
+   "time": "8:00am - 11:59pm",
+   "place": "Waynesville-St. Robert Area Chamber of Commerce",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793779200&custom_date_end=1793836740",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-04-season-of-savings-passport"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Turkey Shoot",
+   "date": "2026-11-04",
+   "time": "10:30am - 10:00pm",
+   "place": "Daugherty Bowling Center",
+   "town": "Fort Leonard Wood",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1793788200&custom_date_end=1793829600",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-04-turkey-shoot"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Magic the Gathering Casual Commander night",
+   "date": "2026-11-04",
+   "time": "5:00pm - 11:00pm",
+   "place": "BK Games",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1793811600&custom_date_end=1793833200",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-04-magic-the-gathering-casual-commander-nig"
   },
   {
    "source": "AllEvents",
@@ -1864,6 +1805,19 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-05-under-the-lights-community-night"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Dixon vs. Crocker boys soccer",
+   "date": "2026-11-05",
+   "time": "7:00 PM",
+   "place": "Crocker High School",
+   "town": "Crocker",
+   "url": "https://www.maxpreps.com/mo/soccer/match/crocker-vs-dixon/11-5-2026/?c=7f6dfd79-7d1a-4f73-9aed-a596fb745f20",
+   "desc": "",
+   "why": "High school boys soccer. Dixon 7-8, Crocker 7-10.",
+   "verified": true,
+   "id": "maxp-2026-11-05-dixon-vs-crocker-boys-soccer"
   },
   {
    "source": "Visit Lebanon",
@@ -2421,6 +2375,18 @@
    "why_held": "not a public event (meeting/closure/business)"
   },
   {
+   "source": "Visit Lebanon",
+   "title": "Home School Art Classes",
+   "date": "2026-11-10",
+   "time": "",
+   "place": "Lebanon Art Guild",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/home-school-art-classes22227222222",
+   "desc": "Homeschool Art Classes at the Lebanon Art Guild offer hands-on art education for kids and teens ages 5\u201317. Classes meet on the second and fourth Tuesdays..",
+   "verified": true,
+   "id": "visi-2026-11-10-home-school-art-classes"
+  },
+  {
    "source": "AllEvents",
    "title": "Discover Ireland: LACC Travel Club Inaugural Trip Breakfast Presentation",
    "date": "2026-11-10",
@@ -2492,6 +2458,18 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-11-11-veterans-day-schedule-school-of-the-os"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Craft + Play: November 10th",
+   "date": "2026-11-11",
+   "time": "",
+   "place": "404 E 4th St, Suite C, Eldon, MO",
+   "town": "Eldon",
+   "url": "https://allevents.in/eldon/craft-play-november-10th/200030922164501",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-11-craft-play-november-10th"
   },
   {
    "source": "City of Lebanon",
@@ -2634,12 +2612,11 @@
    "title": "Mobile Food Pantry",
    "date": "2026-11-13",
    "time": "1:00 pm \u2013 3:00 pm",
-   "place": "",
-   "town": "Lake Area",
+   "place": "The Church at Osage Hills",
+   "town": "Osage Beach",
    "url": "https://www.lakeexpo.com/calendar/upcoming_events/mobile-food-pantry/event_44411fc8-2d7e-11ea-9f30-db5881d0d62f.html",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "lake-2026-11-13-mobile-food-pantry"
   },
   {
@@ -2776,19 +2753,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Lake of the Ozarks Real Estate Investor Meetup",
-   "date": "2026-11-14",
-   "time": "",
-   "place": "Baxter's Lakeside Grille",
-   "town": "Lake Ozark",
-   "url": "https://allevents.in/lake-ozark/lake-of-the-ozarks-real-estate-investor-meetup/100001993270455590",
-   "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
-   "id": "alle-2026-11-14-lake-of-the-ozarks-real-estate-investor"
-  },
-  {
-   "source": "AllEvents",
    "title": "Defiance @ The Encore Lakeside Grill & Sky Bar",
    "date": "2026-11-14",
    "time": "",
@@ -2808,8 +2772,7 @@
    "town": "Eldon",
    "url": "https://allevents.in/eldon/flex-appeal-4-week-sculpt-strength-training-at-24-7-fitness/200030917622310",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-14-flex-appeal-4-week-sculpt-strength-trai"
   },
   {
@@ -2833,8 +2796,7 @@
    "town": "Eldon",
    "url": "https://allevents.in/eldon/ladies-tea-and-cheesecake-flight/200030917622724",
    "desc": "",
-   "verified": false,
-   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "verified": true,
    "id": "alle-2026-11-15-ladies-tea-cheesecake-flight"
   },
   {
@@ -2888,6 +2850,18 @@
    "id": "alle-2026-11-17-rest-resonance-sound-bath-at-the-club"
   },
   {
+   "source": "AllEvents",
+   "title": "Tuesday Morning Story Time - November 17th",
+   "date": "2026-11-17",
+   "time": "",
+   "place": "404 E 4th St, Suite C, Eldon, MO",
+   "town": "Eldon",
+   "url": "https://allevents.in/eldon/tuesday-morning-story-time-november-17th/200030922164802",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-17-tuesday-morning-story-time-november-17"
+  },
+  {
    "source": "City of Lebanon",
    "title": "Board of Public Works",
    "date": "2026-11-18",
@@ -2938,6 +2912,18 @@
    "id": "alle-2026-11-18-christmas-cards"
   },
   {
+   "source": "AllEvents",
+   "title": "Children's Choir Night of Worship",
+   "date": "2026-11-18",
+   "time": "",
+   "place": "316 N. Main Ave, Bolivar, MO, United States, Missouri 65613",
+   "town": "Bolivar",
+   "url": "https://allevents.in/bolivar/childrens-choir-night-of-worship/200030922326207",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-18-children-s-choir-night-of-worship"
+  },
+  {
    "source": "Visit Lebanon",
    "title": "Mayor's Christmas Tree Lighting",
    "date": "2026-11-19",
@@ -2948,6 +2934,18 @@
    "desc": "Join us to kick off the start of the holiday season as the Mayor lights the tree at the Market. We\u2019re getting ready for an evening full of community & holiday cheer, featuring a DJ spinning your holiday favorites, delicious food trucks, Santa, & more.",
    "verified": true,
    "id": "visi-2026-11-19-mayor-s-christmas-tree-lighting"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Adult Event: Snowman Art",
+   "date": "2026-11-19",
+   "time": "5:30 PM - 7:30 PM",
+   "place": "Lebanon-Laclede County Library",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/adult-event-snowman-art",
+   "desc": "Adults are invited to a free snowman art event! All materials will be provided. This event will be held in the library meeting rooms. Registration Required.",
+   "verified": true,
+   "id": "visi-2026-11-19-adult-event-snowman-art"
   },
   {
    "source": "AllEvents",
