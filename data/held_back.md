@@ -1,56 +1,42 @@
-# Held back — 2026-10-30T08:42
+# Held back — 2026-11-02T20:37
 
-87 events not on the board.
+74 events not on the board.
 
-- 2026-11-14 · Season of Champions D&D Celebration Event · Lebanon · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/lebanon/season-of-champions-dandd-celebration-event/200030834912407
-- 2026-11-14 · Ladies Night Out x Craft Club · Camdenton · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/camdenton/ladies-night-out-x-craft-club/200030876078833
-- 2026-11-14 · FLEX APPEAL: 4-WEEK SCULPT STRENGTH TRAINING at 24/7 Fitness · Eldon · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/eldon/flex-appeal-4-week-sculpt-strength-training-at-24-7-fitness/200030917622310
-- 2026-11-14 · Ninth Street Winter Market · Eldon · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/eldon/ninth-street-winter-market/200030778234141
 - 2026-11-04 · November Business Builder's Luncheon · Lebanon · not a public event (meeting/closure/business) · https://allevents.in/lebanon/november-business-builders-luncheon/200030862798208
+- 2026-11-04 · Young Professionals at the Lake (YPL) - Membership Meeting · Lake Ozark · not a public event (meeting/closure/business) · https://allevents.in/lake-ozark/young-professionals-at-the-lake-ypl-membership-meeting/200029760048545
 - 2026-11-05 · Golf Course Advisory Board Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4667
-- 2026-11-09 · Lebanon City Council Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4255
-- 2026-11-09 · Lebanon City Council Work Session · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4101
+- 2026-11-06 · Pulaski County Christmas Parade Community Meeting · Waynesville · not a public event (meeting/closure/business) · https://visitpulaskicounty.org/calendar-of-events/?event=18019
+- 2026-11-07 · CP State Committee Meeting · Camdenton · not a public event (meeting/closure/business) · https://allevents.in/camdenton/cp-state-committee-meeting/200030949007444
 - 2026-11-09 · City Council Retreat · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4664
-- 2026-11-11 · Lebanon Park Board · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=3998
 - 2026-11-12 · Zoning and Planning Commission · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=3946
-- 2026-11-12 · Board of Adjustment · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4543
 - 2026-11-12 · Park Board · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4665
 - 2026-11-12 · Ribbon Cutting | KJEL @ Boat Town Brewing · Lebanon · not a public event (meeting/closure/business) · https://allevents.in/lebanon/ribbon-cutting-kjel-boat-town-brewing/200030881965228
 - 2026-11-16 · Golf Course Advisory Board · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4636
 - 2026-11-17 · Lebanon-Laclede County Library Board Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4307
 - 2026-11-18 · Board of Public Works · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4657
 - 2026-11-18 · November 2026 Friendsgiving Luncheon · Waynesville · not a public event (meeting/closure/business) · https://waynesville-strobertchamber.glueup.com/event/165906
+- 2026-11-23 · Lebanon City Council Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4411
+- 2026-11-23 · Lebanon City Council Work Session · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4154
 - 2026-12-07 · City Council Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4628
 - 2026-12-07 · City Council Work Session · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4626
+- 2026-12-09 · Lebanon Park Board · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=3999
 - 2026-12-09 · December 2026 Luncheon · Waynesville · not a public event (meeting/closure/business) · https://waynesville-strobertchamber.glueup.com/event/165907
+- 2026-12-10 · Board of Adjustment · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4545
 - 2026-11-03 · Estate Auction · Camdenton · skipped: auction · https://allevents.in/camdenton/estate-auction/200030732250449
-- 2026-11-01 · AUDITIONS: Every Christmas Story Ever Told (And Then Some!) · Marshfield · skipped: auditions, not public event · https://allevents.in/marshfield/auditions-every-christmas-story-ever-told-and-then-some/200030882452153
-- 2026-10-30 · Lunch Engagement · Bolivar · skipped: bank business lunch · https://allevents.in/bolivar/lunch-engagement/200030123997203
-- 2026-10-31 · H. Toad's Bloody Mary Bar · Lake Ozark · skipped: bar drink promotion · https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html
 - 2026-11-12 · Celebrate 80 Years of Lake Life with the Camdenton Area Chamber of Commerce! · Camdenton · skipped: chamber event · https://www.lakeexpo.com/calendar/upcoming_events/celebrate-80-years-of-lake-life-with-the-camdenton-area-chamber-of-commerce/event_dcd7c3c9-2ddf-4a72-b198-57d5de24a566.html
 - 2026-11-05 · Coffee with the Lake West Chamber · Lake Area · skipped: chamber networking coffee · https://www.lakeexpo.com/calendar/upcoming_events/coffee-with-the-lake-west-chamber/event_c70716a7-f70c-4989-8777-2fb11317cc3e.html
 - 2026-11-10 · Discover Ireland: LACC Travel Club Inaugural Trip Breakfast Presentation · Lebanon · skipped: chamber travel sales presentation · https://allevents.in/lebanon/discover-ireland-lacc-travel-club-inaugural-trip-breakfast-presentation/200030881892703
 - 2026-11-18 · Children's Choir Night of Worship · Bolivar · skipped: church event · https://allevents.in/bolivar/childrens-choir-night-of-worship/200030922326207
-- 2026-10-30 · Lattes by the Lake at Mercy Lebanon - Fri., Oct. 30th - 8 AM - 2 PM · Lebanon · skipped: coffee vendor at hospital · https://allevents.in/lebanon/lattes-by-the-lake-at-mercy-lebanon-fri-oct-30th-8-am-2-pm/200030881894914
+- 2026-11-05 · School of the Prophets Wildfire 🔥 · Lake Ozark · skipped: church ministry · https://allevents.in/lake-ozark/school-of-the-prophets-wildfire/200030952040955
+- 2026-11-08 · Life Care Center Ministry · Waynesville · skipped: church ministry · https://allevents.in/waynesville/life-care-center-ministry/200030215785634
+- 2026-12-06 · Healing Services At New Revival Center · Versailles · skipped: church service · https://www.lakeexpo.com/calendar/upcoming_events/healing-services-at-new-revival-center/event_8f48e364-1da5-11e9-8348-670f6b36762e.html
+- 2026-12-24 · Christmas Eve Communion · Camdenton · skipped: church service · https://allevents.in/camdenton/christmas-eve-communion/200030953156806
 - 2026-11-06 · Crafted in Faith Coffee Truck at Mercy Lebanon - Fri., Nov. 6th - 8:30 AM - 2:30 PM · Lebanon · skipped: coffee vendor at hospital · https://allevents.in/lebanon/crafted-in-faith-coffee-truck-at-mercy-lebanon-fri-nov-6th-8-30-am-2-30-pm/200030881964825
+- 2026-12-11 · COMC Annual Holiday Party · Camdenton · skipped: company holiday party · https://allevents.in/camdenton/comc-annual-holiday-party/200030953721253
 - 2026-12-12 · Living Estate Auction -- BUFFALO, MO · Buffalo · skipped: estate auction sale · https://allevents.in/buffalo/living-estate-auction-buffalo-mo/200030882749650
 - 2026-11-06 · My Kind of Christmas Mercy Lebanon Auxiliary Gift Shop Open House - 11/6 & 11/7 · Lebanon · skipped: gift shop sale · https://allevents.in/lebanon/my-kind-of-christmas-mercy-lebanon-auxiliary-gift-shop-open-house-11-6-and-11-7/200030881892402
-- 2026-11-01 · Fish Fry and Social for LOZ USCG Captains · Camdenton · skipped: group social for USCG captains · https://allevents.in/camdenton/fish-fry-and-social-for-loz-uscg-captains/200030891852015
 - 2026-11-07 · Operation: War Path · Bolivar · skipped: listing does not say what it is · https://allevents.in/bolivar/operation-war-path/200030103451425
-- 2026-10-30 · END OF THE YEAR SPECIAL!!! 20 RIBEYES $50 / HUGE TRUCKLOAD MEAT SALE IN LEBANON, MO @ LOWES · Lebanon · skipped: meat sale · https://allevents.in/lebanon/end-of-the-year-special-20-ribeyes-$50-huge-truckload-meat-sale-in-lebanon-mo-lowes/200030923985801
-- 2026-10-30 · END OF THE YEAR SPECIAL!!! 20 RIBEYES $50 / HUGE MEAT SALE IN LEBANON, MO @ HEARTLAND ANTIQUE MALL · Lebanon · skipped: meat sale · https://allevents.in/lebanon/end-of-the-year-special-20-ribeyes-$50-huge-meat-sale-in-lebanon-mo-heartland-antique-mall/200030933648023
-- 2026-10-31 · Old Stagecoach Stop Museum · Waynesville · skipped: museum open hours · https://visitpulaskicounty.org/calendar-of-events/?event=17858&custom_date_start=1793440800&custom_date_end=1793462400
-- 2026-10-31 · Pulaski County 1903 Historic Courthouse Museum · Waynesville · skipped: museum open hours · https://visitpulaskicounty.org/calendar-of-events/?event=17617&custom_date_start=1793444400&custom_date_end=1793462400
 - 2026-11-11 · Marshfield Means Business · Marshfield · skipped: networking · https://allevents.in/marshfield/marshfield-means-business/200030857160941
-- 2026-10-30 · Keep the Legend Rolling! Concession Help · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/keep-the-legend-rolling-concession-help/200030858652503
-- 2026-10-30 · 👻SPOOKY SELF-WASH $10 ALL DAY🐶🎃 · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/spooky-self-wash-$10-all-day/200030801248515
-- 2026-10-31 · Halloween Smash Palace Warrior · Lebanon · skipped: not a public outing a couple would attend · https://allevents.in/lebanon/halloween-smash-palace-warrior/200030830678245
-- 2026-10-31 · Halloween Hunted Shop · Lebanon · skipped: not a public outing a couple would attend · https://allevents.in/lebanon/halloween-hunted-shop/200030834248118
-- 2026-10-31 · Lake Parke Halloween Party · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/lake-parke-halloween-party/200030834532843
-- 2026-10-31 · HOWL-O-WEEN AT THE PAWZ🎃👻 · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/howl-o-ween-at-the-pawz/200030801248616
-- 2026-10-31 · The i-Berry's Halloween Bash at Encore · Lake Ozark · skipped: not a public outing a couple would attend · https://allevents.in/lake-ozark/the-i-berrys-halloween-bash-at-encore/200030802750637
-- 2026-11-01 · Healing Services At New Revival Center · Versailles · skipped: not a public outing a couple would attend · https://www.lakeexpo.com/calendar/upcoming_events/healing-services-at-new-revival-center/event_8f48e364-1da5-11e9-8348-670f6b36762e.html
-- 2026-11-01 · Life Care Center Ministry · Waynesville · skipped: not a public outing a couple would attend · https://allevents.in/waynesville/life-care-center-ministry/200030215785634
 - 2026-11-03 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793692800&custom_date_end=1793750340
 - 2026-11-04 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793779200&custom_date_end=1793836740
 - 2026-11-05 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793865600&custom_date_end=1793923140
@@ -59,11 +45,13 @@
 - 2026-11-06 · Lifeguard Training · Fort Leonard Wood · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17991
 - 2026-11-06 · CMG Clinical Competency Fair LEBANON · Lebanon · skipped: not a public outing a couple would attend · https://allevents.in/lebanon/cmg-clinical-competency-fair-lebanon/100001988421249484
 - 2026-11-06 · The Missouri Emergency Services Instructor Conference · Lake Ozark · skipped: not a public outing a couple would attend · https://allevents.in/lake-ozark/the-missouri-emergency-services-instructor-conference/200030860341724
+- 2026-11-07 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794038400&custom_date_end=1794095940
 - 2026-11-07 · Lake Ozark Wood Carvers Annual Show · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/lake-ozark-wood-carvers-annual-show/80002858335459
 - 2026-11-07 · Lake Ozarks Woodcarvers Annual Show · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/lake-ozarks-woodcarvers-annual-show/200030533061136
+- 2026-11-08 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794124800&custom_date_end=1794182340
+- 2026-11-09 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794211200&custom_date_end=1794268740
 - 2026-11-11 · A Season in the Hives: Natural Beekeeping Mentorship · Lebanon · skipped: not a public outing a couple would attend · https://www.visitlebanonmo.org/events/2020/a-season-in-the-hives-natuaral-beekeeping-mentorship223222
 - 2026-11-14 · 50th Anniversary of Waynesville Church of the Nazarene · Waynesville · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17933
-- 2026-11-14 · Lake of the Ozarks Real Estate Investor Meetup · Lake Ozark · skipped: not a public outing a couple would attend · https://allevents.in/lake-ozark/lake-of-the-ozarks-real-estate-investor-meetup/100001993270455590
 - 2026-11-18 · Christmas Cards · Lebanon · skipped: not a public outing a couple would attend · https://allevents.in/lebanon/christmas-cards/200030834737322
 - 2026-11-20 · CPR & First Aid · Fort Leonard Wood · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17992&custom_date_start=1795168800&custom_date_end=1795176000
 - 2026-11-21 · Bolivar - Local New Coat Distribution · Bolivar · skipped: not a public outing a couple would attend · https://allevents.in/bolivar/bolivar-local-new-coat-distribution/200030819533557
@@ -82,10 +70,9 @@
 - 2026-12-19 · Santa Pawz Finale - Last Chance for Santa Pawz · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/santa-pawz-finale-last-chance-for-santa-pawz/200030801249018
 - 2026-11-02 · PRIVATE Make Your Own Fire Cider & Elderberry Class · Camdenton · skipped: private class · https://allevents.in/camdenton/private-make-your-own-fire-cider-and-elderberry-class/200030908702544
 - 2026-11-26 · Thanksgiving Buffet at HK's @ The Lodge of Four Seasons · Lake Ozark · skipped: restaurant holiday promotion · https://www.lakeexpo.com/calendar/family_friendly/thanksgiving-buffet-at-hks-the-lodge-of-four-seasons/event_f512fe67-be6d-4af9-a1e4-8be3932c7501.html
-- 2026-10-30 · Last yard sale! · Camdenton · skipped: sale · https://allevents.in/camdenton/last-yard-sale/200030936416113
 - 2026-11-11 · VETERANS DAY SCHEDULE - School of the Osage · Osage Beach · skipped: school schedule notice · https://www.lakeexpo.com/calendar/upcoming_events/veterans-day-schedule---school-of-the-osage/event_b382d912-da0c-49ac-b045-5626be84c47c.html
-- 2026-10-31 · Spooky Flash Sale · Waynesville · skipped: store sale · https://allevents.in/waynesville/spooky-flash-sale/200030932738757
 - 2026-11-27 · BLACK FRIDAY🛒🤠💸✔️⭐️ · Bolivar · skipped: store sale, not an outing · https://allevents.in/bolivar/black-friday️/200030849546910
 - 2026-11-06 · Emergency Shelter Training · Waynesville · skipped: training · https://visitpulaskicounty.org/calendar-of-events/?event=18016
 - 2026-11-06 · Red Cross Shelter Training (Waynesville, MO) · Waynesville · skipped: training · https://allevents.in/waynesville/red-cross-shelter-training-waynesville-mo/200030913332618
 - 2026-12-03 · POST Core Requirements – 2 LS, 2 TS, 2 IP-includes Implicit Bias & De-Escalation · Camdenton · skipped: training · https://allevents.in/camdenton/post-core-requirements-2-ls-2-ts-2-ip-includes-implicit-bias-and-de-escalation/200030658758209
+- 2026-11-12 · Holiday Party!! · Osage Beach · skipped: unclear private holiday party · https://allevents.in/osage-beach/holiday-party/200030950781247
