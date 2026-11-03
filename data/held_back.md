@@ -1,7 +1,9 @@
-# Held back — 2026-11-02T20:37
+# Held back — 2026-11-03T05:55
 
 74 events not on the board.
 
+- 2026-12-04 · Lancaster Station Live at The Encore Lakeside Grill & Sky Bar · Lake Ozark · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/lake-ozark/lancaster-station-live-at-the-encore-lakeside-grill-and-sky-bar/200030843585057
+- 2026-12-07 · First week of classroom shopping for Dogwood Elementary students · Camdenton · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/camdenton/first-week-of-classroom-shopping-for-dogwood-elementary-students/200030867445351
 - 2026-11-04 · November Business Builder's Luncheon · Lebanon · not a public event (meeting/closure/business) · https://allevents.in/lebanon/november-business-builders-luncheon/200030862798208
 - 2026-11-04 · Young Professionals at the Lake (YPL) - Membership Meeting · Lake Ozark · not a public event (meeting/closure/business) · https://allevents.in/lake-ozark/young-professionals-at-the-lake-ypl-membership-meeting/200029760048545
 - 2026-11-05 · Golf Course Advisory Board Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4667
@@ -37,19 +39,12 @@
 - 2026-11-06 · My Kind of Christmas Mercy Lebanon Auxiliary Gift Shop Open House - 11/6 & 11/7 · Lebanon · skipped: gift shop sale · https://allevents.in/lebanon/my-kind-of-christmas-mercy-lebanon-auxiliary-gift-shop-open-house-11-6-and-11-7/200030881892402
 - 2026-11-07 · Operation: War Path · Bolivar · skipped: listing does not say what it is · https://allevents.in/bolivar/operation-war-path/200030103451425
 - 2026-11-11 · Marshfield Means Business · Marshfield · skipped: networking · https://allevents.in/marshfield/marshfield-means-business/200030857160941
-- 2026-11-03 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793692800&custom_date_end=1793750340
-- 2026-11-04 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793779200&custom_date_end=1793836740
-- 2026-11-05 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793865600&custom_date_end=1793923140
 - 2026-11-05 · Grand Opening Weekend · Lebanon · skipped: not a public outing a couple would attend · https://allevents.in/lebanon/grand-opening-weekend/200030790093720
-- 2026-11-06 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793952000&custom_date_end=1794009540
 - 2026-11-06 · Lifeguard Training · Fort Leonard Wood · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17991
 - 2026-11-06 · CMG Clinical Competency Fair LEBANON · Lebanon · skipped: not a public outing a couple would attend · https://allevents.in/lebanon/cmg-clinical-competency-fair-lebanon/100001988421249484
 - 2026-11-06 · The Missouri Emergency Services Instructor Conference · Lake Ozark · skipped: not a public outing a couple would attend · https://allevents.in/lake-ozark/the-missouri-emergency-services-instructor-conference/200030860341724
-- 2026-11-07 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794038400&custom_date_end=1794095940
 - 2026-11-07 · Lake Ozark Wood Carvers Annual Show · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/lake-ozark-wood-carvers-annual-show/80002858335459
 - 2026-11-07 · Lake Ozarks Woodcarvers Annual Show · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/lake-ozarks-woodcarvers-annual-show/200030533061136
-- 2026-11-08 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794124800&custom_date_end=1794182340
-- 2026-11-09 · Season of Savings Passport · Saint Robert · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794211200&custom_date_end=1794268740
 - 2026-11-11 · A Season in the Hives: Natural Beekeeping Mentorship · Lebanon · skipped: not a public outing a couple would attend · https://www.visitlebanonmo.org/events/2020/a-season-in-the-hives-natuaral-beekeeping-mentorship223222
 - 2026-11-14 · 50th Anniversary of Waynesville Church of the Nazarene · Waynesville · skipped: not a public outing a couple would attend · https://visitpulaskicounty.org/calendar-of-events/?event=17933
 - 2026-11-18 · Christmas Cards · Lebanon · skipped: not a public outing a couple would attend · https://allevents.in/lebanon/christmas-cards/200030834737322
@@ -62,13 +57,18 @@
 - 2026-12-01 · Our Father's Table Christmas Party! · Eldon · skipped: not a public outing a couple would attend · https://allevents.in/eldon/our-fathers-table-christmas-party/200030777153611
 - 2026-12-04 · The Encore Lakeside Grill & Sky Bar Presents: Lancaster Station · Lake Ozark · skipped: not a public outing a couple would attend · https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bar-presents-lancaster-station/200030768771946
 - 2026-12-05 · 46th Holiday Bazaar Pre-Sale E-Ticket · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/46th-holiday-bazaar-pre-sale-e-ticket/200030834411053
-- 2026-12-07 · First week of classroom shopping for Dogwood Elementary students · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/first-week-of-classroom-shopping-for-dogwood-elementary-students/200030867445351
 - 2026-12-12 · Santa Pawz Kickoff - Christmas at the Pawz · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/santa-pawz-kickoff-christmas-at-the-pawz/200030801248817
 - 2026-12-15 · Free Store Ministry Christmas Toy Shopping · Lebanon · skipped: not a public outing a couple would attend · https://www.visitlebanonmo.org/events/2020/free-store-ministry-christmas-toy-shopping
 - 2026-12-18 · Free Memory Check Up - December · Bolivar · skipped: not a public outing a couple would attend · https://allevents.in/bolivar/free-memory-check-up-december/200030725109151
 - 2026-12-19 · Free Store Ministry Christmas Food Baskets · Lebanon · skipped: not a public outing a couple would attend · https://www.visitlebanonmo.org/events/2020/free-store-ministry-christmas-food-baskets
 - 2026-12-19 · Santa Pawz Finale - Last Chance for Santa Pawz · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/santa-pawz-finale-last-chance-for-santa-pawz/200030801249018
-- 2026-11-02 · PRIVATE Make Your Own Fire Cider & Elderberry Class · Camdenton · skipped: private class · https://allevents.in/camdenton/private-make-your-own-fire-cider-and-elderberry-class/200030908702544
+- 2026-11-04 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793779200&custom_date_end=1793836740
+- 2026-11-05 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793865600&custom_date_end=1793923140
+- 2026-11-06 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793952000&custom_date_end=1794009540
+- 2026-11-07 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794038400&custom_date_end=1794095940
+- 2026-11-08 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794124800&custom_date_end=1794182340
+- 2026-11-09 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794211200&custom_date_end=1794268740
+- 2026-11-10 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794297600&custom_date_end=1794355140
 - 2026-11-26 · Thanksgiving Buffet at HK's @ The Lodge of Four Seasons · Lake Ozark · skipped: restaurant holiday promotion · https://www.lakeexpo.com/calendar/family_friendly/thanksgiving-buffet-at-hks-the-lodge-of-four-seasons/event_f512fe67-be6d-4af9-a1e4-8be3932c7501.html
 - 2026-11-11 · VETERANS DAY SCHEDULE - School of the Osage · Osage Beach · skipped: school schedule notice · https://www.lakeexpo.com/calendar/upcoming_events/veterans-day-schedule---school-of-the-osage/event_b382d912-da0c-49ac-b045-5626be84c47c.html
 - 2026-11-27 · BLACK FRIDAY🛒🤠💸✔️⭐️ · Bolivar · skipped: store sale, not an outing · https://allevents.in/bolivar/black-friday️/200030849546910

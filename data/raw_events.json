@@ -1,182 +1,7 @@
 {
- "collected": "2026-11-02T20:37",
+ "collected": "2026-11-03T05:55",
  "errors": {},
  "events": [
-  {
-   "source": "Visit Lebanon",
-   "title": "Build A Better Burger Contest-Benefiting Shop-With-A-Cop",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "Elm Street Eatery",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/build-a-better-burger-contest-benefiting-shop-with-a-cop22(2)",
-   "desc": "Build A Better Burger Contest at Elm Street Eatery! From Nov. 2-30, enjoy specialty burgers created by local first responders. For every contest burger sold, $2 will be donated to Shop-With-A-Cop, helping local children during the holiday season.",
-   "verified": true,
-   "id": "visi-2026-11-02-build-a-better-burger-contest-benefiting"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Toys for Tots!",
-   "date": "2026-11-02",
-   "time": "8:00 am \u2013 4:00 pm",
-   "place": "",
-   "town": "Lake Area",
-   "url": "https://www.lakeexpo.com/calendar/charity/toys-for-tots/event_911dbdd9-f6e2-4e08-87d4-2f0ae1592b48.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-11-02-toys-for-tots"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: PiYo",
-   "date": "2026-11-02",
-   "time": "6:45 am \u2013 7:45 am",
-   "place": "Lodge of Four Seasons",
-   "town": "Lake Ozark",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-piyo/event_c678fe52-9c27-4b30-8623-c7d9ee77951c.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-11-02-spa-kyoto-fitness-the-lodge-of-four-se"
-  },
-  {
-   "source": "AllEvents",
-   "title": "PRIVATE Make Your Own Fire Cider & Elderberry Class",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "Camdenton, Missouri",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/private-make-your-own-fire-cider-and-elderberry-class/200030908702544",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-02-private-make-your-own-fire-cider-elder"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Magic the Gathering - Modern Monday",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/magic-the-gathering-modern-monday/200030771647721",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-02-magic-the-gathering-modern-monday"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Mountain Grove vs. Buffalo football",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "Buffalo High School",
-   "town": "Buffalo",
-   "url": "https://www.maxpreps.com/mo/football/game/buffalo-vs-mountain-grove/11-6-2026/?c=847b696b-0b62-46f9-93f7-bb67ce509748",
-   "desc": "",
-   "why": "High school football. Mountain Grove 7-2, Buffalo 4-6.",
-   "verified": true,
-   "id": "maxp-2026-11-02-mountain-grove-vs-buffalo-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Ava vs. Fair Grove football",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "Fair Grove High School",
-   "town": "Fair Grove",
-   "url": "https://www.maxpreps.com/mo/football/game/ava-vs-fair-grove/11-6-2026/?c=3532eb4f-31b1-4dd9-b603-1dba69e01f22",
-   "desc": "",
-   "why": "High school football. Ava 7-3, Fair Grove 9-1.",
-   "verified": true,
-   "id": "maxp-2026-11-02-ava-vs-fair-grove-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Bolivar vs. Carl Junction football",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "At Carl Junction High School",
-   "town": "Bolivar",
-   "url": "https://www.maxpreps.com/mo/football/game/bolivar-vs-carl-junction/11-6-2026/?c=01f4a079-a0d3-4313-93d7-d6895e20b43c",
-   "desc": "",
-   "why": "High school football. Bolivar 6-4, Carl Junction 6-4.",
-   "verified": true,
-   "id": "maxp-2026-11-02-bolivar-vs-carl-junction-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Osage vs. Warrensburg football",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "At Warrensburg High School",
-   "town": "Lake Ozark",
-   "url": "https://www.maxpreps.com/mo/football/game/osage-kaiser-vs-warrensburg/11-6-2026/?c=bc1aca5a-c44d-4483-a2b0-07b7de4a4347",
-   "desc": "",
-   "why": "High school football. Osage 4-6, Warrensburg 9-1.",
-   "verified": true,
-   "id": "maxp-2026-11-02-osage-vs-warrensburg-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Nixa vs. Waynesville football",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "Waynesville High School",
-   "town": "Waynesville",
-   "url": "https://www.maxpreps.com/mo/football/game/nixa-vs-waynesville/11-6-2026/?c=952b03e7-5614-40b7-bbfe-4d52f83cb8a2",
-   "desc": "",
-   "why": "High school football. Nixa 8-1, Waynesville 1-9.",
-   "verified": true,
-   "id": "maxp-2026-11-02-nixa-vs-waynesville-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Camdenton vs. Jefferson City football",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "At Jefferson City High School",
-   "town": "Camdenton",
-   "url": "https://www.maxpreps.com/mo/football/game/camdenton-vs-jefferson-city/11-6-2026/?c=1c1d6ecd-1cd0-4dd1-b85e-7376282c4305",
-   "desc": "",
-   "why": "High school football. Camdenton 8-2, Jefferson City 5-5.",
-   "verified": true,
-   "id": "maxp-2026-11-02-camdenton-vs-jefferson-city-football"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Bolivar vs. Monett boys soccer",
-   "date": "2026-11-02",
-   "time": "",
-   "place": "At Monett High School",
-   "town": "Bolivar",
-   "url": "https://www.maxpreps.com/mo/soccer/match/bolivar-vs-monett/11-2-2026/?c=7bf1450d-6608-4c94-bfa5-87628d0b5514",
-   "desc": "",
-   "why": "High school boys soccer. .",
-   "verified": true,
-   "id": "maxp-2026-11-02-bolivar-vs-monett-boys-soccer"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Season of Savings Passport",
-   "date": "2026-11-03",
-   "time": "8:00am - 11:59pm",
-   "place": "Waynesville-St. Robert Area Chamber of Commerce",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793692800&custom_date_end=1793750340",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-03-season-of-savings-passport"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Turkey Shoot",
-   "date": "2026-11-03",
-   "time": "10:30am - 10:00pm",
-   "place": "Daugherty Bowling Center",
-   "town": "Fort Leonard Wood",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1793701800&custom_date_end=1793743200",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-03-turkey-shoot"
-  },
   {
    "source": "Visit Pulaski County",
    "title": "Learn to sew a trivet",
@@ -251,16 +76,81 @@
   },
   {
    "source": "MaxPreps",
-   "title": "Warrensburg vs. Camdenton boys soccer",
+   "title": "Ava vs. Fair Grove football",
    "date": "2026-11-03",
-   "time": "5:00 PM",
-   "place": "Camdenton High School",
-   "town": "Camdenton",
-   "url": "https://www.maxpreps.com/mo/soccer/match/camdenton-vs-warrensburg/11-3-2026/?c=4a9da72b-61db-45b5-9a73-fda28545e5a0",
+   "time": "",
+   "place": "Fair Grove High School",
+   "town": "Fair Grove",
+   "url": "https://www.maxpreps.com/mo/football/game/ava-vs-fair-grove/11-6-2026/?c=3532eb4f-31b1-4dd9-b603-1dba69e01f22",
    "desc": "",
-   "why": "High school boys soccer. Warrensburg 2-13-1, Camdenton 12-12.",
+   "why": "High school football. Ava 7-3, Fair Grove 9-1.",
    "verified": true,
-   "id": "maxp-2026-11-03-warrensburg-vs-camdenton-boys-soccer"
+   "id": "maxp-2026-11-03-ava-vs-fair-grove-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Bolivar vs. Carl Junction football",
+   "date": "2026-11-03",
+   "time": "",
+   "place": "At Carl Junction High School",
+   "town": "Bolivar",
+   "url": "https://www.maxpreps.com/mo/football/game/bolivar-vs-carl-junction/11-6-2026/?c=01f4a079-a0d3-4313-93d7-d6895e20b43c",
+   "desc": "",
+   "why": "High school football. Bolivar 6-4, Carl Junction 6-4.",
+   "verified": true,
+   "id": "maxp-2026-11-03-bolivar-vs-carl-junction-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Mountain Grove vs. Buffalo football",
+   "date": "2026-11-03",
+   "time": "",
+   "place": "Buffalo High School",
+   "town": "Buffalo",
+   "url": "https://www.maxpreps.com/mo/football/game/buffalo-vs-mountain-grove/11-6-2026/?c=847b696b-0b62-46f9-93f7-bb67ce509748",
+   "desc": "",
+   "why": "High school football. Mountain Grove 7-2, Buffalo 4-6.",
+   "verified": true,
+   "id": "maxp-2026-11-03-mountain-grove-vs-buffalo-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Osage vs. Warrensburg football",
+   "date": "2026-11-03",
+   "time": "",
+   "place": "At Warrensburg High School",
+   "town": "Lake Ozark",
+   "url": "https://www.maxpreps.com/mo/football/game/osage-kaiser-vs-warrensburg/11-6-2026/?c=bc1aca5a-c44d-4483-a2b0-07b7de4a4347",
+   "desc": "",
+   "why": "High school football. Osage 4-6, Warrensburg 9-1.",
+   "verified": true,
+   "id": "maxp-2026-11-03-osage-vs-warrensburg-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Nixa vs. Waynesville football",
+   "date": "2026-11-03",
+   "time": "",
+   "place": "Waynesville High School",
+   "town": "Waynesville",
+   "url": "https://www.maxpreps.com/mo/football/game/nixa-vs-waynesville/11-6-2026/?c=952b03e7-5614-40b7-bbfe-4d52f83cb8a2",
+   "desc": "",
+   "why": "High school football. Nixa 8-1, Waynesville 1-9.",
+   "verified": true,
+   "id": "maxp-2026-11-03-nixa-vs-waynesville-football"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Camdenton vs. Jefferson City football",
+   "date": "2026-11-03",
+   "time": "",
+   "place": "At Jefferson City High School",
+   "town": "Camdenton",
+   "url": "https://www.maxpreps.com/mo/football/game/camdenton-vs-jefferson-city/11-6-2026/?c=1c1d6ecd-1cd0-4dd1-b85e-7376282c4305",
+   "desc": "",
+   "why": "High school football. Camdenton 8-2, Jefferson City 5-5.",
+   "verified": true,
+   "id": "maxp-2026-11-03-camdenton-vs-jefferson-city-football"
   },
   {
    "source": "MaxPreps",
@@ -274,6 +164,19 @@
    "why": "High school boys soccer. Marshfield 7-14, Capital City 12-14.",
    "verified": true,
    "id": "maxp-2026-11-03-marshfield-vs-capital-city-boys-soccer"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Warrensburg vs. Camdenton boys soccer",
+   "date": "2026-11-03",
+   "time": "5:00 PM",
+   "place": "Camdenton High School",
+   "town": "Camdenton",
+   "url": "https://www.maxpreps.com/mo/soccer/match/camdenton-vs-warrensburg/11-3-2026/?c=4a9da72b-61db-45b5-9a73-fda28545e5a0",
+   "desc": "",
+   "why": "High school boys soccer. Warrensburg 2-13-1, Camdenton 12-12.",
+   "verified": true,
+   "id": "maxp-2026-11-03-warrensburg-vs-camdenton-boys-soccer"
   },
   {
    "source": "MaxPreps",
@@ -348,6 +251,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-04-magic-the-gathering-casual-commander-nig"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Spa Kyoto Fitness @ The Lodge of Four Seasons: PiYo",
+   "date": "2026-11-04",
+   "time": "6:45 am \u2013 7:45 am",
+   "place": "Lodge of Four Seasons",
+   "town": "Lake Ozark",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-piyo/event_c678fe52-9c27-4b30-8623-c7d9ee77951c.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-04-spa-kyoto-fitness-the-lodge-of-four-se"
   },
   {
    "source": "Lake Expo",
@@ -788,18 +703,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "First Friday Coffee",
-   "date": "2026-11-06",
-   "time": "",
-   "place": "Caf\u00e9 Jude's",
-   "town": "Lebanon",
-   "url": "https://allevents.in/lebanon/first-friday-coffee/200030917570716",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-06-first-friday-coffee"
-  },
-  {
-   "source": "AllEvents",
    "title": "Holiday Bazaar & Bake Sale",
    "date": "2026-11-06",
    "time": "",
@@ -809,6 +712,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-06-holiday-bazaar-bake-sale"
+  },
+  {
+   "source": "AllEvents",
+   "title": "First Friday Coffee",
+   "date": "2026-11-06",
+   "time": "",
+   "place": "Caf\u00e9 Jude's",
+   "town": "Lebanon",
+   "url": "https://allevents.in/lebanon/first-friday-coffee/200030917570716",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-06-first-friday-coffee"
   },
   {
    "source": "AllEvents",
@@ -1004,18 +919,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Season of Savings Passport",
-   "date": "2026-11-07",
-   "time": "8:00am - 11:59pm",
-   "place": "Waynesville-St. Robert Area Chamber of Commerce",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794038400&custom_date_end=1794095940",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-07-season-of-savings-passport"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Pulaski County Farmers Market",
    "date": "2026-11-07",
    "time": "8:00am - 12:00pm",
@@ -1025,6 +928,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-07-pulaski-county-farmers-market"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Season of Savings Passport",
+   "date": "2026-11-07",
+   "time": "8:00am - 11:59pm",
+   "place": "Waynesville-St. Robert Area Chamber of Commerce",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794038400&custom_date_end=1794095940",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-07-season-of-savings-passport"
   },
   {
    "source": "Visit Pulaski County",
@@ -1449,6 +1364,18 @@
    "id": "visi-2026-11-09-turkey-shoot"
   },
   {
+   "source": "Lake Expo",
+   "title": "Toys for Tots!",
+   "date": "2026-11-09",
+   "time": "8:00 am \u2013 4:00 pm",
+   "place": "",
+   "town": "Lake Area",
+   "url": "https://www.lakeexpo.com/calendar/charity/toys-for-tots/event_911dbdd9-f6e2-4e08-87d4-2f0ae1592b48.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-09-toys-for-tots"
+  },
+  {
    "source": "Visit Lebanon",
    "title": "Home School Art Classes",
    "date": "2026-11-10",
@@ -1459,6 +1386,30 @@
    "desc": "Homeschool Art Classes at the Lebanon Art Guild offer hands-on art education for kids and teens ages 5\u201317. Classes meet on the second and fourth Tuesdays..",
    "verified": true,
    "id": "visi-2026-11-10-home-school-art-classes"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Season of Savings Passport",
+   "date": "2026-11-10",
+   "time": "8:00am - 11:59pm",
+   "place": "Waynesville-St. Robert Area Chamber of Commerce",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794297600&custom_date_end=1794355140",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-10-season-of-savings-passport"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Turkey Shoot",
+   "date": "2026-11-10",
+   "time": "10:30am - 10:00pm",
+   "place": "Daugherty Bowling Center",
+   "town": "Fort Leonard Wood",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1794306600&custom_date_end=1794348000",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-10-turkey-shoot"
   },
   {
    "source": "AllEvents",
@@ -1657,18 +1608,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Texas Hold'em",
-   "date": "2026-11-13",
-   "time": "6:00pm - 8:00pm",
-   "place": "Pershing Community Center",
-   "town": "Fort Leonard Wood",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17975&custom_date_start=1794592800&custom_date_end=1794600000",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-13-texas-hold-em"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Murder Mystery: Blood Moon on Blackwater Lodge",
    "date": "2026-11-13",
    "time": "6:00pm - 8:00pm",
@@ -1678,6 +1617,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-13-murder-mystery-blood-moon-on-blackwater"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Texas Hold'em",
+   "date": "2026-11-13",
+   "time": "6:00pm - 8:00pm",
+   "place": "Pershing Community Center",
+   "town": "Fort Leonard Wood",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17975&custom_date_start=1794592800&custom_date_end=1794600000",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-13-texas-hold-em"
   },
   {
    "source": "Lake Expo",
@@ -2261,18 +2212,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Christmas at the Landing Shopping Event!",
-   "date": "2026-11-21",
-   "time": "",
-   "place": "The Landing on Main Street",
-   "town": "Osage Beach",
-   "url": "https://allevents.in/osage-beach/christmas-at-the-landing-shopping-event/200030914879039",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-21-christmas-at-the-landing-shopping-event"
-  },
-  {
-   "source": "AllEvents",
    "title": "The British Invasion",
    "date": "2026-11-21",
    "time": "",
@@ -2282,6 +2221,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-21-the-british-invasion"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Christmas at the Landing Shopping Event!",
+   "date": "2026-11-21",
+   "time": "",
+   "place": "The Landing on Main Street",
+   "town": "Osage Beach",
+   "url": "https://allevents.in/osage-beach/christmas-at-the-landing-shopping-event/200030914879039",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-21-christmas-at-the-landing-shopping-event"
   },
   {
    "source": "AllEvents",
@@ -2726,7 +2677,8 @@
    "town": "Lake Ozark",
    "url": "https://allevents.in/lake-ozark/lancaster-station-live-at-the-encore-lakeside-grill-and-sky-bar/200030843585057",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-12-04-lancaster-station-live-at-the-encore-lak"
   },
   {
@@ -2944,7 +2896,8 @@
    "town": "Camdenton",
    "url": "https://allevents.in/camdenton/first-week-of-classroom-shopping-for-dogwood-elementary-students/200030867445351",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-12-07-first-week-of-classroom-shopping-for-dog"
   },
   {
@@ -3309,6 +3262,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2027-01-01-new-year-s-weekend"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Oh Snap Poetry Open Mic Night (+ Holiday Potluck!)",
+   "date": "2027-01-02",
+   "time": "",
+   "place": "1375 State Road KK, Osage Beach, MO 65065-9817, United States",
+   "town": "Osage Beach",
+   "url": "https://allevents.in/osage-beach/oh-snap-poetry-open-mic-night-holiday-potluck/200030891001430",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2027-01-02-oh-snap-poetry-open-mic-night-holiday"
   }
  ]
 }
