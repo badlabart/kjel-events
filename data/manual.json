@@ -12,6 +12,30 @@
    "url": "",
    "link": "",
    "category": "Community and Causes"
+  },
+  {
+   "title": "Live Nativity",
+   "place": "Phelps County Fairgrounds · 12860 S US Hwy 63",
+   "town": "Rolla",
+   "why": "Free, donations accepted. Live nativity: experience the true meaning of Christmas.",
+   "url": "",
+   "link": "",
+   "category": "Holiday Events",
+   "date": "2026-12-11",
+   "time": "6:00 PM – 8:30 PM",
+   "min": 1080
+  },
+  {
+   "title": "Live Nativity",
+   "place": "Phelps County Fairgrounds · 12860 S US Hwy 63",
+   "town": "Rolla",
+   "why": "Free, donations accepted. Live nativity: experience the true meaning of Christmas.",
+   "url": "",
+   "link": "",
+   "category": "Holiday Events",
+   "date": "2026-12-12",
+   "time": "5:30 PM – 8:00 PM",
+   "min": 1050
   }
  ]
 }
