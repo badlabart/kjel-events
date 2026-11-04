@@ -1,11 +1,9 @@
-# Held back — 2026-11-03T05:55
+# Held back — 2026-11-04T04:17
 
 74 events not on the board.
 
-- 2026-12-04 · Lancaster Station Live at The Encore Lakeside Grill & Sky Bar · Lake Ozark · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/lake-ozark/lancaster-station-live-at-the-encore-lakeside-grill-and-sky-bar/200030843585057
-- 2026-12-07 · First week of classroom shopping for Dogwood Elementary students · Camdenton · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/camdenton/first-week-of-classroom-shopping-for-dogwood-elementary-students/200030867445351
+- 2026-12-18 · Free Memory Check Up - December · Bolivar · link failed: <HTTPError 429: 'Too Many Requests'> · https://allevents.in/bolivar/free-memory-check-up-december/200030725109151
 - 2026-11-04 · November Business Builder's Luncheon · Lebanon · not a public event (meeting/closure/business) · https://allevents.in/lebanon/november-business-builders-luncheon/200030862798208
-- 2026-11-04 · Young Professionals at the Lake (YPL) - Membership Meeting · Lake Ozark · not a public event (meeting/closure/business) · https://allevents.in/lake-ozark/young-professionals-at-the-lake-ypl-membership-meeting/200029760048545
 - 2026-11-05 · Golf Course Advisory Board Meeting · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4667
 - 2026-11-06 · Pulaski County Christmas Parade Community Meeting · Waynesville · not a public event (meeting/closure/business) · https://visitpulaskicounty.org/calendar-of-events/?event=18019
 - 2026-11-07 · CP State Committee Meeting · Camdenton · not a public event (meeting/closure/business) · https://allevents.in/camdenton/cp-state-committee-meeting/200030949007444
@@ -24,7 +22,7 @@
 - 2026-12-09 · Lebanon Park Board · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=3999
 - 2026-12-09 · December 2026 Luncheon · Waynesville · not a public event (meeting/closure/business) · https://waynesville-strobertchamber.glueup.com/event/165907
 - 2026-12-10 · Board of Adjustment · Lebanon · not a public event (meeting/closure/business) · https://www.lebanonmissouri.org/calendar.aspx?EID=4545
-- 2026-11-03 · Estate Auction · Camdenton · skipped: auction · https://allevents.in/camdenton/estate-auction/200030732250449
+- 2026-12-05 · Senior Community Dinner and Award Ceremony. · Lebanon · skipped: awards dinner · https://allevents.in/lebanon/senior-community-dinner-and-award-ceremony/200030962817456
 - 2026-11-12 · Celebrate 80 Years of Lake Life with the Camdenton Area Chamber of Commerce! · Camdenton · skipped: chamber event · https://www.lakeexpo.com/calendar/upcoming_events/celebrate-80-years-of-lake-life-with-the-camdenton-area-chamber-of-commerce/event_dcd7c3c9-2ddf-4a72-b198-57d5de24a566.html
 - 2026-11-05 · Coffee with the Lake West Chamber · Lake Area · skipped: chamber networking coffee · https://www.lakeexpo.com/calendar/upcoming_events/coffee-with-the-lake-west-chamber/event_c70716a7-f70c-4989-8777-2fb11317cc3e.html
 - 2026-11-10 · Discover Ireland: LACC Travel Club Inaugural Trip Breakfast Presentation · Lebanon · skipped: chamber travel sales presentation · https://allevents.in/lebanon/discover-ireland-lacc-travel-club-inaugural-trip-breakfast-presentation/200030881892703
@@ -57,19 +55,21 @@
 - 2026-12-01 · Our Father's Table Christmas Party! · Eldon · skipped: not a public outing a couple would attend · https://allevents.in/eldon/our-fathers-table-christmas-party/200030777153611
 - 2026-12-04 · The Encore Lakeside Grill & Sky Bar Presents: Lancaster Station · Lake Ozark · skipped: not a public outing a couple would attend · https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bar-presents-lancaster-station/200030768771946
 - 2026-12-05 · 46th Holiday Bazaar Pre-Sale E-Ticket · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/46th-holiday-bazaar-pre-sale-e-ticket/200030834411053
+- 2026-12-07 · First week of classroom shopping for Dogwood Elementary students · Camdenton · skipped: not a public outing a couple would attend · https://allevents.in/camdenton/first-week-of-classroom-shopping-for-dogwood-elementary-students/200030867445351
 - 2026-12-12 · Santa Pawz Kickoff - Christmas at the Pawz · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/santa-pawz-kickoff-christmas-at-the-pawz/200030801248817
 - 2026-12-15 · Free Store Ministry Christmas Toy Shopping · Lebanon · skipped: not a public outing a couple would attend · https://www.visitlebanonmo.org/events/2020/free-store-ministry-christmas-toy-shopping
-- 2026-12-18 · Free Memory Check Up - December · Bolivar · skipped: not a public outing a couple would attend · https://allevents.in/bolivar/free-memory-check-up-december/200030725109151
 - 2026-12-19 · Free Store Ministry Christmas Food Baskets · Lebanon · skipped: not a public outing a couple would attend · https://www.visitlebanonmo.org/events/2020/free-store-ministry-christmas-food-baskets
 - 2026-12-19 · Santa Pawz Finale - Last Chance for Santa Pawz · Osage Beach · skipped: not a public outing a couple would attend · https://allevents.in/osage-beach/santa-pawz-finale-last-chance-for-santa-pawz/200030801249018
-- 2026-11-04 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793779200&custom_date_end=1793836740
 - 2026-11-05 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793865600&custom_date_end=1793923140
 - 2026-11-06 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1793952000&custom_date_end=1794009540
 - 2026-11-07 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794038400&custom_date_end=1794095940
 - 2026-11-08 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794124800&custom_date_end=1794182340
 - 2026-11-09 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794211200&custom_date_end=1794268740
 - 2026-11-10 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794297600&custom_date_end=1794355140
+- 2026-11-11 · Season of Savings Passport · Saint Robert · skipped: passport/pass promotion · https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1794384000&custom_date_end=1794441540
+- 2026-12-19 · Gary & Betty 55th Anniversary Celebration · Bolivar · skipped: private anniversary party · https://allevents.in/bolivar/gary-and-betty-55th-anniversary-celebration/200030962865521
 - 2026-11-26 · Thanksgiving Buffet at HK's @ The Lodge of Four Seasons · Lake Ozark · skipped: restaurant holiday promotion · https://www.lakeexpo.com/calendar/family_friendly/thanksgiving-buffet-at-hks-the-lodge-of-four-seasons/event_f512fe67-be6d-4af9-a1e4-8be3932c7501.html
+- 2026-11-12 · Fall banquet · Buffalo · skipped: school banquet · https://allevents.in/buffalo/fall-banquet/200030962863510
 - 2026-11-11 · VETERANS DAY SCHEDULE - School of the Osage · Osage Beach · skipped: school schedule notice · https://www.lakeexpo.com/calendar/upcoming_events/veterans-day-schedule---school-of-the-osage/event_b382d912-da0c-49ac-b045-5626be84c47c.html
 - 2026-11-27 · BLACK FRIDAY🛒🤠💸✔️⭐️ · Bolivar · skipped: store sale, not an outing · https://allevents.in/bolivar/black-friday️/200030849546910
 - 2026-11-06 · Emergency Shelter Training · Waynesville · skipped: training · https://visitpulaskicounty.org/calendar-of-events/?event=18016
