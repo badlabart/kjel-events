@@ -1,0 +1,1313 @@
+{
+ "_note": "Boss 2026-11-11: Show Prep shows an event only if kind is 501c3 or gov and chance is false. Keyed by event url (manual entries: manual|title|date). kind: 501c3 | gov | other-nonprofit | commercial | unknown | chance | dup. what = what's happening; line = casual why-bother. MaxPreps games need no entry (school = gov). Check hosts with scripts/irs_check.py.",
+ "events": {
+  "https://www.visitlebanonmo.org/events/2020/veterans-day-veterans-golf-free": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/veterans-day-silent-vigil": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-piyo/event_c678fe52-9c27-4b30-8623-c7d9ee77951c.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-water-aerobics/event_7b1a38f4-7d7c-4d96-bc49-5a5c7e47ddcf.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/xtreme-bingo-horny-toads-camden-on-the-lake/event_cdeec1c0-36e7-477c-83a8-8f46bdd2b164.html": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://allevents.in/camdenton/veterans-day-celebration/200030999716923": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/veterans-day-breakfast/200030999434457": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/craft-play-november-10th/200030922164501": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/buffalo/swca-veterans-day-assembly/200031013700518": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/storytime5232542223232432223223": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": false,
+   "what": "Library storytime for ages 2–6",
+   "line": "Songs, books, a craft and a snack. An easy outing with the little ones."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1794479400&custom_date_end=1794520800": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Turkey Shoot at Daugherty Bowling Center on post",
+   "line": "A holiday bowling night out."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17779&custom_date_start=1794506400&custom_date_end=1794447000": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/spools-needles-group/event_98f5157c-d7a0-11e8-ab79-f773550c4324.html": {
+   "kind": "501c3",
+   "host": "Camden County Historical Society (EIN 431291021)",
+   "chance": false,
+   "what": "Spools & Needles sewing group at the Camden County Museum",
+   "line": "Bring the project you've been putting off and stitch with company."
+  },
+  "https://allevents.in/camdenton/one-piece-card-game-eb-5-vol-2-event/200031009758109": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/gundam-tcg-learn-and-play/200031009759315": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/merry-little-holiday-party/200030962862604": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/buffalo/the-old-home-place-presents-dennis-warner/200030569990559": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/rafters-christian-rodeo": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/19th-annual-midwest-spl-national-finals": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/pies--pages": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/a-coat-of-many-hits": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1794565800&custom_date_end=1794607200": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Turkey Shoot at Daugherty Bowling Center on post",
+   "line": "A holiday bowling night out."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17981": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood (Bruce C. Clarke Library)",
+   "chance": false,
+   "what": "Murder mystery night at the post library: Blood Moon on Blackwater Lodge",
+   "line": "A date night where the two of you play detective."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17975&custom_date_start=1794592800&custom_date_end=1794600000": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-defiance/event_31e38212-b926-4839-a944-40764db774dc.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/mobile-food-pantry/event_44411fc8-2d7e-11ea-9f30-db5881d0d62f.html": {
+   "kind": "501c3",
+   "host": "The Church at Osage Hills",
+   "chance": false,
+   "what": "Mobile food pantry at The Church at Osage Hills",
+   "line": "Groceries for families who need a hand. Pass the word."
+  },
+  "https://allevents.in/lebanon/craguns-concert-in-lebanon-mo/200030917621500": {
+   "kind": "501c3",
+   "host": "Freedom Church of the Nazarene",
+   "chance": false,
+   "what": "The Craguns in concert at Freedom Church of the Nazarene",
+   "line": "Gospel music close to home."
+  },
+  "https://allevents.in/waynesville/holiday-family-formal/200030449633528": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/waynesville/bob-kraus-piney-river-taproom/200030995945136": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/fort-leonard-wood/wood-elementary-pto-fall-carnival/200030905373811": {
+   "kind": "gov",
+   "host": "Wood Elementary PTO (school)",
+   "chance": false,
+   "what": "Wood Elementary fall carnival on Fort Leonard Wood",
+   "line": "A fall night out the kids will love."
+  },
+  "https://allevents.in/bolivar/2026-christmas-open-house-friday-november-13-and-saturday-november-14/200030670539721": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/stone-mills-candy-cane-christmas/200030962863106": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/christmas-open-house/200030962863409": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/marshfield/annual-ham-and-bean-dinner/200031019528544": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/holiday-shopping-bazaar": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17821&custom_date_start=1794643200&custom_date_end=1794657600": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18014": {
+   "kind": "other-nonprofit",
+   "host": "Fort Leonard Wood Lions Club = 501(c)(4)",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17989": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Winter Tour golf at Piney Valley Golf Course on post",
+   "line": "Golf season isn't over yet."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1794652200&custom_date_end=1794693600": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Turkey Shoot at Daugherty Bowling Center on post",
+   "line": "A holiday bowling night out."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1794675600&custom_date_end=1794697200": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17954": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/spa-kyoto-fitness-the-lodge-of-four-seasons-sunrise-yoga/event_16070cd2-c359-48c9-ba60-51aeac3da277.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/h-toads-bloody-mary-bar/event_93d6b542-e603-11e9-aa93-c35377b3cb22.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/rise-and-restore-womens-wellness-gathering/200031019241643": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/beater-with-a-heater/200030991844731": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/season-of-champions-dandd-celebration-event/200030834912407": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/barn-quilt-class/200030982837718": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/waynesville/st-martins-umzug/200030932739107": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/fort-leonard-wood/turkey-trot-5k/200030993930121": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Turkey Trot 5K at Davidson Fitness Center on post",
+   "line": "Get a head start on burning off Thanksgiving."
+  },
+  "https://allevents.in/camdenton/poke-saturdays-casual-play-and-learning/200030834434702": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/early-bird-bazaar/200031009758209": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/ladies-night-out-x-craft-club/200030876078833": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/jingle-and-mingle/200030976578348": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/hot-yoga-at-infinity-float-spa/200030993955149": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lake-ozark/defiance-the-encore-lakeside-grill-and-sky-bar/200030633213824": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/flex-appeal-4-week-sculpt-strength-training-at-24-7-fitness/200030917622310": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/ninth-street-winter-market/200030778234141": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/music-bingo-followed-by-karaoke-night-in-boones-bar/200031016417933": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://allevents.in/bolivar/saturday-night-bingo/200031021807529": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://allevents.in/bolivar/fall-festival/200030987824736": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/kokedama-workshop/200031009750212": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/gather-thy-children-and-jim-the-wonder-dog": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1794738600&custom_date_end=1794780000": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Turkey Shoot at Daugherty Bowling Center on post",
+   "line": "A holiday bowling night out."
+  },
+  "https://allevents.in/camdenton/packing-party-for-operation-christmas-child/200030981845931": {
+   "kind": "501c3",
+   "host": "Operation Christmas Child (Samaritan's Purse)",
+   "chance": false,
+   "what": "Operation Christmas Child shoebox packing party",
+   "line": "Help fill shoebox gifts for kids who won't get much else."
+  },
+  "https://allevents.in/eldon/ladies-tea-and-cheesecake-flight/200030917622724": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/women-rising-rest-reflect-rise/200030976410814": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1794825000&custom_date_end=1794866400": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Turkey Shoot at Daugherty Bowling Center on post",
+   "line": "A holiday bowling night out."
+  },
+  "https://www.lakeexpo.com/calendar/charity/toys-for-tots/event_911dbdd9-f6e2-4e08-87d4-2f0ae1592b48.html": {
+   "kind": "501c3",
+   "host": "Marine Toys for Tots Foundation",
+   "chance": false,
+   "what": "Toys for Tots collection around the Lake",
+   "line": "One new toy means a local kid wakes up to something on Christmas."
+  },
+  "https://allevents.in/camdenton/powder-puff-flag-football/200030988053428": {
+   "kind": "gov",
+   "host": "Camdenton R-III (Bob Shore Stadium)",
+   "chance": false,
+   "what": "Powder Puff flag football at Bob Shore Stadium",
+   "line": "The girls take the field for a change."
+  },
+  "https://allevents.in/camdenton/magic-the-gathering-modern-monday/200030771647721": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/ladies-run-group/200030987752908": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/cmh-hospice-lights-of-remembrance/200030973426935": {
+   "kind": "501c3",
+   "host": "Citizens Memorial Hospital District (EIN 431142176)",
+   "chance": false,
+   "what": "CMH Hospice Lights of Remembrance",
+   "line": "A quiet way to remember someone you miss this season."
+  },
+  "https://www.visitlebanonmo.org/events/2020/paint-and-sip--pumpkin-spice-and-paint": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/lca-presents-ella-mae-dixon": {
+   "kind": "501c3",
+   "host": "Lebanon Concert Association (EIN 311578293, inferred from 'LCA')",
+   "chance": false,
+   "what": "Ella Mae Dixon in concert at the Cowan Civic Center",
+   "line": "Old-time songs with fresh energy."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1794911400&custom_date_end=1794952800": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Turkey Shoot at Daugherty Bowling Center on post",
+   "line": "A holiday bowling night out."
+  },
+  "https://allevents.in/lebanon/november-bible-journaling/200030995911656": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/six-week-heated-yoga-sculpt-series/200031009673252": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lake-ozark/rest-and-resonance-sound-bath-at-the-club-at-porto-cima/200030917622826": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/tuesday-morning-story-time-november-17th/200030922164802": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/bms-winter-choir-concert/200031016418239": {
+   "kind": "gov",
+   "host": "Bolivar R-1 (Bolivar Middle School)",
+   "chance": false,
+   "what": "Bolivar Middle School winter choir concert",
+   "line": "The first Christmas music of the season, sung by local kids."
+  },
+  "https://allevents.in/bolivar/paint-your-own-christmas-ornaments/200031009751116": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/storytime52325422232324322232232": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": false,
+   "what": "Library storytime for ages 2–6",
+   "line": "Songs, books, a craft and a snack. An easy outing with the little ones."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1794997800&custom_date_end=1795039200": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Turkey Shoot at Daugherty Bowling Center on post",
+   "line": "A holiday bowling night out."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1795021200&custom_date_end=1795042800": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/storytime-at-forget-me-not-horse-rescue-sanctuary/event_a543c3b0-3e7f-4021-842b-fca8c9b8a202.html": {
+   "kind": "501c3",
+   "host": "Missouri Forget-Me-Not Horse Rescue (EIN 453787871)",
+   "chance": false,
+   "what": "Story time at Forget Me Not Horse Rescue in Linn Creek",
+   "line": "Story time, plus the kids get to see real rescue horses."
+  },
+  "https://www.visitlebanonmo.org/events/2020/mayors-christmas-tree-lighting22": {
+   "kind": "gov",
+   "host": "City of Lebanon",
+   "chance": false,
+   "what": "Mayor's Christmas tree lighting at The Market",
+   "line": "The holiday season officially starts when the mayor flips the switch."
+  },
+  "https://www.visitlebanonmo.org/events/2020/adult-event-snowman-art": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": false,
+   "what": "Free adult snowman art night at the library",
+   "line": "Grown-ups get a craft night too, and the materials are covered."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17939&custom_date_start=1795111200&custom_date_end=1795122000": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://allevents.in/lebanon/mayors-tree-lighting/200030991844933": {
+   "kind": "dup",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/waynesville/wcas-1st-fall-festival/200031000732649": {
+   "kind": "501c3",
+   "host": "Westside Baptist Church",
+   "chance": false,
+   "what": "WCA's first fall festival at Westside Baptist Church",
+   "line": "First-ever festival, so be there for year one."
+  },
+  "https://allevents.in/waynesville/ausa-womens-coffee-and-camaraderie/200030995944735": {
+   "kind": "501c3",
+   "host": "Association of the U.S. Army (AUSA)",
+   "chance": false,
+   "what": "AUSA women's coffee and camaraderie",
+   "line": "Coffee and friendship for the women of the Fort Wood community."
+  },
+  "https://allevents.in/osage-beach/death-cafe-lake-of-the-ozarks/200031016369225": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/girls-craft-night-beaded-bag-scarves/200030863288748": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/bomo-works-signing-event/200030987823934": {
+   "kind": "gov",
+   "host": "Bolivar R-1 (Bolivar High School)",
+   "chance": false,
+   "what": "BoMo Works signing event at Bolivar High School",
+   "line": "Cheer on local students signing on to their next step."
+  },
+  "https://allevents.in/bolivar/43rd-annual-cmh-auxiliary-bake-sale/200030962862504": {
+   "kind": "501c3",
+   "host": "Citizens Memorial Hospital (Auxiliary)",
+   "chance": false,
+   "what": "43rd annual CMH Auxiliary bake sale",
+   "line": "Forty-three years of homemade goodies. Dessert is handled."
+  },
+  "https://www.visitlebanonmo.org/events/2020/hometown-holiday-marketplace22222": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/friday-storytime2222": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": false,
+   "what": "Friday library storytime for ages 2–6",
+   "line": "Songs, books, a craft and a snack. An easy outing with the little ones."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17820": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/18th-annual-gala-of-trees-silent-auction-wobbly-boots/event_648ee1c2-7cd9-4579-9be8-a63a49a475f3.html": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-optimus-prime/event_89b4c76f-fa41-40dc-9b4a-a71f34861be5.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/2026-hometown-holiday-marketplace/200030853273259": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/holiday-bulb-workshop-party-make-it-take-christmas-centerpiece/200030991845936": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/waynesville/pink-friday-waynesville-boutique-crawl/200030975392137": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/eldon-shop-hop-pink-friday-and-saturday/200030979094911": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/victorian-ball22": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://www.visitlebanonmo.org/events/2020/friends-of-the-library-2nd-chance-sale23222": {
+   "kind": "501c3",
+   "host": "Friends of the Lebanon-Laclede County Library (EIN 412053303)",
+   "chance": false,
+   "what": "Friends of the Library 2nd Chance book sale",
+   "line": "New and used books, all $1. Stock up for winter."
+  },
+  "https://www.visitlebanonmo.org/events/2020/paws-for-reading22222222222222322": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": false,
+   "what": "Paws for Reading with a therapy dog at the library",
+   "line": "Kids read to a certified therapy dog. Great for shy readers."
+  },
+  "https://www.visitlebanonmo.org/events/2020/2026-christmas-parade--christmas-on-the-mother-road": {
+   "kind": "other-nonprofit",
+   "host": "Lebanon Area Chamber = 501(c)(6)",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/global-focus-ranch-rodeo": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18015": {
+   "kind": "other-nonprofit",
+   "host": "Fort Wood Community Spouses Club = 501(c)(4)",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18023": {
+   "kind": "other-nonprofit",
+   "host": "VFW post = veterans org, not 501(c)(3)",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17984": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/meet-the-elves-letters-to-santa/200031013386629": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/friends-2nd-chance-book-sale/200030953575228": {
+   "kind": "dup",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/waynesville/fwcsc-2026-holiday-craft-fair/200030932738902": {
+   "kind": "other-nonprofit",
+   "host": "Fort Wood Community Spouses Club = 501(c)(4)",
+   "chance": false
+  },
+  "https://allevents.in/waynesville/open-mic-night/200030849304901": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/the-british-invasion/200030834601717": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/christmas-at-the-landing-shopping-event/200030914879039": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lake-ozark/thanksgiving-meal-giveback-lake-of-the-ozarks/200030999346025": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/gobblin-hobblin-3k-5k-2026/200030631551331": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/fort-leonard-wood/feast-for-the-fort/200031009584648": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood",
+   "chance": false,
+   "what": "Feast for the Fort on post",
+   "line": "A Thanksgiving feast for the Fort Leonard Wood community."
+  },
+  "https://allevents.in/bolivar/fall-break-camp-at-tumbles/200030979191537": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/home-school-art-classes222272222222": {
+   "kind": "501c3",
+   "host": "Lebanon Art Guild (EIN 431815889)",
+   "chance": false,
+   "what": "Homeschool art classes at the Lebanon Art Guild",
+   "line": "Hands-on art for kids 5 to 17."
+  },
+  "https://www.visitlebanonmo.org/events/2020/thanksgiving-dinner-basket-event": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/the-14th-annual-lebanon-turkey-trot": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/holiday-meal-pickup---miss-pearls-flea-tique": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17831": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/17th-annual-lake-of-the-ozarks-5k-turkey-trot-fun-run/event_3ec808f8-d7a0-43c0-98fe-8b14d93314a4.html": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/thanksgiving-brunch-buffet-at-h-toads/event_fd0cd7ed-bb5c-44bc-aa39-8093cb464986.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/free-thanksgiving-day-dinner-st-anthony-in-camdenton/event_5aa3778a-a18f-411c-8fea-6f6d1e0b6216.html": {
+   "kind": "501c3",
+   "host": "St. Anthony Catholic Church",
+   "chance": false,
+   "what": "Free Thanksgiving Day dinner at St. Anthony in Camdenton",
+   "line": "Nobody has to spend Thanksgiving alone."
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/thanksgiving-day-feast-the-encore/event_00659d3d-32c1-4787-ae26-2dd323a981ae.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/a-day-for-giving-and-thanks/200030982838119": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/loto-turkey-trot-5k-and-fun-run/200029445281409": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/grounded-in-gratitude-free-thanksgiving-yoga-at-infinity-float-spa/200031021745320": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lake-ozark/thanksgiving-buffet-h-toads-located-at-camden-on-the-lake-resort/200031009673901": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/buffalo/turkey-day-5k-fun-run/200030766883702": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/live_entertainment/the-encore---live-music-by-the-rusty-ford-band/event_ec61706d-1bc4-43e7-b92e-496390ab13ff.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/small-business-saturday22322": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/rk-gun-show222222322": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/holiday-market": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17999": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/25th-annual-lake-west-chamber-lighted-christmas-parade/event_82cad47d-0582-4780-9d55-5c32966d7c28.html": {
+   "kind": "other-nonprofit",
+   "host": "Lake West Chamber (chamber, not 501(c)(3))",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/woodsy-cabin-holiday-photos-a-fundraiser-for-becca/200030971902231": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/hoilday-market/200031022122437": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/november-pokemon-tcg-league-challenge/200030988050013": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/santa-saturdays-at-evergreen/200030576435043": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/christmas-on-main-street/200030834602122": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lake-ozark/local-area-riders-for-charity-larc/200030978222912": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/paint-your-own-doormat/200030999520049": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/marshfield/marshfield-area-community-foundations-2026-gobble-wobble/200030803202524": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/buffalo/christmas-minis/200030916788344": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/adult-book-club-history-for-the-books/200030954027831": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": false,
+   "what": "Adult book club at the library: History for the Books",
+   "line": "A grown-up book club for history fans."
+  },
+  "https://www.visitlebanonmo.org/events/2020/a-very-merry-dawson-hollow-christmas2": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17967": {
+   "kind": "gov",
+   "host": "City of St. Robert",
+   "chance": false,
+   "what": "St. Robert's Christmas Kick-Off Spectacular",
+   "line": "St. Robert kicks off Christmas."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17966": {
+   "kind": "501c3",
+   "host": "St. Robert Bellarmine Catholic Church",
+   "chance": false,
+   "what": "Learn to sew a trivet at St. Robert Bellarmine Hall",
+   "line": "Make something useful for the holiday table."
+  },
+  "https://allevents.in/osage-beach/holiday-lights-at-osage-beach-city-park/200030999434704": {
+   "kind": "gov",
+   "host": "City of Osage Beach",
+   "chance": false,
+   "what": "Holiday lights at Osage Beach City Park",
+   "line": "An easy night out to see the lights."
+  },
+  "https://allevents.in/marshfield/marshfield-timeless-christmas-tree/200030992046400": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/holiday-shopping-event-at-driftwood-2-spa-and-salon/200031021920825": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/roots-of-route-66-the-green-book--the-mother-road": {
+   "kind": "501c3",
+   "host": "Lebanon-Laclede County Route 66 Society (EIN 814664889)",
+   "chance": false,
+   "what": "Author Candacy Taylor on Route 66 and the Green Book",
+   "line": "Route 66 history you probably never heard in school."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17786&custom_date_start=1796256000&custom_date_end=1796342340": {
+   "kind": "other-nonprofit",
+   "host": "Waynesville-St Robert Chamber = 501(c)(6)",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/jeb-a-very-grinchy-family-night/200031019241844": {
+   "kind": "gov",
+   "host": "Joel E. Barber School",
+   "chance": false,
+   "what": "A Very Grinchy Family Night at JEB",
+   "line": "A Grinch-themed night for the whole family."
+  },
+  "https://allevents.in/waynesville/author-event-during-christmas-on-the-square/200030974310421": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/buffalo/maple-and-main-presents-dana-cooper/200030660967329": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/first-friday22222222422222222324222": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/christmas-in-the-park22(2)": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17937": {
+   "kind": "501c3",
+   "host": "Waypoint United Methodist Church",
+   "chance": false,
+   "what": "PJs and Pancakes: a Polar Express night at Waypoint UMC",
+   "line": "Kids come in pajamas and get pancakes. What's not to like?"
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18024": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood",
+   "chance": false,
+   "what": "Tree lighting and holiday market at Joint Services Park on post",
+   "line": "Fort Leonard Wood lights its Christmas tree."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17905&custom_date_start=1796409000&custom_date_end=1796414400": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Trivia night at Ozark Tavern on post",
+   "line": "Find out which one of you is the know-it-all."
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/festival-of-lights-celebration-at-the-national-shrine-of-mary/event_3d8199f3-0d86-4905-bcba-90079e893f01.html": {
+   "kind": "501c3",
+   "host": "National Shrine of Mary (Shrine of St. Patrick)",
+   "chance": false,
+   "what": "Festival of Lights at the National Shrine of Mary in Laurie",
+   "line": "Christmas lights with a peaceful setting."
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/santas-cottage-the-lodge/event_05a16c96-c203-4e94-b703-34dc97f9ca57.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/camdenton-christmas-on-the-square/event_26438dd2-fa3c-4c57-9b24-13106e8fc7da.html": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/family_friendly/reverse-christmas-parade/event_8c79a33a-0e5b-4917-8e70-6df3a3f85646.html": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/santa-at-city-hall/200030976442638": {
+   "kind": "gov",
+   "host": "City of Osage Beach",
+   "chance": false,
+   "what": "Santa at Osage Beach City Hall",
+   "line": "Kids get their Christmas list to Santa in person."
+  },
+  "https://allevents.in/osage-beach/momco-jingle-and-mingle/200030834602936": {
+   "kind": "501c3",
+   "host": "The Church at Osage Hills (MomCo)",
+   "chance": false,
+   "what": "MomCo Jingle and Mingle",
+   "line": "A holiday night out just for moms."
+  },
+  "https://allevents.in/lake-ozark/lancaster-station-live-at-the-encore-lakeside-grill-and-sky-bar/200030843585057": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/2026-miss-merry-christmas-pageant": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/pancakes-with-santa2": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/spring-holler-2nd-annual-christmas-on-the-farm22": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/christmas-open-house2(3)": {
+   "kind": "chance",
+   "host": "",
+   "chance": true
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18025": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Breakfast with Santa at Pershing Community Center on post",
+   "line": "Pancakes with Santa. The kids will talk about it all week."
+  },
+  "https://www.lakeexpo.com/calendar/family_friendly/kids-christmas-workshop-west-lake-christian-church/event_63d6cc47-e669-4e7a-b1ec-8672fc3e0ecc.html": {
+   "kind": "501c3",
+   "host": "West Lake Christian Church",
+   "chance": false,
+   "what": "Kids Christmas workshop at West Lake Christian Church",
+   "line": "Kids make Christmas crafts while parents catch a breather."
+  },
+  "https://www.lakeexpo.com/calendar/charity/kiwanis-lake-area-christmas-for-kids/event_83e01e77-6281-4455-9dbd-e7e06b719148.html": {
+   "kind": "other-nonprofit",
+   "host": "Kiwanis club = 501(c)(4)",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/spring-holler-presents-christmas-on-the-farm/200030999845016": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/sips-with-santa/200030999844815": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/story-time-with-santa-and-mrs-clause/200030876079033": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/a-very-merry-santa-experience/200030952483010": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/marshfield/marshfield-christmas-parade/200030992046359": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/buffalo/indoor-craft-fair-at-dallas-county-ymca/200030962864617": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/hh-winter-goat-roping-series": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/dek-the-halls-with-dek-of-hearts": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18020": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/waynesville/december-beer-brunch/200030974462257": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/holiday-dance-recital/200030979095211": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/waynesville/november-book-club-at-plants-and-pages/200030821077314": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/camdenton-community-blood-drive/200031009757600": {
+   "kind": "501c3",
+   "host": "Blood bank (CBCO or Red Cross; both 501(c)(3))",
+   "chance": false,
+   "what": "Camdenton community blood drive",
+   "line": "One donation helps local patients."
+  },
+  "https://allevents.in/osage-beach/lake-regional-health-system-blood-drive/200030987752505": {
+   "kind": "501c3",
+   "host": "Blood bank (CBCO or Red Cross; both 501(c)(3))",
+   "chance": false,
+   "what": "Lake Regional blood drive",
+   "line": "One donation helps local patients."
+  },
+  "https://www.visitlebanonmo.org/events/2020/storytime-with-santa223": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": false,
+   "what": "Storytime with Santa and the Grinch at the library",
+   "line": "Free photos with Santa, and the Grinch is coming too."
+  },
+  "https://allevents.in/lebanon/lebanon-community-blood-drive/200030982837818": {
+   "kind": "501c3",
+   "host": "Blood bank (CBCO or Red Cross; both 501(c)(3))",
+   "chance": false,
+   "what": "Lebanon community blood drive at the library",
+   "line": "One donation helps local patients."
+  },
+  "https://allevents.in/eldon/craft-play-december-8th/200030837422659": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18021": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/family_friendly/3rd-annual-santa-at-osage-beach-city-hall/event_9dba5a8c-1772-428f-8c51-1c1cd399a6ae.html": {
+   "kind": "gov",
+   "host": "City of Osage Beach",
+   "chance": false,
+   "what": "Santa at Osage Beach City Hall, third year",
+   "line": "Kids get their Christmas list to Santa in person."
+  },
+  "https://allevents.in/marshfield/live-nativity-tickets/80001293816908": {
+   "kind": "501c3",
+   "host": "Marshfield United Methodist Church",
+   "chance": false,
+   "what": "Live nativity at Marshfield United Methodist",
+   "line": "The Christmas story, live and in person."
+  },
+  "https://allevents.in/buffalo/the-old-home-place-presents-the-weary-ramblers/200030000534201": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/christmas-on-commercial-and-the-light-up-lebanon-lighted-utv-parade2222": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/hoosier-tire-arena-cross-nationals22222": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17719": {
+   "kind": "501c3",
+   "host": "Crocker Christian Church",
+   "chance": false,
+   "what": "Journey to Bethlehem at Crocker Christian Church",
+   "line": "Walk through Bethlehem without leaving Crocker."
+  },
+  "https://www.lakeexpo.com/calendar/family_friendly/annual-comc-kids-holiday-party/event_133529c9-72f6-4aca-8c7d-5f0fd479fe53.html": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/steeped-in-christmas-spirit-a-tea-party": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18026": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood",
+   "chance": false,
+   "what": "Army-Navy game at Gerlach Track on post",
+   "line": "The rivalry, Fort Leonard Wood style."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17942": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/42nd-annual-lake-of-the-ozarks-christmas-parade/event_652aaacb-7097-47bf-a5e5-81c9f1e91016.html": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lake-ozark/mick-byrd-at-christmas-on-the-lake-charity-cruise/200031016295544": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/eldon/santas-workshop/200030979095111": {
+   "kind": "gov",
+   "host": "Eldon R-1 (Eldon Upper Elementary)",
+   "chance": false,
+   "what": "Santa's Workshop at Eldon Upper Elementary",
+   "line": "A Christmas morning for the kids."
+  },
+  "https://allevents.in/bolivar/country-road-marketplace-christmas-show/200030835028045": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/marshfield/pictures-with-the-grinch/200030992047411": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/marshfield/a-very-merry-christmas-festival/200030992046704": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/4th-annual-o-holy-night-at-the-national-shrine-of-mary/event_a96d3659-2445-43b9-8a00-ac61b33510bc.html": {
+   "kind": "501c3",
+   "host": "National Shrine of Mary (Shrine of St. Patrick)",
+   "chance": false,
+   "what": "O Holy Night at the National Shrine of Mary in Laurie",
+   "line": "A quiet Christmas evening in Laurie."
+  },
+  "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bars-chiefs-watch-party/200030768771743": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/bolivar-community-blood-drive/200031009750914": {
+   "kind": "501c3",
+   "host": "Blood bank (CBCO or Red Cross; both 501(c)(3))",
+   "chance": false,
+   "what": "Bolivar community blood drive",
+   "line": "One donation helps local patients."
+  },
+  "https://allevents.in/marshfield/marshfield-community-blood-drive/200031004452648": {
+   "kind": "501c3",
+   "host": "Blood bank (CBCO or Red Cross; both 501(c)(3))",
+   "chance": false,
+   "what": "Marshfield community blood drive",
+   "line": "One donation helps local patients."
+  },
+  "https://allevents.in/osage-beach/storytime-with-santa-at-city-hall/200030952277251": {
+   "kind": "gov",
+   "host": "City of Osage Beach",
+   "chance": false,
+   "what": "Storytime with Santa at Osage Beach City Hall",
+   "line": "Santa reads to the kids."
+  },
+  "https://allevents.in/bolivar/zumba-for-bolivar/200031009750112": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/ozarks-trading-cards-and-video-games-free-pictures-with-the-clauses-and-grinch/200031009756855": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/christmas-party/200030732249244": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/ajc-i-44-winter-shootout": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/osage-beach-community-blood-drive/200030987752004": {
+   "kind": "501c3",
+   "host": "Blood bank (CBCO or Red Cross; both 501(c)(3))",
+   "chance": false,
+   "what": "Osage Beach community blood drive",
+   "line": "One donation helps local patients."
+  },
+  "https://allevents.in/osage-beach/aka-new-years-eve-celebration-at-margaritaville/200029816312247": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/national-antique-tractor-pull2222222": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/first-day-hike22": {
+   "kind": "gov",
+   "host": "Missouri State Parks (Bennett Spring)",
+   "chance": false,
+   "what": "First Day Hike at Bennett Spring State Park",
+   "line": "Start 2027 on the trail with park staff."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18003": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/oh-snap-poetry-open-mic-night-holiday-potluck/200030891001430": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://www.lakeexpo.com/calendar/boating/kansas-city-boat-fishing-show/event_ff48cab0-ad2a-462b-9507-fe5bcc885b21.html": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/crush-zone": {
+   "kind": "commercial",
+   "host": "",
+   "chance": false
+  },
+  "manual|Free Steak Dinner for Veterans|2026-11-06": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "manual|Live Nativity|2026-12-11": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "manual|Live Nativity|2026-12-12": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  }
+ }
+}
