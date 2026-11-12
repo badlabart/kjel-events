@@ -1308,6 +1308,73 @@
    "kind": "unknown",
    "host": "",
    "chance": false
+  },
+  "https://allevents.in/camdenton/sunsipper-market/200031026866127": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/one-more-shot-live-at-double-ds-roadhouse/200031026866538": {
+   "kind": "commercial",
+   "host": "Double D’s Roadhouse",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17933&custom_date_start=1794736800&custom_date_end=1794751200": {
+   "kind": "501c3",
+   "host": "Waynesville Church of the Nazarene",
+   "chance": false,
+   "what": "Waynesville Church of the Nazarene marks its 50th anniversary",
+   "line": "Fifty years in Waynesville is a milestone worth showing up for."
+  },
+  "https://allevents.in/camdenton/pauper-tuesdays/200030745228125": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795075200&custom_date_end=1795132740": {
+   "kind": "other-nonprofit",
+   "host": "Waynesville-St. Robert Area Chamber of Commerce",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1795084200&custom_date_end=1795125600": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17779&custom_date_start=1795111200&custom_date_end=1795051800": {
+   "kind": "commercial",
+   "host": "Club Rodeo Midway",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/womens-self-defense-course/200031031425428": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/holiday-bake-sale-at-lake-regional-hospital/200031026866332": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/handmade-a-childrens-market/200031030696156": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/marshfield/deer-donation-drive-share-the-harvest-share-the-skills/200031024928918": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/runes-and-romance-book-club-keeper-of-enchanted-rooms-by-charlie-n-holmberg/200031026866640": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/christmas-open-house/200030954513806": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false
   }
  }
 }
