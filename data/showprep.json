@@ -1375,6 +1375,104 @@
    "kind": "unknown",
    "host": "",
    "chance": false
+  },
+  "https://allevents.in/waynesville/sunday-farm-stand/200031033494254": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/camdenton/gundam-tcg-learn-and-play/200031036249254": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795161600&custom_date_end=1795219140": {
+   "kind": "other-nonprofit",
+   "host": "Waynesville-St. Robert Area Chamber of Commerce",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1795170600&custom_date_end=1795212000": {
+   "kind": "unknown",
+   "host": "not named (venue Daugherty Bowling Center)",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/marshfield/santa-the-shabby-sheep-boutique/200030983146224": {
+   "kind": "commercial",
+   "host": "The Shabby Sheep boutique",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/buffalo/tough-turkey-youth-wrestling-tournament/200031004628847": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/wild-soul-wisdom-circle-unbecoming/200031038658050": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://www.lakeexpo.com/calendar/celebration-cruises-christmas-on-the-lake-charity-cruise/event_03d06826-ff7b-4034-a67f-173f7cfa0aea.html": {
+   "kind": "commercial",
+   "host": "Celebration Cruises",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/osage-beach/barre-sculpt-6-week-barre-pilates-fusion-at-relevé-dance-academy/200031035893358": {
+   "kind": "commercial",
+   "host": "Relevé Dance Academy",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/eldon/night-2-winter-perk-up-trivia-series/200031035850116": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/waynesville/holiday-santa-pictures/200031036023553": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/osage-beach/the-merry-mixer-an-alcove-holiday-experience/200031035892756": {
+   "kind": "commercial",
+   "host": "The Alcove",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/4th-annual-o-holy-night-the-national-shrine-of-mary/event_a96d3659-2445-43b9-8a00-ac61b33510bc.html": {
+   "kind": "unknown",
+   "host": "National Shrine of Mary (no IRS match)",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://www.lakeexpo.com/calendar/upcoming_events/new-year-s-eve-party-the-lodge-of-four-seasons/event_10ef8ee7-d057-45ee-a645-195bcf7b9c83.html": {
+   "kind": "commercial",
+   "host": "The Lodge of Four Seasons",
+   "chance": false,
+   "what": "",
+   "line": ""
   }
  }
 }
