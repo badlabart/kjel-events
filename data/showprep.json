@@ -1473,6 +1473,223 @@
    "chance": false,
    "what": "",
    "line": ""
+  },
+  "https://allevents.in/eldon/reformat-6-week-reformer-dupe-pilates-at-bloom-event-house/200031044674607": {
+   "kind": "commercial",
+   "host": "Bloom Event House",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/bolivar/lights-of-remembrance/200031044814608": {
+   "kind": "dup",
+   "host": "same as cmh-hospice-lights-of-remembrance",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/paint-and-sip-pumpkin-spice-and-paint/200030974967310": {
+   "kind": "dup",
+   "host": "same as visitlebanon paint-and-sip",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/storytime/200030982838922": {
+   "kind": "dup",
+   "host": "library storytime already keyed",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/eldon/the-anatomy-of-flow-6-week-vinyasa-yoga-at-the-1931-venue/200031044674507": {
+   "kind": "commercial",
+   "host": "The 1931 Venue",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/adult-event-snowman-art/200030954028738": {
+   "kind": "dup",
+   "host": "same as visitlebanon adult-event-snowman-art",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/waynesville/paint-party-a-fall-mindfulness-walk/200031052260457": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/dessert-night-out/200031049086300": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/friday-storytime/200031013387735": {
+   "kind": "dup",
+   "host": "library friday storytime already keyed",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/waynesville/braden-van-kirk-at-piney-river-taproom/200031052259741": {
+   "kind": "commercial",
+   "host": "Piney River Taproom",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17821&custom_date_start=1795248000&custom_date_end=1795262400": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795248000&custom_date_end=1795305540": {
+   "kind": "other-nonprofit",
+   "host": "Waynesville-St. Robert Area Chamber of Commerce",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1795257000&custom_date_end=1795298400": {
+   "kind": "gov",
+   "host": "Fort Leonard Wood MWR",
+   "chance": false,
+   "what": "Turkey Shoot at Daugherty Bowling Center on post",
+   "line": "A holiday bowling night out."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1795280400&custom_date_end=1795302000": {
+   "kind": "commercial",
+   "host": "BK Games",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17820&custom_date_start=1795282200&custom_date_end=1795291200": {
+   "kind": "dup",
+   "host": "event 17820 already keyed",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/victorian-ball/200031004056606": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/paws-for-reading/200031033472836": {
+   "kind": "dup",
+   "host": "same as visitlebanon paws-for-reading",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795334400&custom_date_end=1795391940": {
+   "kind": "other-nonprofit",
+   "host": "Waynesville-St. Robert Area Chamber of Commerce",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17820&custom_date_start=1795368600&custom_date_end=1795377600": {
+   "kind": "dup",
+   "host": "event 17820 already keyed",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795420800&custom_date_end=1795478340": {
+   "kind": "other-nonprofit",
+   "host": "Waynesville-St. Robert Area Chamber of Commerce",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18031": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://www.lakeexpo.com/calendar/family_friendly/osage-beach-holiday-lights/event_97c1439a-6277-405c-b1a2-684c6f3b1838.html": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/pancakes-with-santa-at-big-whiskeys-lebanon/100002004127710933": {
+   "kind": "commercial",
+   "host": "Big Whiskey's",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/fort-leonard-wood/ugly-sweater-volleyball/200031044674707": {
+   "kind": "unknown",
+   "host": "",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/dek-the-halls-with-dek-of-hearts-missouri/200030975376313": {
+   "kind": "dup",
+   "host": "same as visitlebanon dek-the-halls",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/storytime-with-santa/200030962819108": {
+   "kind": "dup",
+   "host": "same as visitlebanon storytime-with-santa",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17975&custom_date_start=1797012000&custom_date_end=1797019200": {
+   "kind": "chance",
+   "host": "",
+   "chance": true,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/christmas-on-commercial/200031038657746": {
+   "kind": "dup",
+   "host": "same as visitlebanon christmas-on-commercial",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17989&custom_date_start=1797069600&custom_date_end=1797076800": {
+   "kind": "dup",
+   "host": "event 17989 already keyed",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/sarah-diamond-boat-town-brewing-lebanon-mo/200031047077434": {
+   "kind": "commercial",
+   "host": "Boat Town Brewing",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/eldon/returning-light-a-winter-solstice-sound-bath-at-the-1931-venue/200031044674306": {
+   "kind": "commercial",
+   "host": "The 1931 Venue",
+   "chance": false,
+   "what": "",
+   "line": ""
   }
  }
 }
