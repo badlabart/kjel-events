@@ -1690,6 +1690,111 @@
    "chance": false,
    "what": "",
    "line": ""
+  },
+  "https://allevents.in/bolivar/university-singers-sounds-of-the-season-concert/200031058005830": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://www.lakeexpo.com/calendar/family_friendly/laker-theater-co-presents-peter-wendy/event_5259ab24-403f-4375-bbab-5dead79ecb2e.html": {
+   "kind": "501c3",
+   "host": "Laker Theatre Company",
+   "chance": false,
+   "what": "Laker Theater Co. stages the play Peter/Wendy at Camdenton High School",
+   "line": "A Peter Pan story on a local stage makes a fun family night."
+  },
+  "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bar-presents-piano-nights-with-krista-meadows/200031057895407": {
+   "kind": "commercial",
+   "host": "The Encore Lakeside Grill & Sky Bar",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://www.lebanonmissouri.org/calendar.aspx?EID=4709": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bars-chiefs-watch-party/200031057896511": {
+   "kind": "commercial",
+   "host": "The Encore Lakeside Grill & Sky Bar",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795507200&custom_date_end=1795564740": {
+   "kind": "other-nonprofit",
+   "host": "Waynesville-St. Robert Area Chamber of Commerce",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://www.lakeexpo.com/calendar/charity/fill-the-truck-holiday-food-drive/event_3da65f3c-8fb3-4fd2-b176-93e047903bf7.html": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bars-end-of-prohibition-party/200031057899328": {
+   "kind": "commercial",
+   "host": "The Encore Lakeside Grill & Sky Bar",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18032": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/adult-event-holiday-bingo-for-books/200031061455609": {
+   "kind": "chance",
+   "host": "not named",
+   "chance": true,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bar-presents-acoustic-nights-with-zach-simpson/200031057896009": {
+   "kind": "commercial",
+   "host": "The Encore Lakeside Grill & Sky Bar",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bar-presents-acoustic-nights-with-kael-wade/200031057895909": {
+   "kind": "commercial",
+   "host": "The Encore Lakeside Grill & Sky Bar",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bars-new-years-eve-party/200031057896712": {
+   "kind": "commercial",
+   "host": "The Encore Lakeside Grill & Sky Bar",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bar-presents-the-mikey-needleman-band/200031057896110": {
+   "kind": "commercial",
+   "host": "The Encore Lakeside Grill & Sky Bar",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/eldon/new-years-party/200031063099849": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
   }
  }
 }

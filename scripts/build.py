@@ -28,6 +28,17 @@ def minutes(t):
 TOWN_FIX = {"St. Robert": "Saint Robert", "St Robert": "Saint Robert", "Eldridge.": "Eldridge"}
 
 
+# Boss (2026-11-16): every event run by a non-profit shows its name with a leading asterisk, in every app.
+# Non-profit = showprep.json kind 501c3 or other-nonprofit (government hosts are not non-profits).
+NONPROFIT = {"501c3", "other-nonprofit"}
+SP_MAP = json.loads((ROOT / "data" / "showprep.json").read_text())["events"]
+
+
+def star(ev, key):
+    np = (SP_MAP.get(key) or {}).get("kind") in NONPROFIT
+    return {"np": np, "name": ("*" + ev["title"]) if np else ev["title"]}
+
+
 raw = json.loads((ROOT / "data" / "raw_events.json").read_text())
 labels = json.loads((ROOT / "data" / "labels.json").read_text())
 
@@ -55,7 +66,7 @@ for e in raw["events"]:
         t = clean_time(e["time"])
         board.append({"title": e["title"], "date": e["date"], "time": t, "min": minutes(t), "place": e["place"],
                       "town": TOWN_FIX.get(e["town"], e["town"]), "url": e["url"], "link": "detail", "type": lab[0], "why": lab[1], "style": lab[2] if len(lab) > 2 else "",
-                      "source": e["source"]})
+                      "source": e["source"]} | star(e, e["url"]))
 
 # Manual entries (Boss 2026-10-21): each carries the Show Prep category it belongs in. They ride along in events.js under
 # "manual" (NOT in "events", so the Notion sync never sees them) and the Show Prep build files them by category.
@@ -65,7 +76,8 @@ manual_for_showprep = []
 for m in manual:
     if m.get("category") in SHOWPREP_CATS:
         manual_for_showprep.append({k: m.get(k, "") for k in ("title", "date", "time", "min", "place", "town", "why", "url")}
-                                   | {"type": m["category"], "link": "", "style": "", "source": "Manual"})
+                                   | {"type": m["category"], "link": "", "style": "", "source": "Manual"}
+                                   | star(m, f'manual|{m.get("title", "")}|{m.get("date", "")}'))
     else:
         print(f"WARNING: manual entry {m.get('title')!r} has no valid category {m.get('category')!r}; not sent to Show Prep")
 data = {"updated": raw["collected"], "types": TYPES, "events": board, "manual": manual_for_showprep}
@@ -82,6 +94,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 import page  # noqa: E402
 meetups = json.loads((ROOT / "data" / "meetups.json").read_text())["meetups"]
 page_data = dict(data, events=data["events"] + [dict(m, type="KIM ONLY", style="", source="Meetups") for m in meetups]
-                 + [dict(m, type="Manual Entries", style="", source="Manual") for m in manual])
+                 + [dict(m, type="Manual Entries", style="", source="Manual") | star(m, f'manual|{m.get("title", "")}|{m.get("date", "")}')
+                    for m in manual])
 page.write(page_data)
 print("page written: docs/index.html")

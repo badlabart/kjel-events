@@ -115,7 +115,7 @@ def write(data):
             cards.append(
                 f'<div class="card" data-date="{e["date"]}" data-label="{label(e["date"])}" data-time="{esc(e.get("time", ""))}"{' data-keep="1"' if e.get("when") else ""}>'
                 f'<div class="when"><span>{when}</span></div>'
-                f'<div class="name">{esc(e["title"])}</div><div class="place">{place}</div>'
+                f'<div class="name">{esc(e.get("name") or e["title"])}</div><div class="place">{place}</div>'
                 f'<div class="why">{esc(e["why"])}</div>'
                 + (f'<div class="why"><b>Style:</b> {esc(e["style"])}</div>' if e.get("style") else "")
                 + (f'<div class="why"><b>Attendance:</b> {esc(e["attendance"])}</div>' if e.get("attendance") else "")
