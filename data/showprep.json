@@ -1795,6 +1795,125 @@
    "chance": false,
    "what": "",
    "line": ""
+  },
+  "https://www.visitlebanonmo.org/events/2020/scrapbook-layout-class32222222": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/scrapbook-layout-class322222222": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/pilates-class-with-lauren-bozzardi/200031072460620": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/holiday-bulb-workshop-party-make-it-take-christmas-centerpiece": {
+   "kind": "unknown",
+   "host": "Laclede County Master Gardeners (no IRS match)",
+   "chance": false
+  },
+  "https://allevents.in/buffalo/holiday-t-shirt-bar/200031069518556": {
+   "kind": "commercial",
+   "host": "Thrive Nutrition",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/meet-the-elves--letters-to-santa": {
+   "kind": "commercial",
+   "host": "Elderberry Antiques & Home Design",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/lucky-girl-sculpt/200031064921748": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/the-sunday-social/200031072003946": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17799&custom_date_start=1795626000&custom_date_end=1795647600": {
+   "kind": "commercial",
+   "host": "BK Games",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/stars-stripes--sips": {
+   "kind": "501c3",
+   "host": "4 Pawz 4 Heroes",
+   "chance": false,
+   "what": "Complimentary coffee and fellowship for military, veterans and first responders",
+   "line": "A warm thank-you coffee for the folks who serve us."
+  },
+  "https://allevents.in/waynesville/ali-and-eli-at-piney-river-taproom/200031069341700": {
+   "kind": "commercial",
+   "host": "Piney River Taproom",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/local-author-event2": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": false,
+   "what": "Local authors H.A. Pruitt and Joanna White meet readers at the library",
+   "line": "Meet two hometown authors and talk books for an afternoon."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18033": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/terrarium-workshop/200031064786857": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/a-night-of-christmas-music/200031064923802": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/adult-event-holiday-bingo-for-books": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": true
+  },
+  "https://allevents.in/buffalo/bpms-family-literacy-night/200031069518656": {
+   "kind": "unknown",
+   "host": "BPMS (public status not stated)",
+   "chance": false
+  },
+  "https://allevents.in/osage-beach/tree-of-caring-celebration/200031064700546": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/starboard-showcase-open-mic-night22": {
+   "kind": "commercial",
+   "host": "Boat Town Brewing",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/queso-for-a-cause-at-lebanon-pancheros/200031069315153": {
+   "kind": "commercial",
+   "host": "Pancheros Mexican Grill",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=18037": {
+   "kind": "commercial",
+   "host": "Tiny Tots Playhouse, LLC",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/saturday-with-santa22": {
+   "kind": "unknown",
+   "host": "Lebanon Family YMCA (no IRS match)",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/pictures-with-santa22": {
+   "kind": "commercial",
+   "host": "RV Repair Near Me",
+   "chance": true
   }
  }
 }
