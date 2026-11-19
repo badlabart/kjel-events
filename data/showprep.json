@@ -1914,6 +1914,125 @@
    "kind": "commercial",
    "host": "RV Repair Near Me",
    "chance": true
+  },
+  "https://allevents.in/waynesville/ausa-womens-coffee-and-camaraderie/200031000732243": {
+   "kind": "unknown",
+   "host": "AUSA (no IRS match)",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/eldon/community-circle-supporting-your-nervous-system-through-the-holidays-with-deb-doll/200031071727854": {
+   "kind": "unknown",
+   "host": "Deb Doll (no host org named)",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/lebanon/christmas-at-our-little-farmstand/200031072989700": {
+   "kind": "commercial",
+   "host": "Our Little Farmstand",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://www.lakeexpo.com/calendar/live_entertainment/the-british-invasion-main-street-music-hall/event_5e8ad285-1bd0-4280-a836-f500c7e71e78.html": {
+   "kind": "commercial",
+   "host": "Main Street Music Hall",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795680000&custom_date_end=1795737540": {
+   "kind": "other-nonprofit",
+   "host": "Waynesville-St. Robert Area Chamber of Commerce",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17779&custom_date_start=1795716000&custom_date_end=1795656600": {
+   "kind": "commercial",
+   "host": "Club Rodeo Midway",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/waynesville/kentucky-bend-live/200031075354224": {
+   "kind": "commercial",
+   "host": "Piney River Taproom",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/eldon/cliffhanger-books-black-friday-market/200031071727551": {
+   "kind": "commercial",
+   "host": "Cliffhanger Books",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/eldon/eldon-christmas-mingle-and-jingle/200031071728359": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/waynesville/t-michael-witte-piney-river-taproom-beer-brunch/200031075355329": {
+   "kind": "commercial",
+   "host": "Piney River Taproom",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/waynesville/original-song-and-spoken-word-showcase/200031075353522": {
+   "kind": "commercial",
+   "host": "Piney River Taproom",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/fort-leonard-wood/winter-wonderland/200031069341400": {
+   "kind": "gov",
+   "host": "Bruce C. Clarke Library, Fort Leonard Wood",
+   "chance": false,
+   "what": "Winter Wonderland at the Fort Leonard Wood library",
+   "line": "A wintry library outing to put on the family calendar."
+  },
+  "https://allevents.in/marshfield/deer-harvest-field-to-freezer/200031077296651": {
+   "kind": "unknown",
+   "host": "not named (venue Marshfield High School)",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://www.visitlebanonmo.org/events/2020/letter-to-santa-at-perennial-trends": {
+   "kind": "commercial",
+   "host": "Perennial Trends",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/waynesville/kentucky-bend-live-at-the-piney-river-taproom/200031075353321": {
+   "kind": "commercial",
+   "host": "Piney River Taproom",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/eldon/cliffhanger-books-book-exchange/200031072353512": {
+   "kind": "commercial",
+   "host": "Cliffhanger Books",
+   "chance": false,
+   "what": "",
+   "line": ""
+  },
+  "https://allevents.in/waynesville/new-years-eve-at-the-piney-river-taproom-with-kentucky-bend-and-friends/200031075353823": {
+   "kind": "commercial",
+   "host": "Piney River Taproom",
+   "chance": false,
+   "what": "",
+   "line": ""
   }
  }
 }
