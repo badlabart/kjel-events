@@ -2033,6 +2033,110 @@
    "chance": false,
    "what": "",
    "line": ""
+  },
+  "https://allevents.in/osage-beach/pink-friday-gifted/200031079666340": {
+   "kind": "commercial",
+   "host": "Gifted",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/sip-flip-and-christmas-cheer/200031077058758": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/eldon/the-anatomy-of-flow-6-week-vinyasa-yoga-at-the-1931-venue/200031079617118": {
+   "kind": "commercial",
+   "host": "The 1931 Venue",
+   "chance": false
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795766400&custom_date_end=1795823940": {
+   "kind": "other-nonprofit",
+   "host": "Waynesville-St. Robert Area Chamber of Commerce",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/advent-painting-and-art-by-lynnsey/200031085238956": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://www.visitlebanonmo.org/events/2020/storytime523254222323243222322322": {
+   "kind": "gov",
+   "host": "Lebanon-Laclede County Library",
+   "chance": false,
+   "what": "Library storytime for ages 2 to 6, new theme each week.",
+   "line": "Little ones get stories and a new theme every week."
+  },
+  "https://visitpulaskicounty.org/calendar-of-events/?event=17939&custom_date_start=1796320800&custom_date_end=1796331600": {
+   "kind": "commercial",
+   "host": "Olde Oak Station Event Venue",
+   "chance": true
+  },
+  "https://allevents.in/camdenton/december-pokemon-tcg-league-challenge/200031085106319": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/lake-ozark/2026-ozark-coast-kiwanis-christmas-for-kids/200031079616311": {
+   "kind": "other-nonprofit",
+   "host": "Ozark Coast Kiwanis",
+   "chance": false
+  },
+  "https://allevents.in/bolivar/hill-kids-christmas-program-campfire-carols/200031079698744": {
+   "kind": "501c3",
+   "host": "The Hill Church Bolivar",
+   "chance": false,
+   "what": "Kids Christmas program with campfire carols at The Hill Church.",
+   "line": "Campfire carols and a kids Christmas program, easy family night out."
+  },
+  "https://allevents.in/fort-leonard-wood/scuba-with-santa/200031084940805": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/letters-to-santa-at-perennial-trends/200031077058557": {
+   "kind": "commercial",
+   "host": "Perennial Trends",
+   "chance": false
+  },
+  "https://allevents.in/lebanon/cookies-and-christmas-with-mrs-claus/200031085238855": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/buffalo/glorious-night-christmas-cantata/200031077348331": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/waynesville/wreaths-across-america-2026/200031079799748": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/lake-ozark/jerry-and-kayne/200031084940705": {
+   "kind": "commercial",
+   "host": "The Encore Lakeside Grill & Sky Bar",
+   "chance": false
+  },
+  "https://allevents.in/marshfield/christmas-giving-post-office-handmake-christmas-gifts-in-a-workshop-write-a-card-and-be-festive/200031082225854": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bar-presents-krista-meadows/200031084940906": {
+   "kind": "commercial",
+   "host": "The Encore Lakeside Grill & Sky Bar",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/january-pokemon-tcg-league-challenge/200031085107427": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
+  },
+  "https://allevents.in/camdenton/pokemon-tcg-league-cup/200031085106520": {
+   "kind": "unknown",
+   "host": "not named",
+   "chance": false
   }
  }
 }

@@ -1,285 +1,7 @@
 {
- "collected": "2026-11-19T06:28",
+ "collected": "2026-11-20T04:35",
  "errors": {},
  "events": [
-  {
-   "source": "Visit Lebanon",
-   "title": "Mayor's Christmas Tree Lighting",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "The Market",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/mayors-christmas-tree-lighting22",
-   "desc": "Join us to kick off the start of the holiday season as the Mayor lights the tree at the Market. We\u2019re getting ready for an evening full of community & holiday cheer, featuring a DJ spinning your holiday favorites, delicious food trucks, Santa, & more.",
-   "verified": true,
-   "id": "visi-2026-11-19-mayor-s-christmas-tree-lighting"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Storytime",
-   "date": "2026-11-19",
-   "time": "10:00 AM - 11:00 AM",
-   "place": "Lebanon-Laclede County Library",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/storytime52325422232324322232232",
-   "desc": "This program is typically geared towards 2-6 year old's. Wednesdays and Thursdays will cover the same material, but each week will have a different theme. In Storytime, we sing songs, read a few books, make a craft and have snack.",
-   "verified": true,
-   "id": "visi-2026-11-19-storytime"
-  },
-  {
-   "source": "Visit Lebanon",
-   "title": "Adult Event: Snowman Art",
-   "date": "2026-11-19",
-   "time": "5:30 PM - 7:30 PM",
-   "place": "Lebanon-Laclede County Library",
-   "town": "Lebanon",
-   "url": "https://www.visitlebanonmo.org/events/2020/adult-event-snowman-art",
-   "desc": "Adults are invited to a free snowman art event! All materials will be provided. This event will be held in the library meeting rooms. Registration Required.",
-   "verified": true,
-   "id": "visi-2026-11-19-adult-event-snowman-art"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Music Bingo @ Olde Oak Station Event Venue",
-   "date": "2026-11-19",
-   "time": "6:00pm - 9:00pm",
-   "place": "Olde Oak Station Event Venue",
-   "town": "Dixon",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17939&custom_date_start=1795111200&custom_date_end=1795122000",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-19-music-bingo-olde-oak-station-event-ven"
-  },
-  {
-   "source": "Lake Expo",
-   "title": "Spools & Needles Group",
-   "date": "2026-11-19",
-   "time": "10:00 am \u2013 2:00 pm",
-   "place": "Camden County Museum",
-   "town": "Linn Creek",
-   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spools-needles-group/event_98f5157c-d7a0-11e8-ab79-f773550c4324.html",
-   "desc": "",
-   "verified": true,
-   "id": "lake-2026-11-19-spools-needles-group"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Mayor\u2019s Tree Lighting",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "Lebanon Farmers' Market",
-   "town": "Lebanon",
-   "url": "https://allevents.in/lebanon/mayors-tree-lighting/200030991844933",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-mayor-s-tree-lighting"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Infuze Credit Union at Infuze Credit Union in Waynesville for The 90's Throwback Giveaway!",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "1300 U.S. Route 66, Waynesville, MO 65583",
-   "town": "Waynesville",
-   "url": "https://allevents.in/waynesville/infuze-credit-union-at-infuze-credit-union-in-waynesville-for-the-90s-throwback-giveaway/200030982902140",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-infuze-credit-union-at-infuze-credit-uni"
-  },
-  {
-   "source": "AllEvents",
-   "title": "WCA\u2019S 1st FALL FESTIVAL!",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "Westside Baptist Church",
-   "town": "Waynesville",
-   "url": "https://allevents.in/waynesville/wcas-1st-fall-festival/200031000732649",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-wca-s-1st-fall-festival"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Paint Party - \"A Fall Mindfulness Walk\"",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "326 Historic Route 66 E, Waynesville, MO",
-   "town": "Waynesville",
-   "url": "https://allevents.in/waynesville/paint-party-a-fall-mindfulness-walk/200031052260457",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-paint-party-a-fall-mindfulness-walk"
-  },
-  {
-   "source": "AllEvents",
-   "title": "AUSA Women's Coffee & Camaraderie",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "1401 Ousley Rd, Waynesville, MO 65583-3536, United States",
-   "town": "Waynesville",
-   "url": "https://allevents.in/waynesville/ausa-womens-coffee-and-camaraderie/200031000732243",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-ausa-women-s-coffee-camaraderie"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Pilates Class with Lauren Bozzardi",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "8779 Mo-5 Ste. 6, Greenview, MO, United States, Missouri 65020",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/pilates-class-with-lauren-bozzardi/200031072460620",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-pilates-class-with-lauren-bozzardi"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Gundam TCG Learn & Play",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
-   "town": "Camdenton",
-   "url": "https://allevents.in/camdenton/gundam-tcg-learn-and-play/200031036249254",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-gundam-tcg-learn-play"
-  },
-  {
-   "source": "AllEvents",
-   "title": "BNI Networking Social",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "5161 Osage Beach Pkwy, Osage Beach, MO",
-   "town": "Osage Beach",
-   "url": "https://allevents.in/osage-beach/bni-networking-social/200031064701152",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-bni-networking-social"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Death Cafe Lake of the Ozarks",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "Dierbergs Lakeview Terrace",
-   "town": "Osage Beach",
-   "url": "https://allevents.in/osage-beach/death-cafe-lake-of-the-ozarks/200031016369225",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-death-cafe-lake-of-the-ozarks"
-  },
-  {
-   "source": "AllEvents",
-   "title": "BNI Lake Referral Partners Networking Event",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "3287 Bagnel Damn Blvd, Lake Ozark, MO",
-   "town": "Lake Ozark",
-   "url": "https://allevents.in/lake-ozark/bni-lake-referral-partners-networking-event/200031064639647",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-bni-lake-referral-partners-networking-ev"
-  },
-  {
-   "source": "AllEvents",
-   "title": "HBA of Central Missouri Lake of the Ozarks Region - Monthly Meeting",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "Willmore Lodge",
-   "town": "Lake Ozark",
-   "url": "https://allevents.in/lake-ozark/hba-of-central-missouri-lake-of-the-ozarks-region-monthly-meeting/200030987641603",
-   "desc": "",
-   "verified": false,
-   "id": "alle-2026-11-19-hba-of-central-missouri-lake-of-the-ozar",
-   "why_held": "not a public event (meeting/closure/business)"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Girl\u2019s Craft Night - Beaded Bag Scarves",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "404 E 4th St, Suite C, Eldon, MO",
-   "town": "Eldon",
-   "url": "https://allevents.in/eldon/girls-craft-night-beaded-bag-scarves/200030863288748",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-girl-s-craft-night-beaded-bag-scarves"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Community Circle: Supporting Your Nervous System Through the Holidays with Deb Doll",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "11 S Maple St, Eldon, MO 65026-1833, United States",
-   "town": "Eldon",
-   "url": "https://allevents.in/eldon/community-circle-supporting-your-nervous-system-through-the-holidays-with-deb-doll/200031071727854",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-community-circle-supporting-your-nervou"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Ken Lawler - Celebration of Life",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "Memory Lane Events, LLC",
-   "town": "Eldon",
-   "url": "https://allevents.in/eldon/ken-lawler-celebration-of-life/200030999434253",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-ken-lawler-celebration-of-life"
-  },
-  {
-   "source": "AllEvents",
-   "title": "BoMo Works Signing Event",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "Bolivar High School",
-   "town": "Bolivar",
-   "url": "https://allevents.in/bolivar/bomo-works-signing-event/200030987823934",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-bomo-works-signing-event"
-  },
-  {
-   "source": "AllEvents",
-   "title": "\u2694\ufe0f Iron Sharpens Iron \u2014 Men\u2019s Bible Fellowship",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "1300 East 466th Road, Bolivar, MO, United States, Missouri 65613",
-   "town": "Bolivar",
-   "url": "https://allevents.in/bolivar/iron-sharpens-iron-mens-bible-fellowship/200031044814003",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-iron-sharpens-iron-men-s-bible-fell"
-  },
-  {
-   "source": "AllEvents",
-   "title": "43rd Annual CMH Auxiliary Bake Sale",
-   "date": "2026-11-19",
-   "time": "",
-   "place": "1500 N Oakland Ave, Bolivar, MO, United States, Missouri 65613",
-   "town": "Bolivar",
-   "url": "https://allevents.in/bolivar/43rd-annual-cmh-auxiliary-bake-sale/200030962862504",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-19-43rd-annual-cmh-auxiliary-bake-sale"
-  },
-  {
-   "source": "MaxPreps",
-   "title": "Father Tolton vs. Fair Grove boys soccer",
-   "date": "2026-11-19",
-   "time": "12:15 PM",
-   "place": "Fair Grove High School",
-   "town": "Fair Grove",
-   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-father-tolton-columbia/11-20-2026/?c=ea86dcc8-23aa-48db-aa96-d712cc764906",
-   "desc": "",
-   "why": "High school boys soccer. Father Tolton 22-4, Fair Grove 13-6-1.",
-   "verified": true,
-   "id": "maxp-2026-11-19-father-tolton-vs-fair-grove-boys-soccer"
-  },
   {
    "source": "Visit Lebanon",
    "title": "Hometown Holiday Marketplace",
@@ -315,42 +37,6 @@
    "desc": "Join the Laclede County Master Gardeners for a Holiday Bulb Workshop on Friday, Nov. 20 at 6 PM. Create a Christmas centerpiece with four paperwhite bulbs and holiday accents. $15 fee due Nov. 12. Refreshments provided.",
    "verified": true,
    "id": "visi-2026-11-20-holiday-bulb-workshop-party-make-it-take"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Season of Savings Passport",
-   "date": "2026-11-20",
-   "time": "8:00am - 11:59pm",
-   "place": "Waynesville-St. Robert Area Chamber of Commerce",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795161600&custom_date_end=1795219140",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-20-season-of-savings-passport"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "CPR & First Aid",
-   "date": "2026-11-20",
-   "time": "10:00am - 12:00pm",
-   "place": "The Rec Plex",
-   "town": "Fort Leonard Wood",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17992&custom_date_start=1795168800&custom_date_end=1795176000",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-20-cpr-first-aid"
-  },
-  {
-   "source": "Visit Pulaski County",
-   "title": "Turkey Shoot",
-   "date": "2026-11-20",
-   "time": "10:30am - 10:00pm",
-   "place": "Daugherty Bowling Center",
-   "town": "Fort Leonard Wood",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17990&custom_date_start=1795170600&custom_date_end=1795212000",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-20-turkey-shoot"
   },
   {
    "source": "Visit Pulaski County",
@@ -486,18 +172,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "OVERCOMERS",
-   "date": "2026-11-20",
-   "time": "",
-   "place": "15905 MO-64, Lebanon, MO 65536, Lebanon, MO",
-   "town": "Lebanon",
-   "url": "https://allevents.in/lebanon/overcomers/200031043223803",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-20-overcomers"
-  },
-  {
-   "source": "AllEvents",
    "title": "Pink Friday Waynesville Boutique Crawl",
    "date": "2026-11-20",
    "time": "",
@@ -534,6 +208,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "Pink Friday @ Gifted\u2728\ud83c\udf80",
+   "date": "2026-11-20",
+   "time": "",
+   "place": "4175 Osage Beach Pkwy Suite A, Osage Beach, MO",
+   "town": "Osage Beach",
+   "url": "https://allevents.in/osage-beach/pink-friday-gifted/200031079666340",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-20-pink-friday-gifted"
+  },
+  {
+   "source": "AllEvents",
    "title": "The Encore Lakeside Grill & Sky Bar Presents: Piano Nights with Krista Meadows",
    "date": "2026-11-20",
    "time": "",
@@ -567,6 +253,19 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-20-holiday-t-shirt-bar"
+  },
+  {
+   "source": "MaxPreps",
+   "title": "Father Tolton vs. Fair Grove boys soccer",
+   "date": "2026-11-20",
+   "time": "12:15 PM",
+   "place": "Fair Grove High School",
+   "town": "Fair Grove",
+   "url": "https://www.maxpreps.com/mo/soccer/match/fair-grove-vs-father-tolton-columbia/11-20-2026/?c=ea86dcc8-23aa-48db-aa96-d712cc764906",
+   "desc": "",
+   "why": "High school boys soccer. Father Tolton 22-4, Fair Grove 13-6-1.",
+   "verified": true,
+   "id": "maxp-2026-11-20-father-tolton-vs-fair-grove-boys-soccer"
   },
   {
    "source": "Visit Lebanon",
@@ -690,18 +389,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Season of Savings Passport",
-   "date": "2026-11-21",
-   "time": "8:00am - 11:59pm",
-   "place": "Waynesville-St. Robert Area Chamber of Commerce",
-   "town": "Saint Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795248000&custom_date_end=1795305540",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-21-season-of-savings-passport"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Pulaski County Farmers Market",
    "date": "2026-11-21",
    "time": "8:00am - 12:00pm",
@@ -711,6 +398,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-21-pulaski-county-farmers-market"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Season of Savings Passport",
+   "date": "2026-11-21",
+   "time": "8:00am - 11:59pm",
+   "place": "Waynesville-St. Robert Area Chamber of Commerce",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795248000&custom_date_end=1795305540",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-21-season-of-savings-passport"
   },
   {
    "source": "Visit Pulaski County",
@@ -750,18 +449,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Winter Ball Fundraiser",
-   "date": "2026-11-21",
-   "time": "5:00pm - 8:00pm",
-   "place": "St. Robert Community Center",
-   "town": "St. Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17984",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-21-winter-ball-fundraiser"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Magic the Gathering Casual Commander night",
    "date": "2026-11-21",
    "time": "5:00pm - 11:00pm",
@@ -771,6 +458,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-21-magic-the-gathering-casual-commander-nig"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Winter Ball Fundraiser",
+   "date": "2026-11-21",
+   "time": "5:00pm - 8:00pm",
+   "place": "St. Robert Community Center",
+   "town": "St. Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17984",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-21-winter-ball-fundraiser"
   },
   {
    "source": "Visit Pulaski County",
@@ -786,15 +485,15 @@
   },
   {
    "source": "Lake Expo",
-   "title": "Open House: 3 Bedroom Condo, Gated With No-Rental Traffic, Boat Slip & Lift",
+   "title": "Open House: Lakefront Condo at Sunset Palms Offers Features You Have To See In Person",
    "date": "2026-11-21",
    "time": "10:00 am \u2013 2:00 pm",
    "place": "",
    "town": "Lake Area",
-   "url": "https://www.lakeexpo.com/calendar/open_houses/open-house-3-bedroom-condo-gated-with-no-rental-traffic-boat-slip-lift/event_4eb05553-4470-4758-8a4d-42ebcb239616.html",
+   "url": "https://www.lakeexpo.com/calendar/open_houses/open-house-lakefront-condo-at-sunset-palms-offers-features-you-have-to-see-in-person/event_4eb05553-4470-4758-8a4d-42ebcb239616.html",
    "desc": "",
    "verified": true,
-   "id": "lake-2026-11-21-open-house-3-bedroom-condo-gated-with"
+   "id": "lake-2026-11-21-open-house-lakefront-condo-at-sunset-pa"
   },
   {
    "source": "Lake Expo",
@@ -831,6 +530,18 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-11-21-h-toad-s-bloody-mary-bar"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Sip, Flip, and Christmas Cheer",
+   "date": "2026-11-21",
+   "time": "",
+   "place": "435 E Elm St, Lebanon, MO",
+   "town": "Lebanon",
+   "url": "https://allevents.in/lebanon/sip-flip-and-christmas-cheer/200031077058758",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-21-sip-flip-and-christmas-cheer"
   },
   {
    "source": "AllEvents",
@@ -951,6 +662,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-21-help-us-load-all-the-shoeboxes-we-packed"
+  },
+  {
+   "source": "AllEvents",
+   "title": "\ud83c\udf85\u2728 Santa Saturdays at Evergreen! \u2728\ud83c\udf85",
+   "date": "2026-11-21",
+   "time": "",
+   "place": "6711 U.S. 54 Expressway, Osage Beach, MO, United States, Missouri 65065",
+   "town": "Osage Beach",
+   "url": "https://allevents.in/osage-beach/santa-saturdays-at-evergreen/200030576435043",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-21-santa-saturdays-at-evergreen"
   },
   {
    "source": "AllEvents",
@@ -1109,6 +832,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-22-campsgiving-at-froggy-s-river-resort"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Denim Days",
+   "date": "2026-11-22",
+   "time": "",
+   "place": "174 Evergreen Pkwy, Lebanon, MO",
+   "town": "Lebanon",
+   "url": "https://allevents.in/lebanon/denim-days/200031085239658",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-22-denim-days"
   },
   {
    "source": "AllEvents",
@@ -1390,6 +1125,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "Estate Auction",
+   "date": "2026-11-24",
+   "time": "",
+   "place": "143 North State Highway 7, Camdenton, MO",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/estate-auction/200030732250449",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-24-estate-auction"
+  },
+  {
+   "source": "AllEvents",
    "title": "Pauper Tuesdays!!",
    "date": "2026-11-24",
    "time": "",
@@ -1462,6 +1209,30 @@
   },
   {
    "source": "AllEvents",
+   "title": "Cov\u00e9ll turns 4!\ud83d\udc95",
+   "date": "2026-11-25",
+   "time": "",
+   "place": "123 W. Commercial Street",
+   "town": "Lebanon",
+   "url": "https://allevents.in/lebanon/cov\u00e9ll-turns-4/200031085239056",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-25-cov\u00e9ll-turns-4"
+  },
+  {
+   "source": "AllEvents",
+   "title": "THE ANATOMY OF FLOW: 6-WEEK VINYASA YOGA at The 1931 Venue",
+   "date": "2026-11-25",
+   "time": "",
+   "place": "The 1931 Venue",
+   "town": "Eldon",
+   "url": "https://allevents.in/eldon/the-anatomy-of-flow-6-week-vinyasa-yoga-at-the-1931-venue/200031079617118",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-11-25-the-anatomy-of-flow-6-week-vinyasa-yoga"
+  },
+  {
+   "source": "AllEvents",
    "title": "Wild Turkey Wednesday at Boone\u2019s",
    "date": "2026-11-25",
    "time": "",
@@ -1474,15 +1245,16 @@
   },
   {
    "source": "AllEvents",
-   "title": "Marshfield Means Business",
+   "title": "November DIVAS Meeting",
    "date": "2026-11-25",
    "time": "",
-   "place": "Young Insurance Associates",
-   "town": "Marshfield",
-   "url": "https://allevents.in/marshfield/marshfield-means-business/200030857160941",
+   "place": "Expresso Company No. 825, Buffalo, MO",
+   "town": "Buffalo",
+   "url": "https://allevents.in/buffalo/november-divas-meeting/200031077348230",
    "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-25-marshfield-means-business"
+   "verified": false,
+   "id": "alle-2026-11-25-november-divas-meeting",
+   "why_held": "not a public event (meeting/closure/business)"
   },
   {
    "source": "Visit Lebanon",
@@ -1523,18 +1295,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Galloping Gobbler",
-   "date": "2026-11-26",
-   "time": "8:00am - 2:00pm",
-   "place": "St Robert Community Center",
-   "town": "St Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17831",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-11-26-galloping-gobbler"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Season of Savings Passport",
    "date": "2026-11-26",
    "time": "8:00am - 11:59pm",
@@ -1544,6 +1304,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-11-26-season-of-savings-passport"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Galloping Gobbler",
+   "date": "2026-11-26",
+   "time": "8:00am - 2:00pm",
+   "place": "St Robert Community Center",
+   "town": "St Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17831",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-26-galloping-gobbler"
   },
   {
    "source": "Visit Pulaski County",
@@ -1628,6 +1400,18 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-11-26-thanksgiving-day-feast-the-encore"
+  },
+  {
+   "source": "Lake Expo",
+   "title": "Spools & Needles Group",
+   "date": "2026-11-26",
+   "time": "10:00 am \u2013 2:00 pm",
+   "place": "Camden County Museum",
+   "town": "Linn Creek",
+   "url": "https://www.lakeexpo.com/calendar/upcoming_events/spools-needles-group/event_98f5157c-d7a0-11e8-ab79-f773550c4324.html",
+   "desc": "",
+   "verified": true,
+   "id": "lake-2026-11-26-spools-needles-group"
   },
   {
    "source": "AllEvents",
@@ -1724,6 +1508,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-11-26-turkey-day-5k-fun-run"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Season of Savings Passport",
+   "date": "2026-11-27",
+   "time": "8:00am - 11:59pm",
+   "place": "Waynesville-St. Robert Area Chamber of Commerce",
+   "town": "Saint Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17956&custom_date_start=1795766400&custom_date_end=1795823940",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-11-27-season-of-savings-passport"
   },
   {
    "source": "Lake Expo",
@@ -1967,18 +1763,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "\ud83c\udf85\u2728 Santa Saturdays at Evergreen! \u2728\ud83c\udf85",
-   "date": "2026-11-28",
-   "time": "",
-   "place": "6711 U.S. 54 Expressway, Osage Beach, MO, United States, Missouri 65065",
-   "town": "Osage Beach",
-   "url": "https://allevents.in/osage-beach/santa-saturdays-at-evergreen/200030576435043",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-28-santa-saturdays-at-evergreen"
-  },
-  {
-   "source": "AllEvents",
    "title": "Christmas on Main Street",
    "date": "2026-11-28",
    "time": "",
@@ -2063,18 +1847,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Adult Book Club: History for the Books",
-   "date": "2026-11-30",
-   "time": "",
-   "place": "915 S Jefferson Ave, Lebanon, MO, United States, Missouri 65536",
-   "town": "Lebanon",
-   "url": "https://allevents.in/lebanon/adult-book-club-history-for-the-books/200030954027831",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-11-30-adult-book-club-history-for-the-books"
-  },
-  {
-   "source": "AllEvents",
    "title": "Holiday Pet Photo Studio Sessions {Round 2}",
    "date": "2026-11-30",
    "time": "",
@@ -2123,6 +1895,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "Advent Painting & Art by Lynnsey",
+   "date": "2026-12-01",
+   "time": "",
+   "place": "14402 Highway 64, Lebanon, MO 65536-6642, United States",
+   "town": "Lebanon",
+   "url": "https://allevents.in/lebanon/advent-painting-and-art-by-lynnsey/200031085238956",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-01-advent-painting-art-by-lynnsey"
+  },
+  {
+   "source": "AllEvents",
    "title": "2026 Kiwanis Kids Christmas Shopping",
    "date": "2026-12-01",
    "time": "",
@@ -2168,6 +1952,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-01-marshfield-timeless-christmas-tree"
+  },
+  {
+   "source": "Visit Lebanon",
+   "title": "Storytime",
+   "date": "2026-12-02",
+   "time": "10:00 AM - 11:00 AM",
+   "place": "Lebanon-Laclede County Library",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/storytime523254222323243222322322",
+   "desc": "This program is typically geared towards 2-6 year old's. Wednesdays and Thursdays will cover the same material, but each week will have a different theme. In Storytime, we sing songs, read a few books, make a craft and have snack.",
+   "verified": true,
+   "id": "visi-2026-12-02-storytime"
   },
   {
    "source": "City of Lebanon",
@@ -2268,6 +2064,18 @@
    "id": "visi-2026-12-03-2026-light-up-pulaski-county"
   },
   {
+   "source": "Visit Pulaski County",
+   "title": "Music Bingo @ Olde Oak Station Event Venue",
+   "date": "2026-12-03",
+   "time": "6:00pm - 9:00pm",
+   "place": "Olde Oak Station Event Venue",
+   "town": "Dixon",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17939&custom_date_start=1796320800&custom_date_end=1796331600",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-12-03-music-bingo-olde-oak-station-event-ven"
+  },
+  {
    "source": "AllEvents",
    "title": "JEB A Very Grinchy Family Night",
    "date": "2026-12-03",
@@ -2317,6 +2125,19 @@
   },
   {
    "source": "AllEvents",
+   "title": "Gundam TCG Learn & Play",
+   "date": "2026-12-03",
+   "time": "",
+   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/gundam-tcg-learn-and-play/200031085512530",
+   "desc": "",
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
+   "id": "alle-2026-12-03-gundam-tcg-learn-play"
+  },
+  {
+   "source": "AllEvents",
    "title": "Rooted in Gratitude, Wrapped in Christmas \ud83c\udf84",
    "date": "2026-12-03",
    "time": "",
@@ -2336,7 +2157,8 @@
    "town": "Buffalo",
    "url": "https://allevents.in/buffalo/maple-and-main-presents-dana-cooper/200030660967329",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-12-03-maple-main-presents-dana-cooper"
   },
   {
@@ -2505,7 +2327,8 @@
    "town": "Fort Leonard Wood",
    "url": "https://allevents.in/fort-leonard-wood/trees-for-troops/200031064638726",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-12-04-trees-for-troops"
   },
   {
@@ -2517,7 +2340,8 @@
    "town": "Osage Beach",
    "url": "https://allevents.in/osage-beach/barre-sculpt-6-week-barre-pilates-fusion-at-relev\u00e9-dance-academy/200031035893358",
    "desc": "",
-   "verified": true,
+   "verified": false,
+   "why_held": "link failed: <HTTPError 429: 'Too Many Requests'>",
    "id": "alle-2026-12-04-barre-sculpt-6-week-barre-pilates-fus"
   },
   {
@@ -2567,6 +2391,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-04-night-2-winter-perk-up-trivia-series"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Christmas Open House",
+   "date": "2026-12-04",
+   "time": "",
+   "place": "2075 South Boston Place, Bolivar, MO, United States, Missouri 65613",
+   "town": "Bolivar",
+   "url": "https://allevents.in/bolivar/christmas-open-house/200031079698644",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-04-christmas-open-house"
   },
   {
    "source": "AllEvents",
@@ -2641,6 +2477,18 @@
    "id": "visi-2026-12-05-local-author-event"
   },
   {
+   "source": "Visit Lebanon",
+   "title": "Senior Community Dinner and Award Ceremony.",
+   "date": "2026-12-05",
+   "time": "5:00 PM",
+   "place": "Shrine Hall",
+   "town": "Lebanon",
+   "url": "https://www.visitlebanonmo.org/events/2020/senior-community-dinner-and-award-ceremony",
+   "desc": "VFW Post 4107 Senior Dinner offers a free holiday meal for seniors while honoring local award winners. Donations are welcome.",
+   "verified": true,
+   "id": "visi-2026-12-05-senior-community-dinner-and-award-ceremo"
+  },
+  {
    "source": "Visit Pulaski County",
    "title": "Breakfast with Santa",
    "date": "2026-12-05",
@@ -2654,18 +2502,6 @@
   },
   {
    "source": "Visit Pulaski County",
-   "title": "Cookies with Santa",
-   "date": "2026-12-05",
-   "time": "1:00pm - 3:00pm",
-   "place": "St Robert",
-   "town": "St Robert",
-   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=18033",
-   "desc": "",
-   "verified": true,
-   "id": "visi-2026-12-05-cookies-with-santa"
-  },
-  {
-   "source": "Visit Pulaski County",
    "title": "Holiday Santa Pictures",
    "date": "2026-12-05",
    "time": "1:00pm - 5:00pm",
@@ -2675,6 +2511,18 @@
    "desc": "",
    "verified": true,
    "id": "visi-2026-12-05-holiday-santa-pictures"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "Cookies with Santa",
+   "date": "2026-12-05",
+   "time": "1:00pm - 3:00pm",
+   "place": "St Robert",
+   "town": "St Robert",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=18033",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-12-05-cookies-with-santa"
   },
   {
    "source": "Lake Expo",
@@ -2714,18 +2562,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Senior Community Dinner and Award Ceremony.",
-   "date": "2026-12-05",
-   "time": "",
-   "place": "Laclede County Shrine Club",
-   "town": "Lebanon",
-   "url": "https://allevents.in/lebanon/senior-community-dinner-and-award-ceremony/200030962817456",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-12-05-senior-community-dinner-and-award-ceremo"
-  },
-  {
-   "source": "AllEvents",
    "title": "Ugly Sweater Volleyball",
    "date": "2026-12-05",
    "time": "",
@@ -2762,6 +2598,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "December Pokemon TCG League Challenge",
+   "date": "2026-12-05",
+   "time": "",
+   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/december-pokemon-tcg-league-challenge/200031085106319",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-05-december-pokemon-tcg-league-challenge"
+  },
+  {
+   "source": "AllEvents",
    "title": "Story Time with Santa & Mrs Clause",
    "date": "2026-12-05",
    "time": "",
@@ -2795,6 +2643,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-05-46th-holiday-bazaar-pre-sale-e-ticket"
+  },
+  {
+   "source": "AllEvents",
+   "title": "2026 Ozark Coast Kiwanis Christmas for Kids",
+   "date": "2026-12-05",
+   "time": "",
+   "place": "The Encore Lakeside Grill & Sky Bar",
+   "town": "Lake Ozark",
+   "url": "https://allevents.in/lake-ozark/2026-ozark-coast-kiwanis-christmas-for-kids/200031079616311",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-05-2026-ozark-coast-kiwanis-christmas-for-k"
   },
   {
    "source": "AllEvents",
@@ -2858,18 +2718,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Christmas Party 26\u2019",
-   "date": "2026-12-05",
-   "time": "",
-   "place": "317 Pleasant Prairie Rd, Marshfield, MO",
-   "town": "Marshfield",
-   "url": "https://allevents.in/marshfield/christmas-party-26/200030983146425",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-12-05-christmas-party-26"
-  },
-  {
-   "source": "AllEvents",
    "title": "Deer Donation Drive - Share the Harvest, Share the Skills",
    "date": "2026-12-05",
    "time": "",
@@ -2879,6 +2727,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-05-deer-donation-drive-share-the-harvest"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Christmas Party 26\u2019",
+   "date": "2026-12-05",
+   "time": "",
+   "place": "317 Pleasant Prairie Rd, Marshfield, MO",
+   "town": "Marshfield",
+   "url": "https://allevents.in/marshfield/christmas-party-26/200030983146425",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-05-christmas-party-26"
   },
   {
    "source": "AllEvents",
@@ -3000,6 +2860,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-06-holiday-dance-recital"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Hill Kids Christmas Program: Campfire Carols",
+   "date": "2026-12-06",
+   "time": "",
+   "place": "The Hill Church Bolivar",
+   "town": "Bolivar",
+   "url": "https://allevents.in/bolivar/hill-kids-christmas-program-campfire-carols/200031079698744",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-06-hill-kids-christmas-program-campfire-ca"
   },
   {
    "source": "Visit Lebanon",
@@ -3334,6 +3206,30 @@
   },
   {
    "source": "AllEvents",
+   "title": "Scuba with Santa",
+   "date": "2026-12-10",
+   "time": "",
+   "place": "Davidson Fitness Center",
+   "town": "Fort Leonard Wood",
+   "url": "https://allevents.in/fort-leonard-wood/scuba-with-santa/200031084940805",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-10-scuba-with-santa"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Noontime League Begins",
+   "date": "2026-12-10",
+   "time": "",
+   "place": "Daugherty Bowling Center",
+   "town": "Fort Leonard Wood",
+   "url": "https://allevents.in/fort-leonard-wood/noontime-league-begins/200031079615608",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-10-noontime-league-begins"
+  },
+  {
+   "source": "AllEvents",
    "title": "Live Nativity",
    "date": "2026-12-10",
    "time": "",
@@ -3451,6 +3347,18 @@
    "desc": "",
    "verified": true,
    "id": "lake-2026-12-11-mobile-food-pantry"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Letters to Santa at Perennial Trends \ud83c\udf85\ud83c\udffb\ud83c\udf84",
+   "date": "2026-12-11",
+   "time": "",
+   "place": "113 West Commercial St., Lebanon, MO",
+   "town": "Lebanon",
+   "url": "https://allevents.in/lebanon/letters-to-santa-at-perennial-trends/200031077058557",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-11-letters-to-santa-at-perennial-trends"
   },
   {
    "source": "AllEvents",
@@ -3574,6 +3482,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "Cookies & Christmas with Mrs. Claus",
+   "date": "2026-12-12",
+   "time": "",
+   "place": "14402 Highway 64, Lebanon, MO 65536-6642, United States",
+   "town": "Lebanon",
+   "url": "https://allevents.in/lebanon/cookies-and-christmas-with-mrs-claus/200031085238855",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-12-cookies-christmas-with-mrs-claus"
+  },
+  {
+   "source": "AllEvents",
    "title": "Dowd's Catfish & BBQ for The 90's Throwback Giveaway!",
    "date": "2026-12-12",
    "time": "",
@@ -3607,18 +3527,6 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-12-santa-pawz-is-coming-to-town"
-  },
-  {
-   "source": "AllEvents",
-   "title": "\ud83c\udf84 Christmas Open House \ud83c\udf84",
-   "date": "2026-12-12",
-   "time": "",
-   "place": "1081 Osage Beach Rd, Osage Beach, MO",
-   "town": "Osage Beach",
-   "url": "https://allevents.in/osage-beach/christmas-open-house/200030954513806",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-12-12-christmas-open-house"
   },
   {
    "source": "AllEvents",
@@ -3670,18 +3578,6 @@
   },
   {
    "source": "AllEvents",
-   "title": "Pictures with The Grinch",
-   "date": "2026-12-12",
-   "time": "",
-   "place": "1329 Spur Dr Suite 170, Marshfield, MO, United States, Missouri 65706",
-   "town": "Marshfield",
-   "url": "https://allevents.in/marshfield/pictures-with-the-grinch/200030992047411",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-12-12-pictures-with-the-grinch"
-  },
-  {
-   "source": "AllEvents",
    "title": "A Very Merry Christmas Festival",
    "date": "2026-12-12",
    "time": "",
@@ -3691,6 +3587,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-12-a-very-merry-christmas-festival"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Pictures with The Grinch",
+   "date": "2026-12-12",
+   "time": "",
+   "place": "1329 Spur Dr Suite 170, Marshfield, MO, United States, Missouri 65706",
+   "town": "Marshfield",
+   "url": "https://allevents.in/marshfield/pictures-with-the-grinch/200030992047411",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-12-pictures-with-the-grinch"
   },
   {
    "source": "AllEvents",
@@ -3727,18 +3635,6 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-13-christmas-night-of-worship"
-  },
-  {
-   "source": "AllEvents",
-   "title": "Lake of the Ozarks Real Estate Investor Meetup",
-   "date": "2026-12-14",
-   "time": "",
-   "place": "Baxter's Lakeside Grille",
-   "town": "Lake Ozark",
-   "url": "https://allevents.in/lake-ozark/lake-of-the-ozarks-real-estate-investor-meetup/100001993270455590",
-   "desc": "",
-   "verified": true,
-   "id": "alle-2026-12-14-lake-of-the-ozarks-real-estate-investor"
   },
   {
    "source": "Visit Lebanon",
@@ -3791,6 +3687,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "AUSA Boots & Brew",
+   "date": "2026-12-16",
+   "time": "",
+   "place": "805 Iowa Ave, Fort Leonard Wood, MO 65473, United States",
+   "town": "Fort Leonard Wood",
+   "url": "https://allevents.in/fort-leonard-wood/ausa-boots-and-brew/200031079615809",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-16-ausa-boots-brew"
+  },
+  {
+   "source": "AllEvents",
    "title": "Purcell Tires and Service for The 90's Throwback Giveaway!",
    "date": "2026-12-16",
    "time": "",
@@ -3815,6 +3723,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "AUSA Women's Coffee & Camaraderie",
+   "date": "2026-12-17",
+   "time": "",
+   "place": "1401 Ousley Rd, Waynesville, MO 65583-3536, United States",
+   "town": "Waynesville",
+   "url": "https://allevents.in/waynesville/ausa-womens-coffee-and-camaraderie/200030995944735",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-17-ausa-women-s-coffee-camaraderie"
+  },
+  {
+   "source": "AllEvents",
    "title": "Bolivar Community Blood Drive",
    "date": "2026-12-17",
    "time": "",
@@ -3836,6 +3756,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-17-marshfield-community-blood-drive"
+  },
+  {
+   "source": "Visit Pulaski County",
+   "title": "CPR & First Aid",
+   "date": "2026-12-18",
+   "time": "10:00am - 12:00pm",
+   "place": "The Rec Plex",
+   "town": "Fort Leonard Wood",
+   "url": "https://visitpulaskicounty.org/calendar-of-events/?event=17992&custom_date_start=1797588000&custom_date_end=1797595200",
+   "desc": "",
+   "verified": true,
+   "id": "visi-2026-12-18-cpr-first-aid"
   },
   {
    "source": "AllEvents",
@@ -3874,6 +3806,18 @@
    "id": "alle-2026-12-18-free-memory-check-up-december"
   },
   {
+   "source": "AllEvents",
+   "title": "Glorious Night - Christmas Cantata",
+   "date": "2026-12-18",
+   "time": "",
+   "place": "517 S. Locust St.",
+   "town": "Buffalo",
+   "url": "https://allevents.in/buffalo/glorious-night-christmas-cantata/200031077348331",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-18-glorious-night-christmas-cantata"
+  },
+  {
    "source": "Visit Lebanon",
    "title": "Free Store Ministry Christmas Food Baskets",
    "date": "2026-12-19",
@@ -3896,6 +3840,18 @@
    "desc": "Join us for Pictures with Santa Claus on Dec 19, 2026 (11am-3pm) at RV Repair Near Me in Phillipsburg, MO! Enjoy hot chocolate, crafts, door prizes, and flash deals. Please bring a new, unwrapped toy donation for our holiday toy drive!",
    "verified": true,
    "id": "visi-2026-12-19-pictures-with-santa"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Wreaths Across America 2026",
+   "date": "2026-12-19",
+   "time": "",
+   "place": "25350 Highway H, Waynesville, MO, United States, Missouri 65583",
+   "town": "Waynesville",
+   "url": "https://allevents.in/waynesville/wreaths-across-america-2026/200031079799748",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-19-wreaths-across-america-2026"
   },
   {
    "source": "AllEvents",
@@ -3947,6 +3903,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "Jerry & Kayne",
+   "date": "2026-12-19",
+   "time": "",
+   "place": "3076 Bagnell Dam Blvd, 65049",
+   "town": "Lake Ozark",
+   "url": "https://allevents.in/lake-ozark/jerry-and-kayne/200031084940705",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-19-jerry-kayne"
+  },
+  {
+   "source": "AllEvents",
    "title": "CLIFFHANGER BOOKS, BOOK EXCHANGE",
    "date": "2026-12-19",
    "time": "",
@@ -3980,6 +3948,18 @@
    "desc": "",
    "verified": true,
    "id": "alle-2026-12-19-gary-betty-55th-anniversary-celebratio"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Christmas Giving Post Office: handmake Christmas gifts in a workshop, write a card, and be festive!",
+   "date": "2026-12-19",
+   "time": "",
+   "place": "961 S Elm St, Marshfield, MO, United States, Missouri 65706",
+   "town": "Marshfield",
+   "url": "https://allevents.in/marshfield/christmas-giving-post-office-handmake-christmas-gifts-in-a-workshop-write-a-card-and-be-festive/200031082225854",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-19-christmas-giving-post-office-handmake-c"
   },
   {
    "source": "AllEvents",
@@ -4139,6 +4119,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "The Encore Lakeside Grill & Sky Bar Presents: Krista Meadows",
+   "date": "2026-12-31",
+   "time": "",
+   "place": "3076 Bagnell Dam Blvd, 65049",
+   "town": "Lake Ozark",
+   "url": "https://allevents.in/lake-ozark/the-encore-lakeside-grill-and-sky-bar-presents-krista-meadows/200031084940906",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2026-12-31-the-encore-lakeside-grill-sky-bar-pres"
+  },
+  {
+   "source": "AllEvents",
    "title": "New Years Party",
    "date": "2026-12-31",
    "time": "",
@@ -4272,6 +4264,18 @@
   },
   {
    "source": "AllEvents",
+   "title": "January Pokemon TCG League Challenge",
+   "date": "2027-01-09",
+   "time": "",
+   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/january-pokemon-tcg-league-challenge/200031085107427",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2027-01-09-january-pokemon-tcg-league-challenge"
+  },
+  {
+   "source": "AllEvents",
    "title": "Open House",
    "date": "2027-01-11",
    "time": "",
@@ -4281,6 +4285,30 @@
    "desc": "",
    "verified": true,
    "id": "alle-2027-01-11-open-house"
+  },
+  {
+   "source": "AllEvents",
+   "title": "The Old Home Place presents HumbleTown",
+   "date": "2027-01-14",
+   "time": "",
+   "place": "101 S Maple, Buffalo, MO, United States, Missouri 65622",
+   "town": "Buffalo",
+   "url": "https://allevents.in/buffalo/the-old-home-place-presents-humbletown/200031077348431",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2027-01-14-the-old-home-place-presents-humbletown"
+  },
+  {
+   "source": "AllEvents",
+   "title": "Pokemon TCG League Cup",
+   "date": "2027-01-16",
+   "time": "",
+   "place": "173 South Business 5, Camdenton, MO, United States, Missouri 65020",
+   "town": "Camdenton",
+   "url": "https://allevents.in/camdenton/pokemon-tcg-league-cup/200031085106520",
+   "desc": "",
+   "verified": true,
+   "id": "alle-2027-01-16-pokemon-tcg-league-cup"
   }
  ]
 }
